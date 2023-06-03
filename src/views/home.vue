@@ -69,7 +69,7 @@
             ever-changing threat landscape using the latest tools and
             technologies. As a Cyber Security Specialist, it&apos;s also my
             passion to continue growing and to keep the work fun.
-            <span v-html="rawww0t"></span>
+            <span v-html="rawyk94"></span>
           </span>
         </span>
         <div class="home-cta-btn-container">
@@ -192,26 +192,11 @@
           <img alt="image" src="/logo-white.svg" class="home-image2" />
           <span class="home-text18">Home Automation, Ongoing</span>
         </div>
-        <div class="home-container05">
-          <img
-            alt="image"
-            src="/screenshot%202023-06-03%20134012-200h.png"
-            class="home-image3"
-          />
-          <span class="home-text19">
-            <span>New Home Lab, K3&apos;s + RancherOS.</span>
-            <br />
-            <span>Goals: Low Power, containerized hosted services.</span>
-            <br />
-            <br />
-            <span>Estimated Early 2024</span>
-          </span>
-        </div>
       </div>
     </div>
     <div class="home-badges">
-      <strong class="home-text26">
-        <span class="home-text27">Badges</span>
+      <strong class="home-text19">
+        <span class="home-text20">Badges</span>
         <br />
       </strong>
       <div class="home-cards-container">
@@ -220,97 +205,182 @@
             <img
               alt="image"
               src="/aws-certified-solutions-architect-associate-300h.png"
-              class="home-image4"
+              class="home-image3"
             />
           </div>
         </div>
         <div class="home-card1">
           <div class="home-icon-container1">
-            <img alt="image" src="/ccna%20r%26s-1100w.jpg" class="home-image5" />
+            <img alt="image" src="/ccna%20r%26s-1100w.jpg" class="home-image4" />
           </div>
         </div>
         <div class="home-card2">
           <div class="home-icon-container2">
-            <img alt="image" src="/aplus.svg" class="home-image6" />
+            <img alt="image" src="/aplus.svg" class="home-image5" />
           </div>
         </div>
       </div>
     </div>
     <div class="home-experience">
+      <strong class="home-text22">
+        <span class="home-text23">Experience</span>
+        <br />
+      </strong>
       <div class="home-pricing-card-container">
         <div class="home-card3">
           <div class="home-card-heading">
-            <div class="home-container06">
+            <div class="home-container05">
               <span class="home-price">
                 <span>Security Specialist</span>
                 <br />
               </span>
-              <span class="home-price1">
+              <span class="home-price01">
                 <span>Office Solutions IT</span>
                 <br />
               </span>
             </div>
           </div>
           <div class="home-card-content">
+            <div class="home-container06">
+              <span class="home-text29 Card-Text">Feature four</span>
+              <span class="home-text30 Card-Text">UNLIMITED</span>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="home-pricing-card-container1">
+        <div class="home-card4">
+          <div class="home-card-heading1">
             <div class="home-container07">
-              <span class="home-text33 Card-Text">Feature four</span>
-              <span class="home-text34 Card-Text">UNLIMITED</span>
+              <span class="home-price02">
+                <span>IT Manager</span>
+                <br />
+              </span>
+              <span class="home-price03">
+                <span>Office Solutions IT</span>
+                <br />
+              </span>
+            </div>
+          </div>
+          <div class="home-card-content1">
+            <div class="home-container08">
+              <span class="home-text35 Card-Text">Feature four</span>
+              <span class="home-text36 Card-Text">UNLIMITED</span>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="home-pricing-card-container2">
+        <div class="home-card5">
+          <div class="home-card-heading2">
+            <div class="home-container09">
+              <span class="home-price04">Project Engineer</span>
+              <span class="home-price05">
+                <span>Office Solutions IT</span>
+                <br />
+              </span>
+            </div>
+          </div>
+          <div class="home-card-content2">
+            <div class="home-container10">
+              <span class="home-text39 Card-Text">Feature four</span>
+              <span class="home-text40 Card-Text">UNLIMITED</span>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="home-pricing-card-container3">
+        <div class="home-card6">
+          <div class="home-card-heading3">
+            <div class="home-container11">
+              <span class="home-price06">
+                <span>Systems Engineer</span>
+                <br />
+              </span>
+              <span class="home-price07">
+                <span>Office Solutions IT</span>
+                <br />
+              </span>
+            </div>
+          </div>
+          <div class="home-card-content3">
+            <div class="home-container12">
+              <span class="home-text45 Card-Text">Feature four</span>
+              <span class="home-text46 Card-Text">UNLIMITED</span>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="home-pricing-card-container4">
+        <div class="home-card7">
+          <div class="home-card-heading4">
+            <div class="home-container13">
+              <span class="home-price08">
+                <span>Systems Engineer</span>
+                <br />
+              </span>
+              <span class="home-price09">
+                <span>ActivIT Systems</span>
+                <br />
+              </span>
+            </div>
+          </div>
+          <div class="home-card-content4">
+            <div class="home-container14">
+              <span class="home-text51 Card-Text">Feature four</span>
+              <span class="home-text52 Card-Text">UNLIMITED</span>
             </div>
           </div>
         </div>
       </div>
     </div>
-    <h1 class="home-text35">
-      <span class="Section-Heading home-text36">...Some Career Stats</span>
-      <br />
-    </h1>
     <div class="home-career-stats-and-contacts">
       <div class="home-stats">
         <div class="home-stat">
-          <h1 class="home-text38">800+</h1>
-          <span class="home-text39">Happy clients</span>
+          <h1 class="home-text53">800+</h1>
+          <span class="home-text54">Happy clients</span>
         </div>
         <div class="home-stat1">
-          <h1 class="home-text40">200+</h1>
-          <span class="home-text41">Projects Delivered</span>
+          <h1 class="home-text55">200+</h1>
+          <span class="home-text56">Projects Delivered</span>
         </div>
         <div class="home-stat2">
-          <h1 class="home-text42">12</h1>
-          <span class="home-text43">
-            <span class="home-text44">Years in Industry</span>
+          <h1 class="home-text57">12</h1>
+          <span class="home-text58">
+            <span class="home-text59">Years in Industry</span>
             <br />
           </span>
         </div>
         <div class="home-stat3">
-          <h1 class="home-text46">~150</h1>
-          <span class="home-text47">Engineer/Tech colleagues</span>
+          <h1 class="home-text61">~150</h1>
+          <span class="home-text62">Engineer/Tech colleagues</span>
         </div>
       </div>
       <div class="home-footer">
-        <div class="home-container08"></div>
-        <span class="home-text48">
-          <span class="home-text49">Get in contact...</span>
+        <div class="home-container15"></div>
+        <span class="home-text63">
+          <span class="home-text64">Get in contact...</span>
           <br />
           <br />
           <br />
           <br />
         </span>
-        <div class="home-container09">
+        <div class="home-container16">
           <div class="home-contact">
-            <span class="home-text54">
-              <span class="home-text55">Email:</span>
+            <span class="home-text69">
+              <span class="home-text70">Email:</span>
               <span>Joshbarr52@gmail.com</span>
               <br />
-              <span class="home-text58">Medium:</span>
+              <span class="home-text73">Medium:</span>
               <span>
                 site
-                <span v-html="rawemrc"></span>
+                <span v-html="raw7g8s"></span>
               </span>
               <br />
-              <span class="home-text61">Linkedin:</span>
+              <span class="home-text76">Linkedin:</span>
               <span>
                 https://www.linkedin.com/in/joshua-barr-03049a10b/
-                <span v-html="rawwdu6"></span>
+                <span v-html="rawo1i9"></span>
               </span>
               <br />
             </span>
@@ -351,9 +421,9 @@ export default {
   },
   data() {
     return {
-      rawww0t: ' ',
-      rawemrc: ' ',
-      rawwdu6: ' ',
+      rawyk94: ' ',
+      raw7g8s: ' ',
+      rawo1i9: ' ',
     }
   },
   metaInfo: {
@@ -522,7 +592,6 @@ export default {
   padding-left: var(--dl-space-space-tripleunit);
   padding-right: var(--dl-space-space-tripleunit);
   flex-direction: column;
-  padding-bottom: var(--dl-space-space-doubleunit);
   justify-content: center;
   background-color: var(--dl-color-light-background);
 }
@@ -574,9 +643,8 @@ export default {
   width: 1120px;
   display: flex;
   max-width: var(--dl-size-size-maxcontent);
-  margin-top: var(--dl-space-space-fiveunits);
   align-items: center;
-  padding-top: var(--dl-space-space-fiveunits);
+  padding-top: 1px;
   padding-left: var(--dl-space-space-tripleunit);
   border-radius: 10px;
   padding-right: var(--dl-space-space-tripleunit);
@@ -632,7 +700,6 @@ export default {
   display: flex;
   max-width: var(--dl-size-size-maxcontent);
   align-items: center;
-  padding-top: var(--dl-space-space-doubleunit);
   padding-left: var(--dl-space-space-tripleunit);
   margin-bottom: 21px;
   padding-right: var(--dl-space-space-tripleunit);
@@ -661,6 +728,7 @@ export default {
   flex: 0 0 auto;
   display: flex;
   align-items: center;
+  margin-left: 10%;
   flex-direction: column;
   padding-bottom: var(--dl-space-space-doubleunit);
   justify-content: center;
@@ -694,6 +762,7 @@ export default {
   flex: 0 0 auto;
   display: flex;
   align-items: center;
+  margin-right: 10%;
   flex-direction: column;
   padding-bottom: var(--dl-space-space-doubleunit);
   justify-content: center;
@@ -706,31 +775,12 @@ export default {
 .home-text18 {
   color: var(--dl-color-gray-white);
 }
-.home-container05 {
-  width: 265px;
-  display: flex;
-  align-items: center;
-  flex-direction: column;
-  padding-bottom: var(--dl-space-space-doubleunit);
-  justify-content: center;
-}
-.home-image3 {
-  width: 240px;
-  height: 60px;
-  object-fit: cover;
-}
-.home-text19 {
-  color: var(--dl-color-gray-white);
-  align-self: center;
-  text-align: center;
-}
 .home-badges {
   width: 1122px;
   display: flex;
   max-width: var(--dl-size-size-maxcontent);
   margin-top: 1px;
   align-items: center;
-  padding-top: 13px;
   border-color: var(--dl-color-light-background);
   border-width: 1px;
   padding-left: var(--dl-space-space-tripleunit);
@@ -739,7 +789,7 @@ export default {
   flex-direction: column;
   background-color: var(--dl-color-light-colour1);
 }
-.home-text26 {
+.home-text19 {
   color: var(--dl-color-gray-white);
   margin: var(--dl-space-space-tripleunit);
   font-size: 34px;
@@ -751,7 +801,7 @@ export default {
 }
 .home-cards-container {
   width: 100%;
-  height: 246px;
+  height: 237px;
   display: flex;
   flex-wrap: wrap;
   align-items: flex-start;
@@ -762,7 +812,6 @@ export default {
   width: 30%;
   display: flex;
   align-items: center;
-  padding-top: var(--dl-space-space-doubleunit);
   padding-left: var(--dl-space-space-doubleunit);
   margin-bottom: var(--dl-space-space-fourunits);
   padding-right: var(--dl-space-space-doubleunit);
@@ -777,7 +826,7 @@ export default {
   margin-bottom: var(--dl-space-space-tripleunit);
   flex-direction: column;
 }
-.home-image4 {
+.home-image3 {
   width: 200px;
   object-fit: cover;
 }
@@ -785,7 +834,6 @@ export default {
   width: 30%;
   display: flex;
   align-items: center;
-  padding-top: var(--dl-space-space-doubleunit);
   padding-left: var(--dl-space-space-doubleunit);
   margin-bottom: var(--dl-space-space-fourunits);
   padding-right: var(--dl-space-space-doubleunit);
@@ -800,7 +848,7 @@ export default {
   margin-bottom: var(--dl-space-space-tripleunit);
   flex-direction: column;
 }
-.home-image5 {
+.home-image4 {
   width: 80%;
   height: 100%;
   object-fit: cover;
@@ -810,7 +858,6 @@ export default {
   width: 30%;
   display: flex;
   align-items: center;
-  padding-top: var(--dl-space-space-doubleunit);
   padding-left: var(--dl-space-space-doubleunit);
   margin-bottom: var(--dl-space-space-fourunits);
   padding-right: var(--dl-space-space-doubleunit);
@@ -825,7 +872,7 @@ export default {
   margin-bottom: var(--dl-space-space-tripleunit);
   flex-direction: column;
 }
-.home-image6 {
+.home-image5 {
   width: 200px;
   object-fit: cover;
 }
@@ -833,11 +880,21 @@ export default {
   width: 100%;
   display: flex;
   max-width: var(--dl-size-size-maxcontent);
-  margin-top: var(--dl-space-space-fiveunits);
+  margin-top: 1px;
   align-items: center;
-  padding-top: 45px;
+  padding-top: 1px;
   flex-direction: column;
   padding-bottom: var(--dl-space-space-fiveunits);
+}
+.home-text22 {
+  color: var(--dl-color-gray-white);
+  margin: var(--dl-space-space-tripleunit);
+  font-size: 34px;
+  margin-top: var(--dl-space-space-fourunits);
+  font-family: Nunito;
+  margin-left: var(--dl-space-space-fourunits);
+  margin-right: var(--dl-space-space-fourunits);
+  margin-bottom: var(--dl-space-space-fourunits);
 }
 .home-pricing-card-container {
   width: 100%;
@@ -874,7 +931,7 @@ export default {
   border-bottom-left-radius: 0;
   border-bottom-right-radius: 0;
 }
-.home-container06 {
+.home-container05 {
   width: 100%;
   height: 100%;
   display: flex;
@@ -885,7 +942,7 @@ export default {
   font-size: 30px;
   font-family: Nunito;
 }
-.home-price1 {
+.home-price01 {
   font-size: 18px;
   font-family: Nunito;
   margin-left: 50%;
@@ -900,7 +957,7 @@ export default {
   padding-bottom: var(--dl-space-space-fiveunits);
   justify-content: center;
 }
-.home-container07 {
+.home-container06 {
   width: 100%;
   display: flex;
   align-items: center;
@@ -909,20 +966,315 @@ export default {
   padding-bottom: var(--dl-space-space-doubleunit);
   justify-content: space-between;
 }
-.home-text33 {
+.home-text29 {
   color: var(--dl-color-gray-white);
 }
-.home-text34 {
+.home-text30 {
   color: var(--dl-color-gray-white);
+}
+.home-pricing-card-container1 {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  align-self: center;
+  margin-top: var(--dl-space-space-doubleunit);
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: center;
+}
+.home-card4 {
+  width: 90%;
+  display: flex;
+  min-width: 350px;
+  align-self: center;
+  align-items: center;
+  border-color: var(--dl-color-gray-900);
+  border-width: 1px;
+  border-radius: var(--dl-radius-radius-radius8);
+  flex-direction: column;
+}
+.home-card-heading1 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  padding-top: var(--dl-space-space-unit);
+  padding-left: var(--dl-space-space-unit);
+  border-radius: var(--dl-radius-radius-radius8);
+  padding-right: var(--dl-space-space-unit);
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-unit);
+  background-color: var(--dl-color-light-color4);
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+.home-container07 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.home-price02 {
+  font-size: 30px;
+  font-family: Nunito;
+}
+.home-price03 {
+  font-size: 18px;
+  font-family: Nunito;
+  margin-left: 50%;
+}
+.home-card-content1 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  padding-left: var(--dl-space-space-tripleunit);
+  padding-right: var(--dl-space-space-tripleunit);
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-fiveunits);
+  justify-content: center;
+}
+.home-container08 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  padding-top: var(--dl-space-space-doubleunit);
+  flex-direction: row;
+  padding-bottom: var(--dl-space-space-doubleunit);
+  justify-content: space-between;
 }
 .home-text35 {
-  color: rgb(255, 124, 76);
+  color: var(--dl-color-gray-white);
+}
+.home-text36 {
+  color: var(--dl-color-gray-white);
+}
+.home-pricing-card-container2 {
   width: 100%;
-  height: 62px;
+  display: flex;
+  flex-wrap: wrap;
   align-self: center;
-  text-align: center;
+  margin-top: var(--dl-space-space-doubleunit);
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: center;
+}
+.home-card5 {
+  width: 90%;
+  display: flex;
+  min-width: 350px;
+  align-self: center;
+  align-items: center;
+  border-color: var(--dl-color-gray-900);
+  border-width: 1px;
+  border-radius: var(--dl-radius-radius-radius8);
+  flex-direction: column;
+}
+.home-card-heading2 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  padding-top: var(--dl-space-space-unit);
+  padding-left: var(--dl-space-space-unit);
+  border-radius: var(--dl-radius-radius-radius8);
+  padding-right: var(--dl-space-space-unit);
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-unit);
+  background-color: var(--dl-color-light-color4);
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+.home-container09 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.home-price04 {
+  font-size: 30px;
+  font-family: Nunito;
+}
+.home-price05 {
+  font-size: 18px;
+  font-family: Nunito;
+  margin-left: 50%;
+}
+.home-card-content2 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  padding-left: var(--dl-space-space-tripleunit);
+  padding-right: var(--dl-space-space-tripleunit);
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-fiveunits);
+  justify-content: center;
+}
+.home-container10 {
+  width: 100%;
+  display: flex;
+  align-items: center;
   padding-top: var(--dl-space-space-doubleunit);
-  background-color: var(--dl-color-light-background);
+  flex-direction: row;
+  padding-bottom: var(--dl-space-space-doubleunit);
+  justify-content: space-between;
+}
+.home-text39 {
+  color: var(--dl-color-gray-white);
+}
+.home-text40 {
+  color: var(--dl-color-gray-white);
+}
+.home-pricing-card-container3 {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  align-self: center;
+  margin-top: var(--dl-space-space-doubleunit);
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: center;
+}
+.home-card6 {
+  width: 90%;
+  display: flex;
+  min-width: 350px;
+  align-self: center;
+  align-items: center;
+  border-color: var(--dl-color-gray-900);
+  border-width: 1px;
+  border-radius: var(--dl-radius-radius-radius8);
+  flex-direction: column;
+}
+.home-card-heading3 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  padding-top: var(--dl-space-space-unit);
+  padding-left: var(--dl-space-space-unit);
+  border-radius: var(--dl-radius-radius-radius8);
+  padding-right: var(--dl-space-space-unit);
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-unit);
+  background-color: var(--dl-color-light-color4);
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+.home-container11 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.home-price06 {
+  font-size: 30px;
+  font-family: Nunito;
+}
+.home-price07 {
+  font-size: 18px;
+  font-family: Nunito;
+  margin-left: 50%;
+}
+.home-card-content3 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  padding-left: var(--dl-space-space-tripleunit);
+  padding-right: var(--dl-space-space-tripleunit);
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-fiveunits);
+  justify-content: center;
+}
+.home-container12 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  padding-top: var(--dl-space-space-doubleunit);
+  flex-direction: row;
+  padding-bottom: var(--dl-space-space-doubleunit);
+  justify-content: space-between;
+}
+.home-text45 {
+  color: var(--dl-color-gray-white);
+}
+.home-text46 {
+  color: var(--dl-color-gray-white);
+}
+.home-pricing-card-container4 {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  align-self: center;
+  margin-top: var(--dl-space-space-doubleunit);
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: center;
+}
+.home-card7 {
+  width: 90%;
+  display: flex;
+  min-width: 350px;
+  align-self: center;
+  align-items: center;
+  border-color: var(--dl-color-gray-900);
+  border-width: 1px;
+  border-radius: var(--dl-radius-radius-radius8);
+  flex-direction: column;
+}
+.home-card-heading4 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  padding-top: var(--dl-space-space-unit);
+  padding-left: var(--dl-space-space-unit);
+  border-radius: var(--dl-radius-radius-radius8);
+  padding-right: var(--dl-space-space-unit);
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-unit);
+  background-color: var(--dl-color-light-color4);
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+.home-container13 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.home-price08 {
+  font-size: 30px;
+  font-family: Nunito;
+}
+.home-price09 {
+  font-size: 18px;
+  font-family: Nunito;
+  margin-left: 50%;
+}
+.home-card-content4 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  padding-left: var(--dl-space-space-tripleunit);
+  padding-right: var(--dl-space-space-tripleunit);
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-fiveunits);
+  justify-content: center;
+}
+.home-container14 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  padding-top: var(--dl-space-space-doubleunit);
+  flex-direction: row;
+  padding-bottom: var(--dl-space-space-doubleunit);
+  justify-content: space-between;
+}
+.home-text51 {
+  color: var(--dl-color-gray-white);
+}
+.home-text52 {
+  color: var(--dl-color-gray-white);
 }
 .home-career-stats-and-contacts {
   width: 100%;
@@ -945,11 +1297,11 @@ export default {
   align-items: center;
   flex-direction: column;
 }
-.home-text38 {
+.home-text53 {
   color: rgb(255, 124, 76);
   font-size: 3rem;
 }
-.home-text39 {
+.home-text54 {
   color: var(--dl-color-gray-white);
   font-size: 1.15rem;
   margin-top: var(--dl-space-space-halfunit);
@@ -960,11 +1312,11 @@ export default {
   align-items: center;
   flex-direction: column;
 }
-.home-text40 {
+.home-text55 {
   color: rgb(255, 124, 76);
   font-size: 3rem;
 }
-.home-text41 {
+.home-text56 {
   color: var(--dl-color-gray-white);
   font-size: 1.15rem;
   margin-top: var(--dl-space-space-halfunit);
@@ -975,11 +1327,11 @@ export default {
   align-items: center;
   flex-direction: column;
 }
-.home-text42 {
+.home-text57 {
   color: rgb(255, 124, 76);
   font-size: 3rem;
 }
-.home-text43 {
+.home-text58 {
   color: var(--dl-color-gray-white);
   font-size: 1.15rem;
   margin-top: var(--dl-space-space-halfunit);
@@ -990,11 +1342,11 @@ export default {
   align-items: center;
   flex-direction: column;
 }
-.home-text46 {
+.home-text61 {
   color: rgb(255, 124, 76);
   font-size: 3rem;
 }
-.home-text47 {
+.home-text62 {
   color: var(--dl-color-gray-white);
   font-size: 1.15rem;
   margin-top: var(--dl-space-space-halfunit);
@@ -1017,23 +1369,23 @@ export default {
   justify-content: space-between;
   background-color: var(--dl-color-light-color4);
 }
-.home-container08 {
+.home-container15 {
   border: 2px dashed rgba(120, 120, 120, 0.4);
   display: flex;
   align-items: flex-start;
   flex-direction: column;
   justify-content: flex-start;
 }
-.home-text48 {
+.home-text63 {
   align-self: flex-start;
   font-weight: 700;
   margin-left: 10%;
   margin-bottom: 24px;
 }
-.home-text49 {
+.home-text64 {
   font-size: 36px;
 }
-.home-container09 {
+.home-container16 {
   width: 60%;
   display: flex;
   align-items: flex-start;
@@ -1049,18 +1401,18 @@ export default {
   flex-direction: column;
   justify-content: flex-start;
 }
-.home-text54 {
+.home-text69 {
   align-self: flex-start;
   text-align: left;
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text55 {
+.home-text70 {
   font-weight: 700;
 }
-.home-text58 {
+.home-text73 {
   font-weight: 700;
 }
-.home-text61 {
+.home-text76 {
   font-weight: 700;
 }
 .home-socials {
@@ -1142,27 +1494,47 @@ export default {
   .home-badges {
     width: 90%;
   }
-  .home-text26 {
+  .home-text19 {
     align-self: center;
     text-align: left;
   }
-  .home-text27 {
+  .home-text20 {
+    align-self: center;
+    text-align: left;
+  }
+  .home-text22 {
+    align-self: center;
+    text-align: left;
+  }
+  .home-text23 {
     align-self: center;
     text-align: left;
   }
   .home-pricing-card-container {
     justify-content: center;
   }
-  .home-text38 {
+  .home-pricing-card-container1 {
+    justify-content: center;
+  }
+  .home-pricing-card-container2 {
+    justify-content: center;
+  }
+  .home-pricing-card-container3 {
+    justify-content: center;
+  }
+  .home-pricing-card-container4 {
+    justify-content: center;
+  }
+  .home-text53 {
     text-align: center;
   }
-  .home-text40 {
+  .home-text55 {
     text-align: center;
   }
-  .home-text42 {
+  .home-text57 {
     text-align: center;
   }
-  .home-text46 {
+  .home-text61 {
     text-align: center;
   }
 }
@@ -1207,30 +1579,24 @@ export default {
     width: 70%;
     margin-bottom: var(--dl-space-space-tripleunit);
   }
-  .home-text35 {
-    text-align: center;
-  }
-  .home-text36 {
-    text-align: center;
-  }
   .home-stats {
     padding-left: 32px;
     padding-right: 32px;
     grid-template-columns: 1fr 1fr;
   }
-  .home-text39 {
+  .home-text54 {
     text-align: center;
   }
-  .home-text41 {
+  .home-text56 {
     text-align: center;
   }
-  .home-text43 {
+  .home-text58 {
     text-align: center;
   }
-  .home-text44 {
+  .home-text59 {
     text-align: center;
   }
-  .home-text47 {
+  .home-text62 {
     text-align: center;
   }
 }
@@ -1264,16 +1630,6 @@ export default {
     width: 136px;
     height: 133px;
   }
-  .home-container05 {
-    width: 50%;
-  }
-  .home-image3 {
-    width: 205px;
-    height: 47px;
-  }
-  .home-text19 {
-    color: var(--dl-color-gray-white);
-  }
   .home-card {
     width: 100%;
   }
@@ -1283,7 +1639,19 @@ export default {
   .home-card2 {
     width: 100%;
   }
-  .home-price1 {
+  .home-price01 {
+    margin-left: 40%;
+  }
+  .home-price03 {
+    margin-left: 40%;
+  }
+  .home-price05 {
+    margin-left: 40%;
+  }
+  .home-price07 {
+    margin-left: 40%;
+  }
+  .home-price09 {
     margin-left: 40%;
   }
   .home-stats {
@@ -1293,16 +1661,16 @@ export default {
     padding-bottom: 32px;
     grid-template-columns: 1fr;
   }
-  .home-container08 {
+  .home-container15 {
     margin-top: 24px;
     align-items: flex-start;
     margin-bottom: 0px;
   }
-  .home-text48 {
+  .home-text63 {
     margin-left: 7%;
     margin-right: 2%;
   }
-  .home-container09 {
+  .home-container16 {
     margin-top: 2%;
     align-items: flex-start;
     margin-bottom: 0px;
@@ -1311,7 +1679,7 @@ export default {
     align-items: flex-start;
     margin-bottom: var(--dl-space-space-unit);
   }
-  .home-text54 {
+  .home-text69 {
     width: 60%;
   }
 }
