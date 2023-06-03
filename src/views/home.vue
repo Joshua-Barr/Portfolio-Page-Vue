@@ -16,11 +16,11 @@
         ></path>
       </svg>
       <div class="home-links-container">
-        <span class="home-link Navbar-Link">Experience</span>
-        <span class="home-link01">
+        <a href="#Experience" class="home-link Navbar-Link">Experience</a>
+        <a href="#Projects" class="home-link01">
           <span class="Navbar-Link">Projects</span>
           <br />
-        </span>
+        </a>
         <span class="home-link02">
           <span>Download Resume</span>
           <br />
@@ -65,18 +65,18 @@
             ever-changing threat landscape using the latest tools and
             technologies. As a Cyber Security Specialist, it&apos;s also my
             passion to continue growing and to keep the work fun.
-            <span v-html="rawyv1k"></span>
+            <span v-html="rawpq8s"></span>
           </span>
         </span>
         <div class="home-cta-btn-container">
-          <button class="home-cta-btn Anchor button">
+          <a href="#Contact" class="home-cta-btn Anchor button">
             <span class="home-text10">Get in Contact</span>
-          </button>
+          </a>
         </div>
       </div>
     </div>
     <div class="home-projects">
-      <strong class="home-text11">Projects</strong>
+      <strong id="Projects" class="home-text11">Projects</strong>
       <span class="home-text12">
         I love exploring cutting-edge technologies and building interactive
         applications and solutions for problems. Additionally my device
@@ -166,7 +166,7 @@
       </div>
     </div>
     <div class="home-in-progress">
-      <strong class="home-text13">In Progress</strong>
+      <strong id="In Progress" class="home-text13">In Progress</strong>
       <div class="home-logo-container">
         <div class="home-container02">
           <img
@@ -191,7 +191,7 @@
       </div>
     </div>
     <div class="home-experience">
-      <strong class="home-text17">
+      <strong id="Experience" class="home-text17">
         <span class="home-text18">Experience</span>
         <br />
       </strong>
@@ -304,7 +304,7 @@
       </div>
     </div>
     <div class="home-badges">
-      <strong class="home-text48">
+      <strong id="Badges" class="home-text48">
         <span class="home-text49">Badges</span>
         <br />
       </strong>
@@ -354,7 +354,7 @@
       </div>
       <div class="home-footer">
         <div class="home-container15"></div>
-        <span class="home-text61">
+        <span id="Contact" class="home-text61">
           <span class="home-text62">Get in contact...</span>
           <br />
           <br />
@@ -365,7 +365,7 @@
           <div class="home-contact">
             <span class="home-text67">
               <span class="home-text68">Email:</span>
-              <span><span v-html="rawj4yy"></span></span>
+              <span><span v-html="rawz4mx"></span></span>
               <a href="mailto:Joshbarr52@gmail.com?subject=Nice to e-meet you :)">
                 Joshbarr52@gmail.com
               </a>
@@ -373,7 +373,7 @@
               <span class="home-text71">Medium:</span>
               <span>
                 site
-                <span v-html="raw9yuv"></span>
+                <span v-html="rawawbu"></span>
               </span>
               <br />
               <span class="home-text74">Linkedin:</span>
@@ -425,9 +425,9 @@ export default {
   },
   data() {
     return {
-      rawyv1k: ' ',
-      rawj4yy: ' ',
-      raw9yuv: ' ',
+      rawpq8s: ' ',
+      rawz4mx: ' ',
+      rawawbu: ' ',
     }
   },
   metaInfo: {
@@ -507,11 +507,13 @@ export default {
   color: var(--dl-color-gray-white);
   align-self: center;
   margin-right: var(--dl-space-space-tripleunit);
+  text-decoration: none;
 }
 .home-link01 {
   color: var(--dl-color-gray-white);
   align-self: center;
   margin-right: var(--dl-space-space-tripleunit);
+  text-decoration: none;
 }
 .home-link02 {
   color: var(--dl-color-light-colour1);
@@ -633,6 +635,7 @@ export default {
   border-radius: var(--dl-radius-radius-radius8);
   padding-right: var(--dl-space-space-tenunits);
   padding-bottom: var(--dl-space-space-doubleunit);
+  text-decoration: none;
   background-color: var(--dl-color-light-color5);
 }
 .home-text10 {
