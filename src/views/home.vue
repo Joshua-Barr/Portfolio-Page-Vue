@@ -69,7 +69,7 @@
             ever-changing threat landscape using the latest tools and
             technologies. As a Cyber Security Specialist, it&apos;s also my
             passion to continue growing and to keep the work fun.
-            <span v-html="raw5u2g"></span>
+            <span v-html="rawc90g"></span>
           </span>
         </span>
         <div class="home-cta-btn-container">
@@ -286,13 +286,13 @@
               <span class="home-text67">Medium:</span>
               <span>
                 site
-                <span v-html="raws83a"></span>
+                <span v-html="rawavuc"></span>
               </span>
               <br />
               <span class="home-text70">Linkedin:</span>
               <span>
                 https://www.linkedin.com/in/joshua-barr-03049a10b/
-                <span v-html="raw30rh"></span>
+                <span v-html="rawnjki"></span>
               </span>
               <br />
             </span>
@@ -333,9 +333,9 @@ export default {
   },
   data() {
     return {
-      raw5u2g: ' ',
-      raws83a: ' ',
-      raw30rh: ' ',
+      rawc90g: ' ',
+      rawavuc: ' ',
+      rawnjki: ' ',
     }
   },
   metaInfo: {
@@ -495,7 +495,7 @@ export default {
 }
 .home-hero {
   width: 100%;
-  height: 478px;
+  height: 368px;
   display: flex;
   position: relative;
   max-width: var(--dl-size-size-maxcontent);
@@ -536,7 +536,8 @@ export default {
 }
 .home-cta-btn {
   color: var(--dl-color-gray-white);
-  width: 395px;
+  width: 297px;
+  height: 40px;
   text-align: center;
   margin-left: var(--dl-space-space-doubleunit);
   padding-top: var(--dl-space-space-doubleunit);
@@ -670,8 +671,8 @@ export default {
   justify-content: center;
 }
 .home-image2 {
-  width: 174px;
-  height: 160px;
+  width: 180px;
+  height: 162px;
   object-fit: cover;
 }
 .home-text18 {
@@ -1275,7 +1276,12 @@ export default {
     margin-left: var(--dl-space-space-doubleunit);
   }
   .home-hero-text-container {
-    width: 100%;
+    width: 90%;
+    margin-right: 5%;
+  }
+  .home-cta-btn {
+    width: 256px;
+    height: 42px;
   }
   .home-gallery {
     padding-top: 32px;
@@ -1286,8 +1292,24 @@ export default {
   .home-text15 {
     text-align: center;
   }
+  .home-image {
+    width: 128px;
+    height: 136px;
+  }
+  .home-image1 {
+    width: 120px;
+    height: 137px;
+  }
+  .home-image2 {
+    width: 136px;
+    height: 133px;
+  }
   .home-container05 {
     width: 50%;
+  }
+  .home-image3 {
+    width: 205px;
+    height: 47px;
   }
   .home-text19 {
     color: var(--dl-color-gray-white);
@@ -1307,6 +1329,9 @@ export default {
   .home-text30 {
     text-align: center;
   }
+  .home-price1 {
+    margin-left: 40%;
+  }
   .home-stats {
     padding-top: 32px;
     padding-left: var(--dl-space-space-unit);
@@ -1319,14 +1344,21 @@ export default {
     align-items: flex-start;
     margin-bottom: 0px;
   }
+  .home-text57 {
+    margin-left: 7%;
+    margin-right: 2%;
+  }
   .home-container12 {
-    margin-top: 24px;
+    margin-top: 2%;
     align-items: flex-start;
     margin-bottom: 0px;
   }
   .home-contact {
     align-items: flex-start;
     margin-bottom: var(--dl-space-space-unit);
+  }
+  .home-text63 {
+    width: 60%;
   }
 }
 </style>
