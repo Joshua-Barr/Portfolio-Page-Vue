@@ -47,6 +47,7 @@ export default {
   border-color: var(--dl-color-light-color5);
   border-width: 5px;
   border-radius: var(--dl-radius-radius-radius8);
+  background-color: var(--dl-color-gray-500);
 }
 .gallery-card1-text {
   align-self: flex-start;

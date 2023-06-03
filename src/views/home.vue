@@ -24,12 +24,12 @@
           <span class="Navbar-Link">Medium</span>
           <br />
         </span>
-        <span class="home-link1 Navbar-Link">Experience</span>
-        <span class="home-link2">
+        <span class="home-link01 Navbar-Link">Experience</span>
+        <span class="home-link02">
           <span class="Navbar-Link">Projects</span>
           <br />
         </span>
-        <span class="home-link3">Download Resume</span>
+        <span class="home-link03">Download Resume</span>
       </div>
       <div data-role="BurgerMenu" class="home-burger-menu">
         <svg viewBox="0 0 1024 1024" class="home-icon08">
@@ -39,7 +39,7 @@
         </svg>
       </div>
       <div data-role="MobileMenu" class="home-mobile-menu">
-        <div class="home-container1">
+        <div class="home-container01">
           <span class="Card-Heading home-heading1">Logo</span>
           <div data-role="CloseMobileMenu" class="home-close-menu">
             <svg viewBox="0 0 1024 1024" class="home-icon10">
@@ -50,9 +50,9 @@
           </div>
         </div>
         <div class="home-links-container1">
-          <span class="home-link4 Navbar-Link">About</span>
-          <span class="home-link5 Navbar-Link">Experience</span>
-          <span class="home-link6 Navbar-Link">Portofolio</span>
+          <span class="home-link04 Navbar-Link">About</span>
+          <span class="home-link05 Navbar-Link">Experience</span>
+          <span class="home-link06 Navbar-Link">Portofolio</span>
           <span class="Navbar-Link">Contact</span>
         </div>
       </div>
@@ -61,19 +61,21 @@
       <div class="home-hero-text-container">
         <h1 class="home-heading2 Section-Heading">c:\&gt; whoami</h1>
         <span class="home-text04">
+          <span>Hi my name is Joshua,</span>
+          <br />
           <span>I LOVE Information Security!!</span>
           <br />
           <span>
             My goal is to help businesses secure themselves against the
             ever-changing threat landscape using the latest tools and
             technologies. As a Cyber Security Specialist, it&apos;s also my
-            passion to continue growing and to make it fun.
-            <span v-html="raw7sen"></span>
+            passion to continue growing and to keep the work fun.
+            <span v-html="rawlihl"></span>
           </span>
         </span>
         <div class="home-cta-btn-container">
           <button class="home-cta-btn Anchor button">
-            <span class="home-text08">Get in Contact</span>
+            <span class="home-text10">Get in Contact</span>
           </button>
         </div>
       </div>
@@ -85,54 +87,100 @@
     </div>
     <div class="home-max-content-width-container">
       <div class="home-heading-container">
-        <h1 class="home-text09 Section-Heading">Projects</h1>
+        <h1 class="home-text11 Section-Heading">Projects</h1>
       </div>
-      <span class="home-text10">
+      <span class="home-text12">
         I love exploring cutting-edge technologies and building interactive
-        applications and solutions. Additionally, device vulnerability research
-        and other security related projects are also listed here. Feel free to
-        explore these projects.
+        applications and solutions for problems. Additionally, device
+        vulnerability research and security related projects are listed below.
+        Feel free to explore these projects and reach out to me if you&apos;d like
+        more information.
       </span>
       <div class="home-gallery">
-        <gallery-card1 rootClassName="rootClassName"></gallery-card1>
         <gallery-card1
-          image_src="https://images.unsplash.com/photo-1579551053957-ee77f9b970c7?ixid=Mnw5MTMyMXwwfDF8c2VhcmNofDQ2fHx3b29kc3xlbnwwfHx8fDE2MjY0NDc1ODg&amp;ixlib=rb-1.2.1&amp;w=1000"
+          rootClassName="rootClassName"
+          image_src="/screenshot%202023-06-03%20125652-1500h.png"
+          title="Arbitrage (Vue JS)"
+          subtitle="A Vue web application coded in Javascript that can be staticly hosted and runs fully client-side for odds calculations. Data is pulled live from the Odds-API https://the-odds-api.com/."
+        ></gallery-card1>
+        <gallery-card1
+          image_src="/screenshot%202023-06-03%20135152-1500h.png"
           rootClassName="rootClassName1"
+          subtitle="A React Web App with a custom Express.js API backend and a Python Web Scraper to pull live data from Yahoo Finance's website. The goal is to calculate fair price of businesses based on fundamentals."
+          title="VI App (React JS, Python)"
         ></gallery-card1>
         <gallery-card1
-          image_src="https://images.unsplash.com/photo-1425913397330-cf8af2ff40a1?ixid=Mnw5MTMyMXwwfDF8c2VhcmNofDN8fHdvb2RzfGVufDB8fHx8MTYyNjQ0NzU3Mw&amp;ixlib=rb-1.2.1&amp;w=1000"
+          image_src="/screenshot%202023-06-03%20134934-1500h.png"
           rootClassName="rootClassName2"
+          title="Optical Coherence Tomography Research"
+          subtitle="Helped in development of an inexpensive interferometer that measured sample thickness in the micron to mm range.  Used to verify its use for retina scanning."
         ></gallery-card1>
         <gallery-card1
-          image_src="https://images.unsplash.com/photo-1439853949127-fa647821eba0?ixid=Mnw5MTMyMXwwfDF8c2VhcmNofDE4fHxuYXR1cmV8ZW58MHx8fHwxNjI2NDQ3ODAw&amp;ixlib=rb-1.2.1&amp;w=1000"
+          image_src="/screenshot%202023-06-03%20131759-1500h.png"
           rootClassName="rootClassName3"
+          title="Vulnerability Research"
+          subtitle="Independently Verified and performed write-up on https://www.exploit-db.com/exploits/42331. Was able to confirm the exploits as listed do exist on two variants of the camera's firmware. Was able to use an inbuilt web form to upload a web shell browse files and enable ssh and gain root access."
         ></gallery-card1>
         <gallery-card1
-          image_src="https://images.unsplash.com/photo-1529948723647-8b7bd77b441c?ixid=Mnw5MTMyMXwwfDF8c2VhcmNofDExfHxjbGlmZnxlbnwwfHx8fDE2MjY0NDc4MjQ&amp;ixlib=rb-1.2.1&amp;w=1000"
+          image_src="/screenshot%202023-06-03%20131431-1500h.png"
           rootClassName="rootClassName4"
+          title="Mongo and Selenium (C#, Firewall Patching)"
+          subtitle="Using the power of Selenium to automate browser activities such as form filling, clicks and navigation. Used for automating data pull from multiple Sonicwalls at once and update a MongoDB with Firewall Information. Also used in production to patch Firewalls simultaneously from current CVE's."
         ></gallery-card1>
         <gallery-card1
-          image_src="https://images.unsplash.com/photo-1553570739-330b8db8a925?ixid=Mnw5MTMyMXwwfDF8c2VhcmNofDI0fHxvY2VhbnxlbnwwfHx8fDE2MjY0NDc4ODQ&amp;ixlib=rb-1.2.1&amp;w=1000"
+          image_src="/logo-white.svg"
           rootClassName="rootClassName5"
+          title="Local Only Home Automation"
+          subtitle="Goal: To automate all the things...        We are talking Sprinklers, Door Locks, Lights, TV's, Routers, Switches, Smart Speakers you name it.               How: via Home Assistant, All local, all VLAN'ed and firewalled with no external connections. This is a growing and ongoing project with much help from ESP32's."
         ></gallery-card1>
       </div>
     </div>
     <div class="home-clients">
       <div class="home-heading-container1">
-        <h1 class="home-text11 Section-Heading">In Progress</h1>
+        <h1 class="home-text13 Section-Heading">In Progress</h1>
       </div>
       <div class="home-logo-container">
-        <img alt="image" src="/default-img.svg" class="home-logo" />
-        <img alt="image" src="/default-img.svg" class="home-logo1" />
-        <img alt="image" src="/default-img.svg" class="home-logo2" />
-        <img alt="image" src="/default-img.svg" class="home-logo3" />
-        <img alt="image" src="/default-img.svg" class="home-logo4" />
+        <div class="home-container02">
+          <img
+            src="/cissp%20-%20square-200h.png"
+            alt="image"
+            class="home-image1"
+          />
+          <span class="home-text14">Estimated July 2023</span>
+        </div>
+        <div class="home-container03">
+          <img
+            src="/aws-certified-solutions-architect-professional-200h.png"
+            alt="image"
+            class="home-image2"
+          />
+          <span class="home-text15">Estimated Nov. 2023</span>
+        </div>
+        <div class="home-container04">
+          <img src="/logo-white.svg" alt="image" class="home-image3" />
+          <span class="home-text16">Home Automation, Ongoing</span>
+        </div>
+        <div class="home-container05">
+          <img
+            src="/screenshot%202023-06-03%20134012-200h.png"
+            alt="image"
+            class="home-image4"
+          />
+          <span class="home-text17">
+            <span>New Home Lab, K3&apos;s + RancherOS.</span>
+            <br />
+            <span>Goals: Low Power, containerized hosted services.</span>
+            <br />
+            <br />
+            <span>Estimated Early 2024</span>
+          </span>
+        </div>
       </div>
     </div>
     <div class="home-features">
       <div class="home-heading-container2">
-        <h2 class="home-text12">
-          <span class="Section-Heading home-text13">Badges</span>
+        <h2 class="home-text24">
+          <span class="Section-Heading home-text25">Badges</span>
           <br />
         </h2>
       </div>
@@ -142,57 +190,33 @@
             <img
               alt="image"
               src="/aws-certified-solutions-architect-associate-200h.png"
-              class="home-image1"
+              class="home-image5"
             />
-          </div>
-          <div class="home-content-container">
-            <span class="home-heading3 Card-Heading">Diagrams</span>
-            <span class="home-text15 Card-Text">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec
-              odio. Praesent libero. Sed cursus ante dapibus diam.c Sed nisi.
-              Nulla quis sem at nibh elementum imperdiet.
-            </span>
           </div>
         </div>
         <div class="home-card1">
           <div class="home-icon-container1">
-            <img alt="image" src="/ccna%20r%26s-1100w.jpg" class="home-image2" />
-          </div>
-          <div class="home-content-container1">
-            <span class="home-heading4 Card-Heading">Wireframes</span>
-            <span class="home-text16 Card-Text">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec
-              odio. Praesent libero. Sed cursus ante dapibus diam.c Sed nisi.
-              Nulla quis sem at nibh elementum imperdiet.
-            </span>
+            <img alt="image" src="/ccna%20r%26s-1100w.jpg" class="home-image6" />
           </div>
         </div>
         <div class="home-card2">
           <div class="home-icon-container2">
-            <img alt="image" src="/aplus.svg" class="home-image3" />
-          </div>
-          <div class="home-content-container2">
-            <span class="home-heading5 Card-Heading">Design</span>
-            <span class="home-text17 Card-Text">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec
-              odio. Praesent libero. Sed cursus ante dapibus diam.c Sed nisi.
-              Nulla quis sem at nibh elementum imperdiet.
-            </span>
+            <img alt="image" src="/aplus.svg" class="home-image7" />
           </div>
         </div>
       </div>
     </div>
     <div class="home-pricing">
       <div class="home-heading-container3">
-        <h1 class="home-text18">
-          <span class="Section-Heading home-text19">Experience</span>
+        <h1 class="home-text27">
+          <span class="Section-Heading home-text28">Experience</span>
           <br />
         </h1>
       </div>
       <div class="home-pricing-card-container">
         <div class="home-card3">
           <div class="home-card-heading">
-            <div class="home-container2">
+            <div class="home-container06">
               <span class="home-price">
                 <span>Security Specialist</span>
                 <br />
@@ -204,29 +228,28 @@
             </div>
           </div>
           <div class="home-card-content">
-            <div class="home-container3">
+            <div class="home-container07">
               <span class="Card-Text">Feature one</span>
-              <span class="home-text26 Card-Text">TBD</span>
+              <span class="home-text35 Card-Text">TBD</span>
             </div>
-            <div class="home-container4">
+            <div class="home-container08">
               <span class="Card-Text">Feature two</span>
-              <span class="home-text28 Card-Text">TBD</span>
+              <span class="home-text37 Card-Text">TBD</span>
             </div>
-            <div class="home-container5">
+            <div class="home-container09">
               <span class="Card-Text">Feature three</span>
-              <span class="home-text30 Card-Text">UNLIMITED</span>
+              <span class="home-text39 Card-Text">UNLIMITED</span>
             </div>
-            <div class="home-container6">
+            <div class="home-container10">
               <span class="Card-Text">Feature four</span>
-              <span class="home-text32 Card-Text">UNLIMITED</span>
+              <span class="home-text41 Card-Text">UNLIMITED</span>
             </div>
           </div>
         </div>
       </div>
     </div>
     <div class="home-subscribe">
-      <div class="home-container7">
-        <h1 class="home-text33 Section-Heading">Subscribe to my Medium</h1>
+      <div class="home-container11">
         <input
           type="text"
           required="true"
@@ -236,38 +259,82 @@
         <button class="home-button Anchor button">SEND</button>
       </div>
     </div>
-    <h1 class="home-text34">
-      <span class="home-text35 Section-Heading">Career Statistics</span>
+    <h1 class="home-text42">
+      <span class="Section-Heading home-text43">...Some Career Stats</span>
       <br />
     </h1>
     <div class="home-footer-container">
       <div class="home-stats">
         <div class="home-stat">
-          <h1 class="home-text37">800+</h1>
-          <span class="home-text38">Happy clients</span>
+          <h1 class="home-text45">800+</h1>
+          <span class="home-text46">Happy clients</span>
         </div>
         <div class="home-stat1">
-          <h1 class="home-text39">250+</h1>
-          <span class="home-text40">Projects Delivered</span>
+          <h1 class="home-text47">200+</h1>
+          <span class="home-text48">Projects Delivered</span>
         </div>
         <div class="home-stat2">
-          <h1 class="home-text41">12</h1>
-          <span class="home-text42">
-            <span class="home-text43">Years</span>
+          <h1 class="home-text49">12</h1>
+          <span class="home-text50">
+            <span class="home-text51">Years in Industry</span>
             <br />
           </span>
         </div>
         <div class="home-stat3">
-          <h1 class="home-text45">~150</h1>
-          <span class="home-text46">Engineer/Tech colleagues</span>
+          <h1 class="home-text53">~150</h1>
+          <span class="home-text54">Engineer/Tech colleagues</span>
         </div>
       </div>
       <div class="home-footer">
         <div class="home-copyright-container">
-          <span class="Anchor">Static Site Hosted in Azure, 2023</span>
+          <div class="home-container12">
+            <div class="home-contact">
+              <span class="home-text55">
+                <span class="home-text56">Reach out here...</span>
+                <br />
+                <br />
+                <br />
+                <br />
+              </span>
+              <span class="home-link08 Anchor">
+                Static Site Hosted in Azure, Built 2023
+              </span>
+            </div>
+          </div>
+        </div>
+        <div class="home-links-container">
+          <div class="home-container13"></div>
+          <div class="home-container14">
+            <div class="home-contact1">
+              <span class="home-text61">Contact Us</span>
+              <span class="home-text62">hello@teleporthq.io</span>
+              <span>+123 (4567) 890</span>
+            </div>
+            <div class="home-socials">
+              <span class="home-text64">Follow Us</span>
+              <div class="home-icon-group">
+                <svg viewBox="0 0 950.8571428571428 1024" class="home-icon12">
+                  <path
+                    d="M925.714 233.143c-25.143 36.571-56.571 69.143-92.571 95.429 0.571 8 0.571 16 0.571 24 0 244-185.714 525.143-525.143 525.143-104.571 0-201.714-30.286-283.429-82.857 14.857 1.714 29.143 2.286 44.571 2.286 86.286 0 165.714-29.143 229.143-78.857-81.143-1.714-149.143-54.857-172.571-128 11.429 1.714 22.857 2.857 34.857 2.857 16.571 0 33.143-2.286 48.571-6.286-84.571-17.143-148-91.429-148-181.143v-2.286c24.571 13.714 53.143 22.286 83.429 23.429-49.714-33.143-82.286-89.714-82.286-153.714 0-34.286 9.143-65.714 25.143-93.143 90.857 112 227.429 185.143 380.571 193.143-2.857-13.714-4.571-28-4.571-42.286 0-101.714 82.286-184.571 184.571-184.571 53.143 0 101.143 22.286 134.857 58.286 41.714-8 81.714-23.429 117.143-44.571-13.714 42.857-42.857 78.857-81.143 101.714 37.143-4 73.143-14.286 106.286-28.571z"
+                  ></path></svg
+                ><svg viewBox="0 0 877.7142857142857 1024" class="home-icon14">
+                  <path
+                    d="M585.143 512c0-80.571-65.714-146.286-146.286-146.286s-146.286 65.714-146.286 146.286 65.714 146.286 146.286 146.286 146.286-65.714 146.286-146.286zM664 512c0 124.571-100.571 225.143-225.143 225.143s-225.143-100.571-225.143-225.143 100.571-225.143 225.143-225.143 225.143 100.571 225.143 225.143zM725.714 277.714c0 29.143-23.429 52.571-52.571 52.571s-52.571-23.429-52.571-52.571 23.429-52.571 52.571-52.571 52.571 23.429 52.571 52.571zM438.857 152c-64 0-201.143-5.143-258.857 17.714-20 8-34.857 17.714-50.286 33.143s-25.143 30.286-33.143 50.286c-22.857 57.714-17.714 194.857-17.714 258.857s-5.143 201.143 17.714 258.857c8 20 17.714 34.857 33.143 50.286s30.286 25.143 50.286 33.143c57.714 22.857 194.857 17.714 258.857 17.714s201.143 5.143 258.857-17.714c20-8 34.857-17.714 50.286-33.143s25.143-30.286 33.143-50.286c22.857-57.714 17.714-194.857 17.714-258.857s5.143-201.143-17.714-258.857c-8-20-17.714-34.857-33.143-50.286s-30.286-25.143-50.286-33.143c-57.714-22.857-194.857-17.714-258.857-17.714zM877.714 512c0 60.571 0.571 120.571-2.857 181.143-3.429 70.286-19.429 132.571-70.857 184s-113.714 67.429-184 70.857c-60.571 3.429-120.571 2.857-181.143 2.857s-120.571 0.571-181.143-2.857c-70.286-3.429-132.571-19.429-184-70.857s-67.429-113.714-70.857-184c-3.429-60.571-2.857-120.571-2.857-181.143s-0.571-120.571 2.857-181.143c3.429-70.286 19.429-132.571 70.857-184s113.714-67.429 184-70.857c60.571-3.429 120.571-2.857 181.143-2.857s120.571-0.571 181.143 2.857c70.286 3.429 132.571 19.429 184 70.857s67.429 113.714 70.857 184c3.429 60.571 2.857 120.571 2.857 181.143z"
+                  ></path></svg
+                ><svg viewBox="0 0 602.2582857142856 1024" class="home-icon16">
+                  <path
+                    d="M548 6.857v150.857h-89.714c-70.286 0-83.429 33.714-83.429 82.286v108h167.429l-22.286 169.143h-145.143v433.714h-174.857v-433.714h-145.714v-169.143h145.714v-124.571c0-144.571 88.571-223.429 217.714-223.429 61.714 0 114.857 4.571 130.286 6.857z"
+                  ></path>
+                </svg>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </div>
+    <span class="home-link09 Anchor">
+      Static Site Hosted in Azure, Built 2023
+    </span>
   </div>
 </template>
 
@@ -281,7 +348,7 @@ export default {
   },
   data() {
     return {
-      raw7sen: ' ',
+      rawlihl: ' ',
     }
   },
   metaInfo: {
@@ -365,17 +432,17 @@ export default {
   align-self: center;
   margin-right: var(--dl-space-space-tripleunit);
 }
-.home-link1 {
+.home-link01 {
   color: var(--dl-color-gray-white);
   align-self: center;
   margin-right: var(--dl-space-space-tripleunit);
 }
-.home-link2 {
+.home-link02 {
   color: var(--dl-color-gray-white);
   align-self: center;
   margin-right: var(--dl-space-space-tripleunit);
 }
-.home-link3 {
+.home-link03 {
   color: var(--dl-color-light-background);
   padding: 8px;
   font-size: 24px;
@@ -409,7 +476,7 @@ export default {
   flex-direction: column;
   background-color: #fff;
 }
-.home-container1 {
+.home-container01 {
   flex: 0 0 auto;
   width: 100%;
   display: flex;
@@ -433,13 +500,13 @@ export default {
   align-items: flex-start;
   flex-direction: column;
 }
-.home-link4 {
+.home-link04 {
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-link5 {
+.home-link05 {
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-link6 {
+.home-link06 {
   margin-bottom: var(--dl-space-space-unit);
 }
 .home-hero {
@@ -490,7 +557,7 @@ export default {
   padding-bottom: var(--dl-space-space-doubleunit);
   background-color: var(--dl-color-light-color5);
 }
-.home-text08 {
+.home-text10 {
   color: var(--dl-color-gray-white);
 }
 .home-image {
@@ -523,12 +590,13 @@ export default {
   flex-direction: column;
   justify-content: center;
 }
-.home-text09 {
+.home-text11 {
   align-self: center;
   text-align: center;
 }
-.home-text10 {
+.home-text12 {
   color: var(--dl-color-gray-black);
+  font-size: 18px;
   font-family: Nunito;
   margin-left: var(--dl-space-space-fourunits);
   margin-right: var(--dl-space-space-fourunits);
@@ -564,7 +632,7 @@ export default {
   padding-right: var(--dl-space-space-tripleunit);
   flex-direction: column;
 }
-.home-text11 {
+.home-text13 {
   color: var(--dl-color-gray-white);
   margin-bottom: var(--dl-space-space-fourunits);
 }
@@ -576,30 +644,72 @@ export default {
   flex-direction: row;
   justify-content: space-between;
 }
-.home-logo {
-  width: 150px;
-  object-fit: cover;
-  margin-bottom: var(--dl-space-space-fourunits);
+.home-container02 {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-doubleunit);
+  justify-content: center;
 }
-.home-logo1 {
-  width: 150px;
+.home-image1 {
+  width: 155px;
+  height: 160px;
   object-fit: cover;
-  margin-bottom: var(--dl-space-space-fourunits);
 }
-.home-logo2 {
-  width: 150px;
-  object-fit: cover;
-  margin-bottom: var(--dl-space-space-fourunits);
+.home-text14 {
+  color: var(--dl-color-gray-white);
 }
-.home-logo3 {
-  width: 150px;
-  object-fit: cover;
-  margin-bottom: var(--dl-space-space-fourunits);
+.home-container03 {
+  flex: 0 0 auto;
+  width: 200px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-doubleunit);
+  justify-content: center;
 }
-.home-logo4 {
-  width: 150px;
+.home-image2 {
+  width: 165px;
+  height: 159px;
   object-fit: cover;
-  margin-bottom: var(--dl-space-space-fourunits);
+}
+.home-text15 {
+  color: var(--dl-color-gray-white);
+}
+.home-container04 {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-doubleunit);
+  justify-content: center;
+}
+.home-image3 {
+  width: 174px;
+  height: 160px;
+  object-fit: cover;
+}
+.home-text16 {
+  color: var(--dl-color-gray-white);
+}
+.home-container05 {
+  width: 265px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-doubleunit);
+  justify-content: center;
+}
+.home-image4 {
+  width: 240px;
+  height: 60px;
+  object-fit: cover;
+}
+.home-text17 {
+  color: var(--dl-color-gray-white);
+  align-self: center;
+  text-align: center;
 }
 .home-features {
   width: 1122px;
@@ -624,7 +734,7 @@ export default {
   margin-bottom: var(--dl-space-space-fiveunits);
   flex-direction: column;
 }
-.home-text12 {
+.home-text24 {
   color: var(--dl-color-gray-white);
   text-align: center;
   margin-bottom: var(--dl-space-space-fourunits);
@@ -656,22 +766,9 @@ export default {
   margin-bottom: var(--dl-space-space-tripleunit);
   flex-direction: column;
 }
-.home-image1 {
+.home-image5 {
   width: 200px;
   object-fit: cover;
-}
-.home-content-container {
-  display: flex;
-  align-items: center;
-  flex-direction: column;
-}
-.home-heading3 {
-  color: var(--dl-color-gray-white);
-  margin-bottom: var(--dl-space-space-tripleunit);
-}
-.home-text15 {
-  color: var(--dl-color-gray-white);
-  text-align: center;
 }
 .home-card1 {
   width: 30%;
@@ -692,24 +789,11 @@ export default {
   margin-bottom: var(--dl-space-space-tripleunit);
   flex-direction: column;
 }
-.home-image2 {
+.home-image6 {
   width: 80%;
   height: 100%;
   object-fit: cover;
   padding-top: var(--dl-space-space-fourunits);
-}
-.home-content-container1 {
-  display: flex;
-  align-items: center;
-  flex-direction: column;
-}
-.home-heading4 {
-  color: var(--dl-color-gray-white);
-  margin-bottom: var(--dl-space-space-tripleunit);
-}
-.home-text16 {
-  color: var(--dl-color-gray-white);
-  text-align: center;
 }
 .home-card2 {
   width: 30%;
@@ -730,22 +814,9 @@ export default {
   margin-bottom: var(--dl-space-space-tripleunit);
   flex-direction: column;
 }
-.home-image3 {
+.home-image7 {
   width: 200px;
   object-fit: cover;
-}
-.home-content-container2 {
-  display: flex;
-  align-items: center;
-  flex-direction: column;
-}
-.home-heading5 {
-  color: var(--dl-color-gray-white);
-  margin-bottom: var(--dl-space-space-tripleunit);
-}
-.home-text17 {
-  color: var(--dl-color-gray-white);
-  text-align: center;
 }
 .home-pricing {
   width: 100%;
@@ -767,7 +838,7 @@ export default {
   padding-right: var(--dl-space-space-tripleunit);
   flex-direction: column;
 }
-.home-text18 {
+.home-text27 {
   color: var(--dl-color-gray-white);
   margin-bottom: var(--dl-space-space-fourunits);
 }
@@ -806,7 +877,7 @@ export default {
   border-bottom-left-radius: 0;
   border-bottom-right-radius: 0;
 }
-.home-container2 {
+.home-container06 {
   flex: 0 0 auto;
   width: 100%;
   height: 100px;
@@ -833,7 +904,7 @@ export default {
   padding-bottom: var(--dl-space-space-fiveunits);
   justify-content: center;
 }
-.home-container3 {
+.home-container07 {
   width: 100%;
   display: flex;
   align-items: center;
@@ -847,10 +918,10 @@ export default {
   border-left-width: 0px;
   border-right-width: 0px;
 }
-.home-text26 {
+.home-text35 {
   color: var(--dl-color-gray-700);
 }
-.home-container4 {
+.home-container08 {
   width: 100%;
   display: flex;
   align-items: center;
@@ -864,10 +935,10 @@ export default {
   border-left-width: 0px;
   border-right-width: 0px;
 }
-.home-text28 {
+.home-text37 {
   color: var(--dl-color-gray-700);
 }
-.home-container5 {
+.home-container09 {
   width: 100%;
   display: flex;
   align-items: center;
@@ -881,10 +952,10 @@ export default {
   border-left-width: 0px;
   border-right-width: 0px;
 }
-.home-text30 {
+.home-text39 {
   color: var(--dl-color-gray-700);
 }
-.home-container6 {
+.home-container10 {
   width: 100%;
   display: flex;
   align-items: center;
@@ -893,7 +964,7 @@ export default {
   padding-bottom: var(--dl-space-space-doubleunit);
   justify-content: space-between;
 }
-.home-text32 {
+.home-text41 {
   color: var(--dl-color-gray-700);
 }
 .home-subscribe {
@@ -903,7 +974,7 @@ export default {
   flex-direction: row;
   justify-content: center;
 }
-.home-container7 {
+.home-container11 {
   width: 90%;
   display: flex;
   align-self: stretch;
@@ -914,13 +985,6 @@ export default {
   flex-direction: column;
   padding-bottom: var(--dl-space-space-fiveunits);
   justify-content: center;
-}
-.home-text33 {
-  color: var(--dl-color-gray-white);
-  width: 90%;
-  align-self: center;
-  text-align: center;
-  margin-bottom: var(--dl-space-space-fourunits);
 }
 .home-textinput {
   width: 50%;
@@ -943,22 +1007,14 @@ export default {
   padding-bottom: var(--dl-space-space-doubleunit);
   background-color: var(--dl-color-gray-black);
 }
-.home-text34 {
-  color: #FF7C4C;
+.home-text42 {
+  color: rgb(255, 124, 76);
   width: 100%;
   height: 62px;
   align-self: center;
   text-align: center;
   padding-top: var(--dl-space-space-doubleunit);
   background-color: var(--dl-color-light-color4);
-}
-.home-text35 {
-  font-size: 48px;
-  font-family: Overpass;
-  font-weight: 900;
-  line-height: 1.22;
-  text-transform: none;
-  text-decoration: none;
 }
 .home-footer-container {
   width: 100%;
@@ -982,11 +1038,11 @@ export default {
   align-items: center;
   flex-direction: column;
 }
-.home-text37 {
+.home-text45 {
   color: rgb(255, 124, 76);
   font-size: 3rem;
 }
-.home-text38 {
+.home-text46 {
   font-size: 1.15rem;
   margin-top: var(--dl-space-space-halfunit);
   text-align: center;
@@ -996,11 +1052,11 @@ export default {
   align-items: center;
   flex-direction: column;
 }
-.home-text39 {
+.home-text47 {
   color: rgb(255, 124, 76);
   font-size: 3rem;
 }
-.home-text40 {
+.home-text48 {
   font-size: 1.15rem;
   margin-top: var(--dl-space-space-halfunit);
   text-align: center;
@@ -1010,11 +1066,11 @@ export default {
   align-items: center;
   flex-direction: column;
 }
-.home-text41 {
+.home-text49 {
   color: rgb(255, 124, 76);
   font-size: 3rem;
 }
-.home-text42 {
+.home-text50 {
   font-size: 1.15rem;
   margin-top: var(--dl-space-space-halfunit);
   text-align: center;
@@ -1024,11 +1080,11 @@ export default {
   align-items: center;
   flex-direction: column;
 }
-.home-text45 {
+.home-text53 {
   color: rgb(255, 124, 76);
   font-size: 3rem;
 }
-.home-text46 {
+.home-text54 {
   font-size: 1.15rem;
   margin-top: var(--dl-space-space-halfunit);
   text-align: center;
@@ -1048,8 +1104,99 @@ export default {
 }
 .home-copyright-container {
   display: flex;
+  align-self: flex-end;
   align-items: center;
   flex-direction: row;
+}
+.home-container12 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.home-contact {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 24px;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.home-text55 {
+  font-weight: 700;
+  margin-bottom: 24px;
+}
+.home-text56 {
+  font-size: 36px;
+}
+.home-link08 {
+  align-self: flex-end;
+}
+.home-links-container {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.home-container13 {
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  display: flex;
+  align-items: flex-start;
+  margin-right: 10rem;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.home-container14 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.home-contact1 {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 24px;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.home-text61 {
+  font-weight: 700;
+  margin-bottom: 24px;
+}
+.home-text62 {
+  margin-bottom: var(--dl-space-space-unit);
+}
+.home-socials {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.home-text64 {
+  font-weight: 700;
+  margin-bottom: 24px;
+}
+.home-icon-group {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.home-icon12 {
+  width: 16px;
+  height: 16px;
+  margin-right: var(--dl-space-space-unit);
+}
+.home-icon14 {
+  width: 16px;
+  height: 16px;
+  margin-right: var(--dl-space-space-unit);
+}
+.home-icon16 {
+  width: 16px;
+  height: 16px;
+}
+.home-link09 {
+  align-self: flex-end;
 }
 @media(max-width: 991px) {
   .home-heading {
@@ -1083,7 +1230,7 @@ export default {
   .home-max-content-width-container {
     width: 90%;
   }
-  .home-text10 {
+  .home-text12 {
     align-self: center;
     text-align: left;
   }
@@ -1093,26 +1240,29 @@ export default {
   .home-features {
     width: 90%;
   }
-  .home-text12 {
+  .home-text24 {
     text-align: center;
   }
-  .home-text13 {
+  .home-text25 {
     text-align: center;
   }
   .home-pricing-card-container {
     justify-content: center;
   }
-  .home-text37 {
-    text-align: center;
-  }
-  .home-text39 {
-    text-align: center;
-  }
-  .home-text41 {
-    text-align: center;
-  }
   .home-text45 {
     text-align: center;
+  }
+  .home-text47 {
+    text-align: center;
+  }
+  .home-text49 {
+    text-align: center;
+  }
+  .home-text53 {
+    text-align: center;
+  }
+  .home-container13 {
+    margin-right: var(--dl-space-space-fourunits);
   }
 }
 @media(max-width: 767px) {
@@ -1120,7 +1270,10 @@ export default {
     position: relative;
   }
   .home-links-container {
-    display: none;
+    width: 100%;
+    align-items: flex-start;
+    flex-direction: row;
+    justify-content: center;
   }
   .home-burger-menu {
     display: flex;
@@ -1139,7 +1292,7 @@ export default {
   .home-heading-container {
     width: 100%;
   }
-  .home-text09 {
+  .home-text11 {
     text-align: center;
   }
   .home-gallery {
@@ -1174,12 +1327,9 @@ export default {
   .home-subscribe {
     flex-direction: column;
   }
-  .home-container7 {
+  .home-container11 {
     width: 100%;
     align-items: center;
-  }
-  .home-text33 {
-    text-align: center;
   }
   .home-textinput {
     width: 100%;
@@ -1187,10 +1337,10 @@ export default {
   .home-button {
     width: 70%;
   }
-  .home-text34 {
+  .home-text42 {
     text-align: center;
   }
-  .home-text35 {
+  .home-text43 {
     text-align: center;
   }
   .home-stats {
@@ -1198,20 +1348,23 @@ export default {
     padding-right: 32px;
     grid-template-columns: 1fr 1fr;
   }
-  .home-text38 {
-    text-align: center;
-  }
-  .home-text40 {
-    text-align: center;
-  }
-  .home-text42 {
-    text-align: center;
-  }
-  .home-text43 {
-    text-align: center;
-  }
   .home-text46 {
     text-align: center;
+  }
+  .home-text48 {
+    text-align: center;
+  }
+  .home-text50 {
+    text-align: center;
+  }
+  .home-text51 {
+    text-align: center;
+  }
+  .home-text54 {
+    text-align: center;
+  }
+  .home-container13 {
+    margin-right: var(--dl-space-space-fourunits);
   }
 }
 @media(max-width: 479px) {
@@ -1227,8 +1380,14 @@ export default {
     padding-right: var(--dl-space-space-unit);
     padding-bottom: 32px;
   }
-  .home-text11 {
+  .home-text13 {
     text-align: center;
+  }
+  .home-container05 {
+    width: 50%;
+  }
+  .home-text17 {
+    color: var(--dl-color-gray-white);
   }
   .home-card {
     width: 100%;
@@ -1239,13 +1398,13 @@ export default {
   .home-card2 {
     width: 100%;
   }
-  .home-text18 {
+  .home-text27 {
     text-align: center;
   }
-  .home-text19 {
+  .home-text28 {
     text-align: center;
   }
-  .home-container7 {
+  .home-container11 {
     padding-left: var(--dl-space-space-tripleunit);
     padding-right: var(--dl-space-space-tripleunit);
   }
@@ -1258,6 +1417,31 @@ export default {
     padding-right: var(--dl-space-space-unit);
     padding-bottom: 32px;
     grid-template-columns: 1fr;
+  }
+  .home-container12 {
+    margin-top: 24px;
+    align-items: flex-start;
+    margin-bottom: 0px;
+  }
+  .home-contact {
+    align-items: flex-start;
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .home-links-container {
+    align-items: center;
+    flex-direction: column;
+  }
+  .home-container13 {
+    margin-right: 0px;
+  }
+  .home-container14 {
+    margin-top: 24px;
+    align-items: flex-start;
+    margin-bottom: 0px;
+  }
+  .home-contact1 {
+    align-items: flex-start;
+    margin-bottom: var(--dl-space-space-unit);
   }
 }
 </style>
