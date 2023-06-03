@@ -65,7 +65,7 @@
             ever-changing threat landscape using the latest tools and
             technologies. As a Cyber Security Specialist, it&apos;s also my
             passion to continue growing and to keep the work fun.
-            <span v-html="rawnu89"></span>
+            <span v-html="rawjheo"></span>
           </span>
         </span>
         <div class="home-cta-btn-container">
@@ -76,7 +76,7 @@
       </div>
     </div>
     <div class="home-medium">
-      <strong class="home-heading3">Check out my Medium</strong>
+      <strong class="home-heading3">Check out Medium</strong>
       <div class="home-div">
         <DangerousHTML
           html="<div id='retainable-rss-embed' data-rss='https://medium.com/feed/retainable,https://medium.com/feed/vue-mastery'
@@ -381,7 +381,7 @@
           <div class="home-contact">
             <span class="home-text67">
               <span class="home-text68">Email:</span>
-              <span><span v-html="rawpn6k"></span></span>
+              <span><span v-html="rawxwbp"></span></span>
               <a href="mailto:Joshbarr52@gmail.com?subject=Nice to e-meet you :)">
                 Joshbarr52@gmail.com
               </a>
@@ -389,7 +389,7 @@
               <span class="home-text71">Medium:</span>
               <span>
                 site
-                <span v-html="rawt65a"></span>
+                <span v-html="rawdknl"></span>
               </span>
               <br />
               <span class="home-text74">Linkedin:</span>
@@ -444,9 +444,9 @@ export default {
   },
   data() {
     return {
-      rawnu89: ' ',
-      rawpn6k: ' ',
-      rawt65a: ' ',
+      rawjheo: ' ',
+      rawxwbp: ' ',
+      rawdknl: ' ',
     }
   },
   metaInfo: {
@@ -662,7 +662,7 @@ export default {
 }
 .home-medium {
   width: 100%;
-  height: 363px;
+  height: 370px;
   display: flex;
   position: relative;
   max-width: var(--dl-size-size-maxcontent);
