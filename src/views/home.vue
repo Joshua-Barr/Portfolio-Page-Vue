@@ -65,7 +65,7 @@
             ever-changing threat landscape using the latest tools and
             technologies. As a Cyber Security Specialist, it&apos;s also my
             passion to continue growing and to keep the work fun.
-            <span v-html="rawjheo"></span>
+            <span v-html="rawwas0"></span>
           </span>
         </span>
         <div class="home-cta-btn-container">
@@ -381,7 +381,7 @@
           <div class="home-contact">
             <span class="home-text67">
               <span class="home-text68">Email:</span>
-              <span><span v-html="rawxwbp"></span></span>
+              <span><span v-html="rawyd1y"></span></span>
               <a href="mailto:Joshbarr52@gmail.com?subject=Nice to e-meet you :)">
                 Joshbarr52@gmail.com
               </a>
@@ -389,7 +389,7 @@
               <span class="home-text71">Medium:</span>
               <span>
                 site
-                <span v-html="rawdknl"></span>
+                <span v-html="rawydyl"></span>
               </span>
               <br />
               <span class="home-text74">Linkedin:</span>
@@ -444,9 +444,9 @@ export default {
   },
   data() {
     return {
-      rawjheo: ' ',
-      rawxwbp: ' ',
-      rawdknl: ' ',
+      rawwas0: ' ',
+      rawyd1y: ' ',
+      rawydyl: ' ',
     }
   },
   metaInfo: {
@@ -662,7 +662,7 @@ export default {
 }
 .home-medium {
   width: 100%;
-  height: 370px;
+  height: 380px;
   display: flex;
   position: relative;
   max-width: var(--dl-size-size-maxcontent);
@@ -683,7 +683,7 @@ export default {
 }
 .home-div {
   width: 100%;
-  height: 235px;
+  height: 245px;
   align-self: center;
   margin-bottom: var(--dl-space-space-fiveunits);
 }
