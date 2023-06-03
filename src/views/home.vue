@@ -20,12 +20,12 @@
           <span class="Navbar-Link">Medium</span>
           <br />
         </span>
-        <span class="home-link1 Navbar-Link">Experience</span>
-        <span class="home-link2">
+        <span class="home-link01 Navbar-Link">Experience</span>
+        <span class="home-link02">
           <span class="Navbar-Link">Projects</span>
           <br />
         </span>
-        <span class="home-link3">
+        <span class="home-link03">
           <span>Resume</span>
           <br />
         </span>
@@ -49,9 +49,9 @@
           </div>
         </div>
         <div class="home-links-container1">
-          <span class="home-link4 Navbar-Link">About</span>
-          <span class="home-link5 Navbar-Link">Experience</span>
-          <span class="home-link6 Navbar-Link">Portofolio</span>
+          <span class="home-link04 Navbar-Link">About</span>
+          <span class="home-link05 Navbar-Link">Experience</span>
+          <span class="home-link06 Navbar-Link">Portofolio</span>
           <span class="Navbar-Link">Contact</span>
         </div>
       </div>
@@ -69,7 +69,7 @@
             ever-changing threat landscape using the latest tools and
             technologies. As a Cyber Security Specialist, it&apos;s also my
             passion to continue growing and to keep the work fun.
-            <span v-html="rawuq1t"></span>
+            <span v-html="rawoizh"></span>
           </span>
         </span>
         <div class="home-cta-btn-container">
@@ -91,42 +91,84 @@
         more information.
       </span>
       <div class="home-gallery">
-        <gallery-card1
-          title="Arbitrage (Vue JS)"
-          subtitle="A Vue web application coded in Javascript that can be staticly hosted and runs fully client-side for odds calculations. Data is pulled live from the Odds-API https://the-odds-api.com/."
-          image_src="/screenshot%202023-06-03%20125652-1500h.png"
-          rootClassName="rootClassName"
-        ></gallery-card1>
-        <gallery-card1
-          title="VI App (React JS, Python)"
-          subtitle="A React Web App with a custom Express.js API backend and a Python Web Scraper to pull live data from Yahoo Finance's website. The goal is to calculate fair price of businesses based on fundamentals."
-          image_src="/screenshot%202023-06-03%20135152-1500h.png"
-          rootClassName="rootClassName1"
-        ></gallery-card1>
-        <gallery-card1
-          title="Optical Coherence Tomography Research"
-          subtitle="Helped in development of an inexpensive interferometer that measured sample thickness in the micron to mm range.  Used to verify its use for retina scanning."
-          image_src="/screenshot%202023-06-03%20134934-1500h.png"
-          rootClassName="rootClassName2"
-        ></gallery-card1>
-        <gallery-card1
-          title="Vulnerability Research"
-          subtitle="Independently Verified and performed write-up on https://www.exploit-db.com/exploits/42331. I was able to confirm the exploits as listed do exist on two variants of the camera's firmware. I was able to use an inbuilt web form to upload a web shell, browse files, enable ssh and gain root access."
-          image_src="/screenshot%202023-06-03%20131759-1500h.png"
-          rootClassName="rootClassName3"
-        ></gallery-card1>
-        <gallery-card1
-          title="Mongo and Selenium (C#, Firewall Patching)"
-          subtitle="Using the power of Selenium to automate browser activities such as form filling, clicks and navigation. Used for automating data pull from multiple Sonicwalls at once and update a MongoDB with Firewall Information. Also used in production to patch Firewalls firmware on multiple simultaneously."
-          image_src="/screenshot%202023-06-03%20131431-1500h.png"
-          rootClassName="rootClassName4"
-        ></gallery-card1>
-        <gallery-card1
-          title="Local Only Home Automation"
-          subtitle="Goal: To automate all the things...        We are talking Sprinklers, Door Locks, Lights, TV's, Routers, Switches, Smart Speakers you name it.               How: via Home Assistant, All local, all VLAN'ed and firewalled with no external connections. This is a growing and ongoing project with much help from ESP32's."
-          image_src="/logo-white.svg"
-          rootClassName="rootClassName5"
-        ></gallery-card1>
+        <a
+          href="https://github.com/Joshua-Barr/Vue_arbitrage"
+          target="_blank"
+          rel="noreferrer noopener"
+        >
+          <gallery-card1
+            title="Arbitrage (Vue JS)"
+            subtitle="A Vue web application coded in Javascript that can be staticly hosted and runs fully client-side for odds calculations. Data is pulled live from the Odds-API https://the-odds-api.com/."
+            image_src="/screenshot%202023-06-03%20125652-1500h.png"
+            rootClassName="rootClassName"
+            class="home-component"
+          ></gallery-card1>
+        </a>
+        <a
+          href="https://github.com/Joshua-Barr/VIApp-ReactJS"
+          target="_blank"
+          rel="noreferrer noopener"
+        >
+          <gallery-card1
+            title="VI App (React JS, Python)"
+            subtitle="A React Web App with a custom Express.js API backend and a Python Web Scraper to pull live data from Yahoo Finance's website. The goal is to calculate fair price of businesses based on fundamentals."
+            image_src="/screenshot%202023-06-03%20135152-1500h.png"
+            rootClassName="rootClassName1"
+            class="home-component1"
+          ></gallery-card1>
+        </a>
+        <a
+          href="https://ro.ecu.edu.au/ecuworks2012/157/"
+          target="_blank"
+          rel="noreferrer noopener"
+        >
+          <gallery-card1
+            title="Optical Coherence Tomography Research"
+            subtitle="Helped in development of an inexpensive interferometer that measured sample thickness in the micron to mm range.  Used to verify its use for retina scanning."
+            image_src="/screenshot%202023-06-03%20134934-1500h.png"
+            rootClassName="rootClassName2"
+            class="home-component2"
+          ></gallery-card1>
+        </a>
+        <a
+          href="https://github.com/Joshua-Barr/Belkin_NetCam_Exploit_RCE-EDB-ID-42331"
+          target="_blank"
+          rel="noreferrer noopener"
+        >
+          <gallery-card1
+            title="Vulnerability Research"
+            subtitle="Independently Verified and performed write-up on https://www.exploit-db.com/exploits/42331. I was able to confirm the exploits as listed do exist on two variants of the camera's firmware. I was able to use an inbuilt web form to upload a web shell, browse files, enable ssh and gain root access."
+            image_src="/screenshot%202023-06-03%20131759-1500h.png"
+            rootClassName="rootClassName3"
+            class="home-component3"
+          ></gallery-card1>
+        </a>
+        <a
+          href="https://github.com/Joshua-Barr/Selenium-Scraper---Sonicwall"
+          target="_blank"
+          rel="noreferrer noopener"
+        >
+          <gallery-card1
+            title="Mongo and Selenium (C#, Firewall Patching)"
+            subtitle="Using the power of Selenium to automate browser activities such as form filling, clicks and navigation. Used for automating data pull from multiple Sonicwalls at once and update a MongoDB with Firewall Information. Also used in production to patch Firewalls firmware on multiple simultaneously."
+            image_src="/screenshot%202023-06-03%20131431-1500h.png"
+            rootClassName="rootClassName4"
+            class="home-component4"
+          ></gallery-card1>
+        </a>
+        <a
+          href="https://www.home-assistant.io/"
+          target="_blank"
+          rel="noreferrer noopener"
+        >
+          <gallery-card1
+            title="Local Only Home Automation"
+            subtitle="Goal: To automate all the things...        We are talking Sprinklers, Door Locks, Lights, TV's, Routers, Switches, Smart Speakers you name it.               How: via Home Assistant, All local, all VLAN'ed and firewalled with no external connections. This is a growing and ongoing project with much help from ESP32's."
+            image_src="/logo-white.svg"
+            rootClassName="rootClassName5"
+            class="home-component5"
+          ></gallery-card1>
+        </a>
       </div>
     </div>
     <div class="home-clients">
@@ -286,13 +328,13 @@
               <span class="home-text67">Medium:</span>
               <span>
                 site
-                <span v-html="rawau6l"></span>
+                <span v-html="raw4ela"></span>
               </span>
               <br />
               <span class="home-text70">Linkedin:</span>
               <span>
                 https://www.linkedin.com/in/joshua-barr-03049a10b/
-                <span v-html="rawiq05"></span>
+                <span v-html="rawsdj7"></span>
               </span>
               <br />
             </span>
@@ -317,7 +359,7 @@
         </div>
       </div>
     </div>
-    <span class="home-link8 Anchor">
+    <span class="home-link14 Anchor">
       Static Site Hosted in Azure, Built by Josh using Vue 2023
     </span>
   </div>
@@ -333,9 +375,9 @@ export default {
   },
   data() {
     return {
-      rawuq1t: ' ',
-      rawau6l: ' ',
-      rawiq05: ' ',
+      rawoizh: ' ',
+      raw4ela: ' ',
+      rawsdj7: ' ',
     }
   },
   metaInfo: {
@@ -416,17 +458,17 @@ export default {
   align-self: center;
   margin-right: var(--dl-space-space-tripleunit);
 }
-.home-link1 {
+.home-link01 {
   color: var(--dl-color-gray-white);
   align-self: center;
   margin-right: var(--dl-space-space-tripleunit);
 }
-.home-link2 {
+.home-link02 {
   color: var(--dl-color-gray-white);
   align-self: center;
   margin-right: var(--dl-space-space-tripleunit);
 }
-.home-link3 {
+.home-link03 {
   color: var(--dl-color-light-colour1);
   padding: 8px;
   font-size: 24px;
@@ -484,13 +526,13 @@ export default {
   align-items: flex-start;
   flex-direction: column;
 }
-.home-link4 {
+.home-link04 {
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-link5 {
+.home-link05 {
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-link6 {
+.home-link06 {
   margin-bottom: var(--dl-space-space-unit);
 }
 .home-hero {
@@ -594,6 +636,24 @@ export default {
   grid-gap: var(--dl-space-space-unit);
   max-width: 1400px;
   grid-template-columns: 1fr 1fr 1fr;
+}
+.home-component {
+  text-decoration: none;
+}
+.home-component1 {
+  text-decoration: none;
+}
+.home-component2 {
+  text-decoration: none;
+}
+.home-component3 {
+  text-decoration: none;
+}
+.home-component4 {
+  text-decoration: none;
+}
+.home-component5 {
+  text-decoration: none;
 }
 .home-clients {
   width: 100%;
@@ -1122,7 +1182,7 @@ export default {
   width: 24px;
   height: 24px;
 }
-.home-link8 {
+.home-link14 {
   color: var(--dl-color-gray-white);
   align-self: center;
   margin-top: var(--dl-space-space-doubleunit);
