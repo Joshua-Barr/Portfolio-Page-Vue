@@ -69,7 +69,7 @@
             ever-changing threat landscape using the latest tools and
             technologies. As a Cyber Security Specialist, it&apos;s also my
             passion to continue growing and to keep the work fun.
-            <span v-html="rawc90g"></span>
+            <span v-html="rawuq1t"></span>
           </span>
         </span>
         <div class="home-cta-btn-container">
@@ -286,13 +286,13 @@
               <span class="home-text67">Medium:</span>
               <span>
                 site
-                <span v-html="rawavuc"></span>
+                <span v-html="rawau6l"></span>
               </span>
               <br />
               <span class="home-text70">Linkedin:</span>
               <span>
                 https://www.linkedin.com/in/joshua-barr-03049a10b/
-                <span v-html="rawnjki"></span>
+                <span v-html="rawiq05"></span>
               </span>
               <br />
             </span>
@@ -333,9 +333,9 @@ export default {
   },
   data() {
     return {
-      rawc90g: ' ',
-      rawavuc: ' ',
-      rawnjki: ' ',
+      rawuq1t: ' ',
+      rawau6l: ' ',
+      rawiq05: ' ',
     }
   },
   metaInfo: {
@@ -366,7 +366,7 @@ export default {
   max-width: var(--dl-size-size-maxcontent);
   align-items: center;
   padding-top: var(--dl-space-space-tripleunit);
-  border-color: var(--dl-color-gray-black);
+  border-color: var(--dl-color-dark-background);
   border-width: 1px;
   padding-left: var(--dl-space-space-tripleunit);
   padding-right: var(--dl-space-space-tripleunit);
@@ -1040,7 +1040,10 @@ export default {
   align-self: center;
   align-items: center;
   padding-top: var(--dl-space-space-tripleunit);
+  border-color: var(--dl-color-gray-black);
+  border-width: 1px;
   padding-left: var(--dl-space-space-tripleunit);
+  border-radius: var(--dl-radius-radius-radius8);
   padding-right: var(--dl-space-space-tripleunit);
   flex-direction: row;
   padding-bottom: var(--dl-space-space-tripleunit);
