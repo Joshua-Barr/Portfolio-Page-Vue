@@ -65,7 +65,7 @@
             ever-changing threat landscape using the latest tools and
             technologies. As a Cyber Security Specialist, it&apos;s also my
             passion to continue growing and to keep the work fun.
-            <span v-html="rawpq8s"></span>
+            <span v-html="rawnu89"></span>
           </span>
         </span>
         <div class="home-cta-btn-container">
@@ -73,6 +73,22 @@
             <span class="home-text10">Get in Contact</span>
           </a>
         </div>
+      </div>
+    </div>
+    <div class="home-medium">
+      <strong class="home-heading3">Check out my Medium</strong>
+      <div class="home-div">
+        <DangerousHTML
+          html="<div id='retainable-rss-embed' data-rss='https://medium.com/feed/retainable,https://medium.com/feed/vue-mastery'
+  data-maxcols='3' 
+  data-layout='grid' 
+  data-poststyle='inline' 
+  data-readmore='Read the rest' 
+  data-buttonclass='btn btn-primary' 
+  data-offset='-100'>
+  
+  <script src='https://www.twilik.com/assets/retainable/rss-embed/retainable-rss-embed.js'></script>"
+        ></DangerousHTML>
       </div>
     </div>
     <div class="home-projects">
@@ -365,7 +381,7 @@
           <div class="home-contact">
             <span class="home-text67">
               <span class="home-text68">Email:</span>
-              <span><span v-html="rawz4mx"></span></span>
+              <span><span v-html="rawpn6k"></span></span>
               <a href="mailto:Joshbarr52@gmail.com?subject=Nice to e-meet you :)">
                 Joshbarr52@gmail.com
               </a>
@@ -373,7 +389,7 @@
               <span class="home-text71">Medium:</span>
               <span>
                 site
-                <span v-html="rawawbu"></span>
+                <span v-html="rawt65a"></span>
               </span>
               <br />
               <span class="home-text74">Linkedin:</span>
@@ -416,18 +432,21 @@
 </template>
 
 <script>
+import DangerousHTML from 'dangerous-html/vue'
+
 import GalleryCard1 from '../components/gallery-card1'
 
 export default {
   name: 'Home',
   components: {
+    DangerousHTML,
     GalleryCard1,
   },
   data() {
     return {
-      rawpq8s: ' ',
-      rawz4mx: ' ',
-      rawawbu: ' ',
+      rawnu89: ' ',
+      rawpn6k: ' ',
+      rawt65a: ' ',
     }
   },
   metaInfo: {
@@ -584,7 +603,7 @@ export default {
 }
 .home-whoami {
   width: 100%;
-  height: 368px;
+  height: 347px;
   display: flex;
   position: relative;
   max-width: var(--dl-size-size-maxcontent);
@@ -640,6 +659,33 @@ export default {
 }
 .home-text10 {
   color: var(--dl-color-gray-white);
+}
+.home-medium {
+  width: 100%;
+  height: 363px;
+  display: flex;
+  position: relative;
+  max-width: var(--dl-size-size-maxcontent);
+  align-items: center;
+  padding-top: var(--dl-space-space-doubleunit);
+  padding-left: var(--dl-space-space-tripleunit);
+  padding-right: var(--dl-space-space-tripleunit);
+  flex-direction: column;
+  justify-content: center;
+  background-color: var(--dl-color-light-background);
+}
+.home-heading3 {
+  color: var(--dl-color-gray-white);
+  font-size: 34px;
+  margin-top: var(--dl-space-space-doubleunit);
+  font-family: Nunito;
+  margin-bottom: var(--dl-space-space-doubleunit);
+}
+.home-div {
+  width: 100%;
+  height: 235px;
+  align-self: center;
+  margin-bottom: var(--dl-space-space-fiveunits);
 }
 .home-projects {
   width: 1120px;
@@ -1477,6 +1523,15 @@ export default {
   .home-text04 {
     align-self: center;
     text-align: left;
+  }
+  .home-medium {
+    height: auto;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .home-heading3 {
+    text-align: center;
   }
   .home-projects {
     width: 98%;
