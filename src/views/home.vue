@@ -21,7 +21,7 @@
       </svg>
       <div class="home-links-container">
         <span class="home-link">
-          <span class="Navbar-Link">Blog</span>
+          <span class="Navbar-Link">Medium</span>
           <br />
         </span>
         <span class="home-link1 Navbar-Link">Experience</span>
@@ -59,7 +59,7 @@
     </div>
     <div class="home-hero">
       <div class="home-hero-text-container">
-        <h1 class="home-heading2 Section-Heading">c:&gt; whoami</h1>
+        <h1 class="home-heading2 Section-Heading">c:\&gt; whoami</h1>
         <span class="home-text04">
           <span>I LOVE Information Security!!</span>
           <br />
@@ -68,7 +68,7 @@
             ever-changing threat landscape using the latest tools and
             technologies. As a Cyber Security Specialist, it&apos;s also my
             passion to continue growing and to make it fun.
-            <span v-html="raw64y9"></span>
+            <span v-html="raw7sen"></span>
           </span>
         </span>
         <div class="home-cta-btn-container">
@@ -281,7 +281,7 @@ export default {
   },
   data() {
     return {
-      raw64y9: ' ',
+      raw7sen: ' ',
     }
   },
   metaInfo: {
