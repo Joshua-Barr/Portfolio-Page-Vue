@@ -56,7 +56,7 @@
         </div>
       </div>
     </div>
-    <div class="home-hero">
+    <div class="home-whoami">
       <div class="home-hero-text-container">
         <h1 class="home-heading2 Section-Heading">c:\&gt; whoami</h1>
         <span class="home-text06">
@@ -69,7 +69,7 @@
             ever-changing threat landscape using the latest tools and
             technologies. As a Cyber Security Specialist, it&apos;s also my
             passion to continue growing and to keep the work fun.
-            <span v-html="rawoizh"></span>
+            <span v-html="rawww0t"></span>
           </span>
         </span>
         <div class="home-cta-btn-container">
@@ -79,10 +79,8 @@
         </div>
       </div>
     </div>
-    <div class="home-max-content-width-container">
-      <div class="home-heading-container">
-        <h1 class="home-text13 Section-Heading">Projects</h1>
-      </div>
+    <div class="home-projects">
+      <strong class="home-text13">Projects</strong>
       <span class="home-text14">
         I love exploring cutting-edge technologies and building interactive
         applications and solutions for problems. Additionally my device
@@ -171,10 +169,8 @@
         </a>
       </div>
     </div>
-    <div class="home-clients">
-      <div class="home-heading-container1">
-        <h1 class="home-text15 Section-Heading">In Progress</h1>
-      </div>
+    <div class="home-in-progress">
+      <strong class="home-text15">In Progress</strong>
       <div class="home-logo-container">
         <div class="home-container02">
           <img
@@ -213,19 +209,17 @@
         </div>
       </div>
     </div>
-    <div class="home-features">
-      <div class="home-heading-container2">
-        <h2 class="home-text26">
-          <span class="Section-Heading home-text27">Badges</span>
-          <br />
-        </h2>
-      </div>
+    <div class="home-badges">
+      <strong class="home-text26">
+        <span class="home-text27">Badges</span>
+        <br />
+      </strong>
       <div class="home-cards-container">
         <div class="home-card">
           <div class="home-icon-container">
             <img
               alt="image"
-              src="/aws-certified-solutions-architect-associate-200h.png"
+              src="/aws-certified-solutions-architect-associate-300h.png"
               class="home-image4"
             />
           </div>
@@ -242,13 +236,7 @@
         </div>
       </div>
     </div>
-    <div class="home-pricing">
-      <div class="home-heading-container3">
-        <h1 class="home-text29">
-          <span class="Section-Heading home-text30">Experience</span>
-          <br />
-        </h1>
-      </div>
+    <div class="home-experience">
       <div class="home-pricing-card-container">
         <div class="home-card3">
           <div class="home-card-heading">
@@ -265,76 +253,64 @@
           </div>
           <div class="home-card-content">
             <div class="home-container07">
-              <span class="Card-Text">Feature one</span>
-              <span class="home-text37 Card-Text">TBD</span>
-            </div>
-            <div class="home-container08">
-              <span class="Card-Text">Feature two</span>
-              <span class="home-text39 Card-Text">TBD</span>
-            </div>
-            <div class="home-container09">
-              <span class="Card-Text">Feature three</span>
-              <span class="home-text41 Card-Text">UNLIMITED</span>
-            </div>
-            <div class="home-container10">
-              <span class="Card-Text">Feature four</span>
-              <span class="home-text43 Card-Text">UNLIMITED</span>
+              <span class="home-text33 Card-Text">Feature four</span>
+              <span class="home-text34 Card-Text">UNLIMITED</span>
             </div>
           </div>
         </div>
       </div>
     </div>
-    <h1 class="home-text44">
-      <span class="Section-Heading home-text45">...Some Career Stats</span>
+    <h1 class="home-text35">
+      <span class="Section-Heading home-text36">...Some Career Stats</span>
       <br />
     </h1>
-    <div class="home-footer-container">
+    <div class="home-career-stats-and-contacts">
       <div class="home-stats">
         <div class="home-stat">
-          <h1 class="home-text47">800+</h1>
-          <span class="home-text48">Happy clients</span>
+          <h1 class="home-text38">800+</h1>
+          <span class="home-text39">Happy clients</span>
         </div>
         <div class="home-stat1">
-          <h1 class="home-text49">200+</h1>
-          <span class="home-text50">Projects Delivered</span>
+          <h1 class="home-text40">200+</h1>
+          <span class="home-text41">Projects Delivered</span>
         </div>
         <div class="home-stat2">
-          <h1 class="home-text51">12</h1>
-          <span class="home-text52">
-            <span class="home-text53">Years in Industry</span>
+          <h1 class="home-text42">12</h1>
+          <span class="home-text43">
+            <span class="home-text44">Years in Industry</span>
             <br />
           </span>
         </div>
         <div class="home-stat3">
-          <h1 class="home-text55">~150</h1>
-          <span class="home-text56">Engineer/Tech colleagues</span>
+          <h1 class="home-text46">~150</h1>
+          <span class="home-text47">Engineer/Tech colleagues</span>
         </div>
       </div>
       <div class="home-footer">
-        <div class="home-container11"></div>
-        <span class="home-text57">
-          <span class="home-text58">Get in contact...</span>
+        <div class="home-container08"></div>
+        <span class="home-text48">
+          <span class="home-text49">Get in contact...</span>
           <br />
           <br />
           <br />
           <br />
         </span>
-        <div class="home-container12">
+        <div class="home-container09">
           <div class="home-contact">
-            <span class="home-text63">
-              <span class="home-text64">Email:</span>
+            <span class="home-text54">
+              <span class="home-text55">Email:</span>
               <span>Joshbarr52@gmail.com</span>
               <br />
-              <span class="home-text67">Medium:</span>
+              <span class="home-text58">Medium:</span>
               <span>
                 site
-                <span v-html="raw4ela"></span>
+                <span v-html="rawemrc"></span>
               </span>
               <br />
-              <span class="home-text70">Linkedin:</span>
+              <span class="home-text61">Linkedin:</span>
               <span>
                 https://www.linkedin.com/in/joshua-barr-03049a10b/
-                <span v-html="rawsdj7"></span>
+                <span v-html="rawwdu6"></span>
               </span>
               <br />
             </span>
@@ -375,9 +351,9 @@ export default {
   },
   data() {
     return {
-      rawoizh: ' ',
-      raw4ela: ' ',
-      rawsdj7: ' ',
+      rawww0t: ' ',
+      rawemrc: ' ',
+      rawwdu6: ' ',
     }
   },
   metaInfo: {
@@ -535,7 +511,7 @@ export default {
 .home-link06 {
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-hero {
+.home-whoami {
   width: 100%;
   height: 368px;
   display: flex;
@@ -552,7 +528,7 @@ export default {
 }
 .home-hero-text-container {
   width: 75%;
-  height: 382px;
+  height: 281px;
   display: flex;
   z-index: 10;
   align-self: flex-start;
@@ -562,13 +538,14 @@ export default {
 }
 .home-heading2 {
   color: var(--dl-color-gray-white);
-  margin-bottom: var(--dl-space-space-tripleunit);
+  margin-top: var(--dl-space-space-doubleunit);
+  margin-bottom: var(--dl-space-space-doubleunit);
 }
 .home-text06 {
   color: var(--dl-color-gray-white);
-  font-size: 18px;
+  font-size: 16px;
   font-family: Nunito;
-  margin-bottom: var(--dl-space-space-fiveunits);
+  margin-bottom: var(--dl-space-space-doubleunit);
 }
 .home-cta-btn-container {
   display: flex;
@@ -593,7 +570,7 @@ export default {
 .home-text12 {
   color: var(--dl-color-gray-white);
 }
-.home-max-content-width-container {
+.home-projects {
   width: 1120px;
   display: flex;
   max-width: var(--dl-size-size-maxcontent);
@@ -602,24 +579,19 @@ export default {
   padding-top: var(--dl-space-space-fiveunits);
   padding-left: var(--dl-space-space-tripleunit);
   border-radius: 10px;
-  margin-bottom: var(--dl-space-space-fiveunits);
   padding-right: var(--dl-space-space-tripleunit);
   flex-direction: column;
   padding-bottom: var(--dl-space-space-fiveunits);
   background-color: var(--dl-color-light-color4);
 }
-.home-heading-container {
-  width: 45%;
-  height: 100px;
-  display: flex;
-  align-items: center;
-  margin-bottom: var(--dl-space-space-doubleunit);
-  flex-direction: column;
-  justify-content: center;
-}
 .home-text13 {
-  align-self: center;
-  text-align: center;
+  color: var(--dl-color-gray-black);
+  font-size: 34px;
+  margin-top: var(--dl-space-space-tripleunit);
+  font-family: Nunito;
+  margin-left: var(--dl-space-space-fourunits);
+  margin-right: var(--dl-space-space-fourunits);
+  margin-bottom: var(--dl-space-space-tripleunit);
 }
 .home-text14 {
   color: var(--dl-color-gray-black);
@@ -655,30 +627,26 @@ export default {
 .home-component5 {
   text-decoration: none;
 }
-.home-clients {
+.home-in-progress {
   width: 100%;
   display: flex;
   max-width: var(--dl-size-size-maxcontent);
-  margin-top: var(--dl-space-space-fourunits);
   align-items: center;
   padding-top: var(--dl-space-space-doubleunit);
   padding-left: var(--dl-space-space-tripleunit);
-  margin-bottom: 43px;
+  margin-bottom: 21px;
   padding-right: var(--dl-space-space-tripleunit);
   flex-direction: column;
   padding-bottom: 20px;
 }
-.home-heading-container1 {
-  width: 45%;
-  display: flex;
-  align-items: center;
-  padding-left: var(--dl-space-space-tripleunit);
-  margin-bottom: var(--dl-space-space-fiveunits);
-  padding-right: var(--dl-space-space-tripleunit);
-  flex-direction: column;
-}
 .home-text15 {
   color: var(--dl-color-gray-white);
+  margin: var(--dl-space-space-tripleunit);
+  font-size: 34px;
+  margin-top: var(--dl-space-space-fourunits);
+  font-family: Nunito;
+  margin-left: var(--dl-space-space-fourunits);
+  margin-right: var(--dl-space-space-fourunits);
   margin-bottom: var(--dl-space-space-fourunits);
 }
 .home-logo-container {
@@ -756,13 +724,13 @@ export default {
   align-self: center;
   text-align: center;
 }
-.home-features {
+.home-badges {
   width: 1122px;
   display: flex;
   max-width: var(--dl-size-size-maxcontent);
   margin-top: 1px;
   align-items: center;
-  padding-top: var(--dl-space-space-tripleunit);
+  padding-top: 13px;
   border-color: var(--dl-color-light-background);
   border-width: 1px;
   padding-left: var(--dl-space-space-tripleunit);
@@ -771,19 +739,19 @@ export default {
   flex-direction: column;
   background-color: var(--dl-color-light-colour1);
 }
-.home-heading-container2 {
-  width: 45%;
-  display: flex;
-  align-items: center;
-  flex-direction: column;
-}
 .home-text26 {
   color: var(--dl-color-gray-white);
-  text-align: center;
+  margin: var(--dl-space-space-tripleunit);
+  font-size: 34px;
+  margin-top: var(--dl-space-space-fourunits);
+  font-family: Nunito;
+  margin-left: var(--dl-space-space-fourunits);
+  margin-right: var(--dl-space-space-fourunits);
   margin-bottom: var(--dl-space-space-fourunits);
 }
 .home-cards-container {
   width: 100%;
+  height: 246px;
   display: flex;
   flex-wrap: wrap;
   align-items: flex-start;
@@ -861,7 +829,7 @@ export default {
   width: 200px;
   object-fit: cover;
 }
-.home-pricing {
+.home-experience {
   width: 100%;
   display: flex;
   max-width: var(--dl-size-size-maxcontent);
@@ -870,18 +838,6 @@ export default {
   padding-top: 45px;
   flex-direction: column;
   padding-bottom: var(--dl-space-space-fiveunits);
-}
-.home-heading-container3 {
-  width: 45%;
-  display: flex;
-  align-items: center;
-  padding-left: var(--dl-space-space-tripleunit);
-  padding-right: var(--dl-space-space-tripleunit);
-  flex-direction: column;
-}
-.home-text29 {
-  color: var(--dl-color-gray-white);
-  margin-bottom: var(--dl-space-space-fourunits);
 }
 .home-pricing-card-container {
   width: 100%;
@@ -919,15 +875,14 @@ export default {
   border-bottom-right-radius: 0;
 }
 .home-container06 {
-  flex: 0 0 auto;
   width: 100%;
-  height: 100px;
+  height: 100%;
   display: flex;
   align-items: center;
   justify-content: center;
 }
 .home-price {
-  font-size: 40px;
+  font-size: 30px;
   font-family: Nunito;
 }
 .home-price1 {
@@ -950,65 +905,17 @@ export default {
   display: flex;
   align-items: center;
   padding-top: var(--dl-space-space-doubleunit);
-  border-color: var(--dl-color-gray-900);
-  border-width: 1px;
-  flex-direction: row;
-  padding-bottom: var(--dl-space-space-doubleunit);
-  justify-content: space-between;
-  border-top-width: 0px;
-  border-left-width: 0px;
-  border-right-width: 0px;
-}
-.home-text37 {
-  color: var(--dl-color-gray-700);
-}
-.home-container08 {
-  width: 100%;
-  display: flex;
-  align-items: center;
-  padding-top: var(--dl-space-space-doubleunit);
-  border-color: var(--dl-color-gray-900);
-  border-width: 1px;
-  flex-direction: row;
-  padding-bottom: var(--dl-space-space-doubleunit);
-  justify-content: space-between;
-  border-top-width: 0px;
-  border-left-width: 0px;
-  border-right-width: 0px;
-}
-.home-text39 {
-  color: var(--dl-color-gray-700);
-}
-.home-container09 {
-  width: 100%;
-  display: flex;
-  align-items: center;
-  padding-top: var(--dl-space-space-doubleunit);
-  border-color: var(--dl-color-gray-900);
-  border-width: 1px;
-  flex-direction: row;
-  padding-bottom: var(--dl-space-space-doubleunit);
-  justify-content: space-between;
-  border-top-width: 0px;
-  border-left-width: 0px;
-  border-right-width: 0px;
-}
-.home-text41 {
-  color: var(--dl-color-gray-700);
-}
-.home-container10 {
-  width: 100%;
-  display: flex;
-  align-items: center;
-  padding-top: var(--dl-space-space-doubleunit);
   flex-direction: row;
   padding-bottom: var(--dl-space-space-doubleunit);
   justify-content: space-between;
 }
-.home-text43 {
-  color: var(--dl-color-gray-700);
+.home-text33 {
+  color: var(--dl-color-gray-white);
 }
-.home-text44 {
+.home-text34 {
+  color: var(--dl-color-gray-white);
+}
+.home-text35 {
   color: rgb(255, 124, 76);
   width: 100%;
   height: 62px;
@@ -1017,7 +924,7 @@ export default {
   padding-top: var(--dl-space-space-doubleunit);
   background-color: var(--dl-color-light-background);
 }
-.home-footer-container {
+.home-career-stats-and-contacts {
   width: 100%;
   display: flex;
   align-items: center;
@@ -1038,11 +945,11 @@ export default {
   align-items: center;
   flex-direction: column;
 }
-.home-text47 {
+.home-text38 {
   color: rgb(255, 124, 76);
   font-size: 3rem;
 }
-.home-text48 {
+.home-text39 {
   color: var(--dl-color-gray-white);
   font-size: 1.15rem;
   margin-top: var(--dl-space-space-halfunit);
@@ -1053,11 +960,11 @@ export default {
   align-items: center;
   flex-direction: column;
 }
-.home-text49 {
+.home-text40 {
   color: rgb(255, 124, 76);
   font-size: 3rem;
 }
-.home-text50 {
+.home-text41 {
   color: var(--dl-color-gray-white);
   font-size: 1.15rem;
   margin-top: var(--dl-space-space-halfunit);
@@ -1068,11 +975,11 @@ export default {
   align-items: center;
   flex-direction: column;
 }
-.home-text51 {
+.home-text42 {
   color: rgb(255, 124, 76);
   font-size: 3rem;
 }
-.home-text52 {
+.home-text43 {
   color: var(--dl-color-gray-white);
   font-size: 1.15rem;
   margin-top: var(--dl-space-space-halfunit);
@@ -1083,11 +990,11 @@ export default {
   align-items: center;
   flex-direction: column;
 }
-.home-text55 {
+.home-text46 {
   color: rgb(255, 124, 76);
   font-size: 3rem;
 }
-.home-text56 {
+.home-text47 {
   color: var(--dl-color-gray-white);
   font-size: 1.15rem;
   margin-top: var(--dl-space-space-halfunit);
@@ -1110,23 +1017,23 @@ export default {
   justify-content: space-between;
   background-color: var(--dl-color-light-color4);
 }
-.home-container11 {
+.home-container08 {
   border: 2px dashed rgba(120, 120, 120, 0.4);
   display: flex;
   align-items: flex-start;
   flex-direction: column;
   justify-content: flex-start;
 }
-.home-text57 {
+.home-text48 {
   align-self: flex-start;
   font-weight: 700;
   margin-left: 10%;
   margin-bottom: 24px;
 }
-.home-text58 {
+.home-text49 {
   font-size: 36px;
 }
-.home-container12 {
+.home-container09 {
   width: 60%;
   display: flex;
   align-items: flex-start;
@@ -1142,18 +1049,18 @@ export default {
   flex-direction: column;
   justify-content: flex-start;
 }
-.home-text63 {
+.home-text54 {
   align-self: flex-start;
   text-align: left;
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text64 {
+.home-text55 {
   font-weight: 700;
 }
-.home-text67 {
+.home-text58 {
   font-weight: 700;
 }
-.home-text70 {
+.home-text61 {
   font-weight: 700;
 }
 .home-socials {
@@ -1196,10 +1103,8 @@ export default {
   .home-heading1 {
     text-align: center;
   }
-  .home-hero {
-    width: auto;
+  .home-whoami {
     height: auto;
-    align-self: flex-start;
     align-items: center;
     flex-direction: column;
     justify-content: center;
@@ -1216,8 +1121,12 @@ export default {
     align-self: center;
     text-align: left;
   }
-  .home-max-content-width-container {
+  .home-projects {
     width: 90%;
+  }
+  .home-text13 {
+    align-self: center;
+    text-align: left;
   }
   .home-text14 {
     align-self: center;
@@ -1226,28 +1135,34 @@ export default {
   .home-gallery {
     grid-template-columns: 1fr 1fr;
   }
-  .home-features {
+  .home-text15 {
+    align-self: center;
+    text-align: left;
+  }
+  .home-badges {
     width: 90%;
   }
   .home-text26 {
-    text-align: center;
+    align-self: center;
+    text-align: left;
   }
   .home-text27 {
-    text-align: center;
+    align-self: center;
+    text-align: left;
   }
   .home-pricing-card-container {
     justify-content: center;
   }
-  .home-text47 {
+  .home-text38 {
     text-align: center;
   }
-  .home-text49 {
+  .home-text40 {
     text-align: center;
   }
-  .home-text51 {
+  .home-text42 {
     text-align: center;
   }
-  .home-text55 {
+  .home-text46 {
     text-align: center;
   }
 }
@@ -1272,21 +1187,9 @@ export default {
     padding-left: var(--dl-space-space-fourunits);
     padding-right: var(--dl-space-space-fourunits);
   }
-  .home-heading-container {
-    width: 100%;
-  }
-  .home-text13 {
-    text-align: center;
-  }
   .home-gallery {
     padding-left: 32px;
     padding-right: 32px;
-  }
-  .home-heading-container1 {
-    width: 100%;
-  }
-  .home-heading-container2 {
-    width: 100%;
   }
   .home-cards-container {
     align-items: center;
@@ -1304,13 +1207,10 @@ export default {
     width: 70%;
     margin-bottom: var(--dl-space-space-tripleunit);
   }
-  .home-heading-container3 {
-    width: 100%;
-  }
-  .home-text44 {
+  .home-text35 {
     text-align: center;
   }
-  .home-text45 {
+  .home-text36 {
     text-align: center;
   }
   .home-stats {
@@ -1318,19 +1218,19 @@ export default {
     padding-right: 32px;
     grid-template-columns: 1fr 1fr;
   }
-  .home-text48 {
+  .home-text39 {
     text-align: center;
   }
-  .home-text50 {
+  .home-text41 {
     text-align: center;
   }
-  .home-text52 {
+  .home-text43 {
     text-align: center;
   }
-  .home-text53 {
+  .home-text44 {
     text-align: center;
   }
-  .home-text56 {
+  .home-text47 {
     text-align: center;
   }
 }
@@ -1351,9 +1251,6 @@ export default {
     padding-left: var(--dl-space-space-unit);
     padding-right: var(--dl-space-space-unit);
     padding-bottom: 32px;
-  }
-  .home-text15 {
-    text-align: center;
   }
   .home-image {
     width: 128px;
@@ -1386,12 +1283,6 @@ export default {
   .home-card2 {
     width: 100%;
   }
-  .home-text29 {
-    text-align: center;
-  }
-  .home-text30 {
-    text-align: center;
-  }
   .home-price1 {
     margin-left: 40%;
   }
@@ -1402,16 +1293,16 @@ export default {
     padding-bottom: 32px;
     grid-template-columns: 1fr;
   }
-  .home-container11 {
+  .home-container08 {
     margin-top: 24px;
     align-items: flex-start;
     margin-bottom: 0px;
   }
-  .home-text57 {
+  .home-text48 {
     margin-left: 7%;
     margin-right: 2%;
   }
-  .home-container12 {
+  .home-container09 {
     margin-top: 2%;
     align-items: flex-start;
     margin-bottom: 0px;
@@ -1420,7 +1311,7 @@ export default {
     align-items: flex-start;
     margin-bottom: var(--dl-space-space-unit);
   }
-  .home-text63 {
+  .home-text54 {
     width: 60%;
   }
 }
