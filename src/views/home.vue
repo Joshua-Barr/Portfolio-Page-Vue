@@ -24,12 +24,12 @@
           <span class="Navbar-Link">Medium</span>
           <br />
         </span>
-        <span class="home-link01 Navbar-Link">Experience</span>
-        <span class="home-link02">
+        <span class="home-link1 Navbar-Link">Experience</span>
+        <span class="home-link2">
           <span class="Navbar-Link">Projects</span>
           <br />
         </span>
-        <span class="home-link03">Download Resume</span>
+        <span class="home-link3">Download Resume</span>
       </div>
       <div data-role="BurgerMenu" class="home-burger-menu">
         <svg viewBox="0 0 1024 1024" class="home-icon08">
@@ -50,9 +50,9 @@
           </div>
         </div>
         <div class="home-links-container1">
-          <span class="home-link04 Navbar-Link">About</span>
-          <span class="home-link05 Navbar-Link">Experience</span>
-          <span class="home-link06 Navbar-Link">Portofolio</span>
+          <span class="home-link4 Navbar-Link">About</span>
+          <span class="home-link5 Navbar-Link">Experience</span>
+          <span class="home-link6 Navbar-Link">Portofolio</span>
           <span class="Navbar-Link">Contact</span>
         </div>
       </div>
@@ -70,7 +70,7 @@
             ever-changing threat landscape using the latest tools and
             technologies. As a Cyber Security Specialist, it&apos;s also my
             passion to continue growing and to keep the work fun.
-            <span v-html="rawlihl"></span>
+            <span v-html="rawmklj"></span>
           </span>
         </span>
         <div class="home-cta-btn-container">
@@ -98,40 +98,40 @@
       </span>
       <div class="home-gallery">
         <gallery-card1
-          rootClassName="rootClassName"
-          image_src="/screenshot%202023-06-03%20125652-1500h.png"
           title="Arbitrage (Vue JS)"
           subtitle="A Vue web application coded in Javascript that can be staticly hosted and runs fully client-side for odds calculations. Data is pulled live from the Odds-API https://the-odds-api.com/."
+          image_src="/screenshot%202023-06-03%20125652-1500h.png"
+          rootClassName="rootClassName"
         ></gallery-card1>
         <gallery-card1
+          title="VI App (React JS, Python)"
+          subtitle="A React Web App with a custom Express.js API backend and a Python Web Scraper to pull live data from Yahoo Finance's website. The goal is to calculate fair price of businesses based on fundamentals."
           image_src="/screenshot%202023-06-03%20135152-1500h.png"
           rootClassName="rootClassName1"
-          subtitle="A React Web App with a custom Express.js API backend and a Python Web Scraper to pull live data from Yahoo Finance's website. The goal is to calculate fair price of businesses based on fundamentals."
-          title="VI App (React JS, Python)"
         ></gallery-card1>
         <gallery-card1
-          image_src="/screenshot%202023-06-03%20134934-1500h.png"
-          rootClassName="rootClassName2"
           title="Optical Coherence Tomography Research"
           subtitle="Helped in development of an inexpensive interferometer that measured sample thickness in the micron to mm range.  Used to verify its use for retina scanning."
+          image_src="/screenshot%202023-06-03%20134934-1500h.png"
+          rootClassName="rootClassName2"
         ></gallery-card1>
         <gallery-card1
-          image_src="/screenshot%202023-06-03%20131759-1500h.png"
-          rootClassName="rootClassName3"
           title="Vulnerability Research"
           subtitle="Independently Verified and performed write-up on https://www.exploit-db.com/exploits/42331. Was able to confirm the exploits as listed do exist on two variants of the camera's firmware. Was able to use an inbuilt web form to upload a web shell browse files and enable ssh and gain root access."
+          image_src="/screenshot%202023-06-03%20131759-1500h.png"
+          rootClassName="rootClassName3"
         ></gallery-card1>
         <gallery-card1
-          image_src="/screenshot%202023-06-03%20131431-1500h.png"
-          rootClassName="rootClassName4"
           title="Mongo and Selenium (C#, Firewall Patching)"
           subtitle="Using the power of Selenium to automate browser activities such as form filling, clicks and navigation. Used for automating data pull from multiple Sonicwalls at once and update a MongoDB with Firewall Information. Also used in production to patch Firewalls simultaneously from current CVE's."
+          image_src="/screenshot%202023-06-03%20131431-1500h.png"
+          rootClassName="rootClassName4"
         ></gallery-card1>
         <gallery-card1
-          image_src="/logo-white.svg"
-          rootClassName="rootClassName5"
           title="Local Only Home Automation"
           subtitle="Goal: To automate all the things...        We are talking Sprinklers, Door Locks, Lights, TV's, Routers, Switches, Smart Speakers you name it.               How: via Home Assistant, All local, all VLAN'ed and firewalled with no external connections. This is a growing and ongoing project with much help from ESP32's."
+          image_src="/logo-white.svg"
+          rootClassName="rootClassName5"
         ></gallery-card1>
       </div>
     </div>
@@ -142,28 +142,28 @@
       <div class="home-logo-container">
         <div class="home-container02">
           <img
-            src="/cissp%20-%20square-200h.png"
             alt="image"
+            src="/cissp%20-%20square-200h.png"
             class="home-image1"
           />
           <span class="home-text14">Estimated July 2023</span>
         </div>
         <div class="home-container03">
           <img
-            src="/aws-certified-solutions-architect-professional-200h.png"
             alt="image"
+            src="/aws-certified-solutions-architect-professional-200h.png"
             class="home-image2"
           />
           <span class="home-text15">Estimated Nov. 2023</span>
         </div>
         <div class="home-container04">
-          <img src="/logo-white.svg" alt="image" class="home-image3" />
+          <img alt="image" src="/logo-white.svg" class="home-image3" />
           <span class="home-text16">Home Automation, Ongoing</span>
         </div>
         <div class="home-container05">
           <img
-            src="/screenshot%202023-06-03%20134012-200h.png"
             alt="image"
+            src="/screenshot%202023-06-03%20134012-200h.png"
             class="home-image4"
           />
           <span class="home-text17">
@@ -290,28 +290,37 @@
           <div class="home-container12">
             <div class="home-contact">
               <span class="home-text55">
-                <span class="home-text56">Reach out here...</span>
+                <span class="home-text56">Get in contact...</span>
                 <br />
                 <br />
                 <br />
                 <br />
-              </span>
-              <span class="home-link08 Anchor">
-                Static Site Hosted in Azure, Built 2023
               </span>
             </div>
           </div>
         </div>
         <div class="home-links-container">
-          <div class="home-container13"></div>
-          <div class="home-container14">
+          <div class="home-container13">
             <div class="home-contact1">
-              <span class="home-text61">Contact Us</span>
-              <span class="home-text62">hello@teleporthq.io</span>
-              <span>+123 (4567) 890</span>
+              <span class="home-text61">
+                <span class="home-text62">Email:</span>
+                <span>Joshbarr52@gmail.com</span>
+                <br />
+                <span class="home-text65">Medium:</span>
+                <span>
+                  site
+                  <span v-html="rawmiav"></span>
+                </span>
+                <br />
+                <span class="home-text68">Linkedin:</span>
+                <span>
+                  https://www.linkedin.com/in/joshua-barr-03049a10b/
+                  <span v-html="rawwe77"></span>
+                </span>
+                <br />
+              </span>
             </div>
             <div class="home-socials">
-              <span class="home-text64">Follow Us</span>
               <div class="home-icon-group">
                 <svg viewBox="0 0 950.8571428571428 1024" class="home-icon12">
                   <path
@@ -332,8 +341,8 @@
         </div>
       </div>
     </div>
-    <span class="home-link09 Anchor">
-      Static Site Hosted in Azure, Built 2023
+    <span class="home-link8 Anchor">
+      Static Site Hosted in Azure, Built by Josh using Vue 2023
     </span>
   </div>
 </template>
@@ -348,7 +357,9 @@ export default {
   },
   data() {
     return {
-      rawlihl: ' ',
+      rawmklj: ' ',
+      rawmiav: ' ',
+      rawwe77: ' ',
     }
   },
   metaInfo: {
@@ -432,17 +443,17 @@ export default {
   align-self: center;
   margin-right: var(--dl-space-space-tripleunit);
 }
-.home-link01 {
+.home-link1 {
   color: var(--dl-color-gray-white);
   align-self: center;
   margin-right: var(--dl-space-space-tripleunit);
 }
-.home-link02 {
+.home-link2 {
   color: var(--dl-color-gray-white);
   align-self: center;
   margin-right: var(--dl-space-space-tripleunit);
 }
-.home-link03 {
+.home-link3 {
   color: var(--dl-color-light-background);
   padding: 8px;
   font-size: 24px;
@@ -500,13 +511,13 @@ export default {
   align-items: flex-start;
   flex-direction: column;
 }
-.home-link04 {
+.home-link4 {
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-link05 {
+.home-link5 {
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-link06 {
+.home-link6 {
   margin-bottom: var(--dl-space-space-unit);
 }
 .home-hero {
@@ -1122,48 +1133,48 @@ export default {
   justify-content: flex-start;
 }
 .home-text55 {
+  align-self: center;
   font-weight: 700;
   margin-bottom: 24px;
 }
 .home-text56 {
   font-size: 36px;
 }
-.home-link08 {
-  align-self: flex-end;
-}
 .home-links-container {
-  display: flex;
-  align-items: flex-start;
+  width: 50%;
+  display: initial;
+  align-self: flex-start;
   flex-direction: row;
-  justify-content: space-between;
 }
 .home-container13 {
-  border: 2px dashed rgba(120, 120, 120, 0.4);
-  display: flex;
-  align-items: flex-start;
-  margin-right: 10rem;
-  flex-direction: row;
-  justify-content: space-between;
-}
-.home-container14 {
+  width: 70%;
   display: flex;
   align-items: flex-start;
   flex-direction: column;
-  justify-content: flex-start;
+  justify-content: center;
 }
 .home-contact1 {
+  width: 466px;
   display: flex;
+  align-self: flex-start;
   align-items: flex-start;
   margin-bottom: 24px;
   flex-direction: column;
   justify-content: flex-start;
 }
 .home-text61 {
-  font-weight: 700;
-  margin-bottom: 24px;
+  align-self: flex-start;
+  text-align: left;
+  margin-bottom: var(--dl-space-space-unit);
 }
 .home-text62 {
-  margin-bottom: var(--dl-space-space-unit);
+  font-weight: 700;
+}
+.home-text65 {
+  font-weight: 700;
+}
+.home-text68 {
+  font-weight: 700;
 }
 .home-socials {
   display: flex;
@@ -1171,32 +1182,32 @@ export default {
   flex-direction: column;
   justify-content: flex-start;
 }
-.home-text64 {
-  font-weight: 700;
-  margin-bottom: 24px;
-}
 .home-icon-group {
   display: flex;
   align-items: center;
   flex-direction: row;
-  justify-content: space-between;
+  justify-content: flex-start;
 }
 .home-icon12 {
-  width: 16px;
-  height: 16px;
+  width: 24px;
+  height: 24px;
   margin-right: var(--dl-space-space-unit);
 }
 .home-icon14 {
-  width: 16px;
-  height: 16px;
+  width: 24px;
+  height: 24px;
   margin-right: var(--dl-space-space-unit);
 }
 .home-icon16 {
-  width: 16px;
-  height: 16px;
+  width: 24px;
+  height: 24px;
 }
-.home-link09 {
-  align-self: flex-end;
+.home-link8 {
+  color: var(--dl-color-gray-white);
+  align-self: center;
+  margin-top: var(--dl-space-space-doubleunit);
+  text-align: center;
+  margin-bottom: var(--dl-space-space-doubleunit);
 }
 @media(max-width: 991px) {
   .home-heading {
@@ -1261,9 +1272,6 @@ export default {
   .home-text53 {
     text-align: center;
   }
-  .home-container13 {
-    margin-right: var(--dl-space-space-fourunits);
-  }
 }
 @media(max-width: 767px) {
   .home-navbar {
@@ -1271,7 +1279,6 @@ export default {
   }
   .home-links-container {
     width: 100%;
-    align-items: flex-start;
     flex-direction: row;
     justify-content: center;
   }
@@ -1363,9 +1370,6 @@ export default {
   .home-text54 {
     text-align: center;
   }
-  .home-container13 {
-    margin-right: var(--dl-space-space-fourunits);
-  }
 }
 @media(max-width: 479px) {
   .home-burger-menu {
@@ -1432,9 +1436,6 @@ export default {
     flex-direction: column;
   }
   .home-container13 {
-    margin-right: 0px;
-  }
-  .home-container14 {
     margin-top: 24px;
     align-items: flex-start;
     margin-bottom: 0px;
