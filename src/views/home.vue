@@ -76,7 +76,7 @@
     <div class="home-whoami">
       <div class="home-hero-text-container">
         <h1 class="home-heading2 Section-Heading">c:\&gt; whoami</h1>
-        <span class="home-text04">
+        <span class="home-text004">
           <span>Hi my name is Joshua,</span>
           <br />
           <span>I LOVE Information Security!!</span>
@@ -86,19 +86,19 @@
             ever-changing threat landscape using the latest tools and
             technologies. As a Cyber Security Specialist, it&apos;s also my
             passion to continue growing and to keep the work fun.
-            <span v-html="raws52t"></span>
+            <span v-html="rawfhmu"></span>
           </span>
         </span>
         <div class="home-cta-btn-container">
           <a href="#Contact" class="home-cta-btn Anchor button">
-            <span class="home-text10">Get in Contact</span>
+            <span class="home-text010">Get in Contact</span>
           </a>
         </div>
       </div>
     </div>
     <div class="home-projects">
-      <strong id="Projects" class="home-text11">Projects</strong>
-      <span class="home-text12">
+      <strong id="Projects" class="home-text011">Projects</strong>
+      <span class="home-text012">
         I love exploring cutting-edge technologies and building interactive
         applications and solutions for problems. Additionally my device
         vulnerability research and security related projects are listed below.
@@ -187,7 +187,7 @@
       </div>
     </div>
     <div class="home-in-progress">
-      <strong id="In Progress" class="home-text13">In Progress</strong>
+      <strong id="In Progress" class="home-text013">In Progress</strong>
       <div class="home-logo-container">
         <div class="home-container02">
           <img
@@ -195,7 +195,7 @@
             src="/cissp%20-%20square-200h.png"
             class="home-image"
           />
-          <span class="home-text14">Estimated July 2023</span>
+          <span class="home-text014">Estimated July 2023</span>
         </div>
         <div class="home-container03">
           <img
@@ -203,19 +203,29 @@
             src="/aws-certified-solutions-architect-professional-200h.png"
             class="home-image1"
           />
-          <span class="home-text15">Estimated Nov. 2023</span>
+          <span class="home-text015">Estimated Nov. 2023</span>
         </div>
         <div class="home-container04">
           <img alt="image" src="/logo-white.svg" class="home-image2" />
-          <span class="home-text16">Home Automation, Ongoing</span>
+          <span class="home-text016">
+            <span>Ongoing</span>
+            <br />
+          </span>
         </div>
       </div>
     </div>
     <div class="home-experience">
-      <strong id="Experience" class="home-text17">
-        <span class="home-text18">Experience</span>
+      <strong id="Experience" class="home-text019">
+        <span class="home-text020">Experience</span>
         <br />
       </strong>
+      <span class="home-text022">
+        <span>
+          This is far from an exhaustive list of projects and is only to indicate
+          examples of past work. Reach out to me if you want additional details.
+        </span>
+        <br />
+      </span>
       <div class="home-pricing-card-container">
         <div class="home-card">
           <div class="home-card-heading">
@@ -231,17 +241,176 @@
             </div>
           </div>
           <div class="home-card-content">
-            <div class="home-container06">
-              <span class="home-text24 Card-Text">Feature four</span>
-              <span class="home-text25 Card-Text">UNLIMITED</span>
-            </div>
+            <span class="home-text029">
+              <span class="home-text030">Experience:</span>
+              <br />
+              <span>
+                Assisted clients to help secure large deals by assisting in
+                compliance with NIST, ISO and ISM frameworks.
+              </span>
+              <br />
+              <span>
+                Managed Security Information and Event Management (SIEM) actioning
+                alerts and performing investigations.
+              </span>
+              <br />
+              <span>
+                Created the incident response processes using NIST (SP 800-61) and
+                provided companies with incident response and forensics services.
+              </span>
+              <br />
+              <span>
+                Created and led a cyber incident response team (CIRT) to resolve
+                ransomware incidents for clients.
+              </span>
+              <br />
+              <span>
+                Provided risk assessments, filled risk matrices and scoped
+                projects to deliver appropriate technical and administrative
+                controls for multiple businesses.
+              </span>
+              <br />
+              <span>
+                Implemented computer information security (CIS) benchmarks for
+                systems and cloud hardening.
+              </span>
+              <br />
+              <span>
+                Managed the vulnerability remediation of CVE’s by drafting tickets
+                or directly mitigating with patching (via RMM) or implementing
+                workarounds.
+              </span>
+              <br />
+              <span>
+                Scoped and delivered projects including vulnerability scanning,
+                policy drafting, compliance auditing, system hardening, pen
+                testing and more.
+              </span>
+              <br />
+              <span>
+                Developed security products and services driving an increase from
+                $10 to $28 per user per month.
+                <span v-html="rawtabx"></span>
+              </span>
+              <br />
+              <span>
+                Built and scaled Security Awareness Webinars to 100+ sign ups per
+                month, used as training and marketing.
+              </span>
+              <br />
+              <br />
+            </span>
+            <span class="home-text053">
+              <span class="home-text054">Key Projects:</span>
+              <br class="home-text055" />
+              <span class="home-text056">
+                Project Turtle - Internal Security Hardening,
+              </span>
+              <br />
+              <span class="home-text058">
+                Assessed internal security for Office Solutions using CIS controls
+                assessment and provided recommendations for security gaps. This
+                included, migrating password managers and deploying for the entire
+                company, reworking health checks around the Strategy&apos;s for
+                Mitigating security Incidents to align with the ISM Framework,
+                migrating all clients DNS to Synergy as the old provider did not
+                offer MFA , establishing hybrid device enrolment and conditional
+                access policies, integrating our own internal SIEM for security
+                monitoring, rewriting internal processes and procedures to align
+                with the ACSC&apos;s ISM, establishing an Incident response
+                process that aligns with the NIST framework... and much more.
+              </span>
+              <br class="home-text059" />
+              <br class="home-text060" />
+              <span class="home-text061">
+                Health Provider - Forced Service Cutover,
+              </span>
+              <br />
+              <span class="home-text063">
+                I was involved in a forced cutover for a large healthcare provider
+                when another managed services provider threatened to cut off
+                hosted services upon news they would be moving off of their
+                services. There was a need to quickly transition their IT systems
+                to a new environment in our cloud platform due to the unforeseen
+                circumstance. I worked closely with the organization to plan and
+                execute the cutover, which involved migrating data, configuring
+                new systems, and ensuring minimal downtime during the transition.
+                The goal was to expedite the cutover process while maintaining the
+                integrity and availability of services. There was impact and
+                downtime resulting from the cutover process due to lack of access
+                to prior data, full recovery took just over 2 weeks with most
+                critical services being available within 3 days of the old service
+                provider terminating their services unexpectedly.
+              </span>
+              <br class="home-text064" />
+              <br />
+              <span class="home-text066">
+                Critical Infrastructure Provider - 
+              </span>
+              <span class="home-text067">Security Audit and Compliance,</span>
+              <br />
+              <span class="home-text069">
+                In this project, I drove with the security audit and compliance
+                implementation for a large business contracting to critical
+                Infrastructure. This was crucial for securing a significant
+                multi-million dollar contracts with multiple large Telcos. As a
+                technician, I collaborated with the CFO and Managing Director to
+                assess their existing security measures, policies, and
+                infrastructure. This involved making a number of sweeping changes
+                that took the better part of 6 months to implement and remains an
+                item that is continually re-evaluated with the executive. It
+                included enhancing network security, implementing access controls,
+                data encryption, and other measures to protect sensitive
+                information and ensuring compliance with industry standards.
+              </span>
+              <br class="home-text070" />
+              <br />
+              <span class="home-text072">Large Tech Company Project RFP - </span>
+              <span class="home-text073">Security Audit and Compliance,</span>
+              <br />
+              <span class="home-text075">
+                My role as a technician involved facilitating a security audit and
+                compliance implementation. The focus of this project would be on
+                outfitting the office with Splunk, a powerful data analytics and
+                security monitoring platform. I would work with the team to deploy
+                and configure Splunk, ensuring the proper integration with
+                existing systems, networks, and security infrastructure. I also
+                assisted in setting up data sources, creating dashboards and
+                alerts, and providing training to the staff to effectively utilize
+                Splunk for real-time security monitoring and compliance adherence.
+              </span>
+              <br class="home-text076" />
+              <br />
+              <span class="home-text078">Large Retail Chain - </span>
+              <span class="home-text079">D</span>
+              <span class="home-text080">
+                etailed IT Security Audit and Risk Assessment,
+              </span>
+              <br />
+              <span class="home-text082">
+                As the security expert I was responsible for conducting a detailed
+                IT security audit and risk assessment for a large retail operator
+                across nearly 100 locations. This would involve thoroughly
+                examining the organization&apos;s IT infrastructure, systems, and
+                processes to identify potential vulnerabilities, weaknesses, and
+                security risks. I performed security scans, penetration testing
+                with a third-party provider, and reviewed configurations to assess
+                the overall security posture of the business. Based on the
+                findings and review with the CFO and CTO, we proceeded to keep
+                driving recommendations and work with the goal of improving
+                security controls to mitigate the identified risks and enhance the
+                overall security of their IT environment, this is an ongoing
+                project with a milestones and objectives.
+              </span>
+              <br />
+            </span>
           </div>
         </div>
       </div>
       <div class="home-pricing-card-container1">
-        <div class="home-card1">
+        <div class="home-card01">
           <div class="home-card-heading1">
-            <div class="home-container07">
+            <div class="home-container06">
               <span class="home-price02">
                 <span>IT Manager</span>
                 <br />
@@ -253,17 +422,99 @@
             </div>
           </div>
           <div class="home-card-content1">
-            <div class="home-container08">
-              <span class="home-text30 Card-Text">Feature four</span>
-              <span class="home-text31 Card-Text">UNLIMITED</span>
-            </div>
+            <span class="home-text088">
+              <span class="home-text089">Experience:</span>
+              <br />
+              <span>
+                Scoped cloud hardening projects using Cloud Security Posture
+                Management (CSPM) tooling, Office 365 migrations, PowerBI projects
+                and cloud server builds.
+              </span>
+              <br />
+              <span>
+                Worked on the sales pipeline actioning microsoft leads as a
+                Microsoft Certified Partner.
+              </span>
+              <br />
+              <span>
+                Onboarded and supported 28 clients performing project scoping,
+                sales, team management and client relationship management.
+              </span>
+              <br />
+              <span>
+                Managed to scale up to five staff while as manager and reached
+                ~50k in monthly recurring revenue making the office
+                self-sustaining before moving back to Perth.
+              </span>
+              <br class="home-text098" />
+              <br />
+              <span>
+                Note: The projects listed were done while also performing this
+                management role, I was managing both the IT manager and Security
+                Specialist roles while ramping up the Melbourne office.
+              </span>
+              <br />
+              <br />
+            </span>
+            <span class="home-text103">
+              <span class="home-text104">Key Projects:</span>
+              <br />
+              <span class="home-text106">
+                Space Launch Provider - NASA Contractor, NIST Compliance,
+              </span>
+              <br />
+              <span class="home-text108">
+                I was involved in developing the Technical Security Plan (TSP)
+                Standards and Policies for a space launch provider based in the
+                Northern Territory as part of their NASA contract requirements.
+                This would involve working closely with the organization&apos;s
+                team to assess their technical security requirements, policies,
+                and procedures. Identified the necessary security controls and
+                measures to protect sensitive information and systems in
+                accordance with NASA&apos;s requirements. Additionally, we aimed
+                to ensure compliance with the National Institute of Standards and
+                Technology (NIST) guidelines, which provide a framework for
+                information security best practices. Which involved implementing
+                access controls, encryption mechanisms, and other security
+                measures to safeguard the organization&apos;s infrastructure and
+                data.
+              </span>
+              <br />
+              <br />
+              <span class="home-text111">
+                Large Private Sector Business - Ransomware,
+              </span>
+              <br />
+              <span class="home-text113">
+                Established a CIRT, to handle incident response collaboratively
+                worked on investigating the cause and impact. We started by
+                identifying the entry point of the ransomware, determining the
+                affected systems, and assessing the extent of data encryption as
+                per the incident response process. Following this and a discussion
+                with the Executives and insurance provider we began isolating
+                infected systems, disconnecting them from the network, and
+                resetting all users passwords in cloud and on-prem. Worked with
+                the on-site contact to recover the affected systems and data (~20%
+                of data was lost due to the backup solution). Isolated off the
+                network during recovery and worked remotely to restore to fresh
+                Virtual Machines on a separate non-routable VLAN. Throughout the
+                entire process, closely monitored the network, systems, and user
+                accounts to ensure the complete eradication of the ransomware and
+                any potential backdoors. Implemented additional security controls
+                mainly EDR tooling and conducted vulnerability assessments to
+                fortify the entity&apos;s defences against future attacks. Also
+                provided training and awareness sessions for the employees to
+                educate them about the ransomware incident, its potential impact,
+                and best practices for preventing similar incidents in the future.
+              </span>
+            </span>
           </div>
         </div>
       </div>
       <div class="home-pricing-card-container2">
-        <div class="home-card2">
+        <div class="home-card02">
           <div class="home-card-heading2">
-            <div class="home-container09">
+            <div class="home-container07">
               <span class="home-price04">Project Engineer</span>
               <span class="home-price05">
                 <span>Office Solutions IT</span>
@@ -272,17 +523,78 @@
             </div>
           </div>
           <div class="home-card-content2">
-            <div class="home-container10">
-              <span class="home-text34 Card-Text">Feature four</span>
-              <span class="home-text35 Card-Text">UNLIMITED</span>
-            </div>
+            <span class="home-text116">
+              <span class="home-text117">Experience:</span>
+              <br class="home-text118" />
+              <span class="home-text119">
+                Worked as the Project Engineer and IT Manager for a gold miner
+                with 3 mines based in Africa (Across Cote d&apos;ivoire and Ivory
+                Coast).
+              </span>
+              <br class="home-text120" />
+              <span class="home-text121">
+                Supported the Risk Management Framework (ISO/IEC 27000) and
+                managed and maintained the Risk Matrix.
+              </span>
+              <br class="home-text122" />
+              <span class="home-text123">
+                Managed three teams each responsible for systems maintenance and
+                support, 15 people, 3 direct reports.
+              </span>
+              <br class="home-text124" />
+              <span class="home-text125">
+                Scoped and managed the deployment of new infrastructure and
+                services for a new mine site location.
+              </span>
+              <br class="home-text126" />
+              <span class="home-text127">
+                Assisted in migration and build out of Server and Network
+                infrastructure to support ~900 workers across the sites.
+              </span>
+              <br class="home-text128" />
+              <br />
+            </span>
+            <span class="home-text130">
+              <span>Key Projects:</span>
+              <br />
+              <span class="home-text133">
+                Risk Management Process and Implemented Controls,
+              </span>
+              <br />
+              <span class="home-text135">
+                I would assess the severity and likelihood of each risk and
+                collaborate with stakeholders to determine suitable controls and
+                mitigation strategies. These controls included implementing
+                security measures, configuring access controls, conducting regular
+                vulnerability assessments, and ensuring alignment with ISO 27001.
+                I would also monitor and review the effectiveness of the
+                implemented controls to ensure ongoing risk mitigation.
+              </span>
+              <br class="home-text136" />
+              <br />
+              <span class="home-text138">New Mine Site Project Scoping,</span>
+              <br />
+              <span class="home-text140">
+                Defined the scope and requirements for implementing server and
+                networking infrastructure at a new mine site to be based in
+                Africa. I collaborated with the internal project stakeholders to
+                understand their specific needs and goals. Based on the
+                requirements scoped out appropriate server hardware
+                specifications, licensing, OS&apos;s, and network components
+                needed to support the site&apos;s operations. Including selecting
+                servers, switches, routers, and other network devices. A major
+                consideration was poor bandwidth availability, so most services
+                were scoped to run locally such as updates via WSUS.
+              </span>
+              <br />
+            </span>
           </div>
         </div>
       </div>
       <div class="home-pricing-card-container3">
-        <div class="home-card3">
+        <div class="home-card03">
           <div class="home-card-heading3">
-            <div class="home-container11">
+            <div class="home-container08">
               <span class="home-price06">
                 <span>Systems Engineer</span>
                 <br />
@@ -294,17 +606,100 @@
             </div>
           </div>
           <div class="home-card-content3">
-            <div class="home-container12">
-              <span class="home-text40 Card-Text">Feature four</span>
-              <span class="home-text41 Card-Text">UNLIMITED</span>
-            </div>
+            <span class="home-text146">
+              <span class="home-text147">Experience:</span>
+              <br />
+              <span class="home-text149">
+                Obtained CCNA and AWS certifications.
+              </span>
+              <br class="home-text150" />
+              <span class="home-text151">
+                Worked under a CISSP certified security minded mentor.
+                <span v-html="rawzhmp"></span>
+              </span>
+              <br class="home-text152" />
+              <span class="home-text153">
+                Worked heavily with multiple endpoint detection and response (EDR)
+                solutions including CrowdStrike, Onehop, Defender and SentinelOne.
+              </span>
+              <br class="home-text154" />
+              <span class="home-text155">
+                Gained solid understanding of Host Intrusion Detection/Prevention
+                Systems (HIDS and HIPS) and Web Application Firewalls (WAF) during
+                this period.
+              </span>
+              <br class="home-text156" />
+              <span class="home-text157">
+                Consistently delivered 35 billable hours per week, always meeting
+                and often exceeding KPI targets.
+              </span>
+              <br class="home-text158" />
+              <br />
+            </span>
+            <span class="home-text160">
+              <span>Key Projects:</span>
+              <br />
+              <span class="home-text163">WCP Broome Network,</span>
+              <br />
+              <span class="home-text165">
+                As a technician, I would be responsible for setting up the WCP
+                (West Coast Ports) Broome Network. This would involve installing
+                and configuring networking equipment such as switches, routers,
+                and firewalls to establish a reliable and secure network
+                infrastructure. I would ensure proper cabling, network
+                segmentation, and VLAN configurations to optimize network
+                performance and security. Additionally, I would set up network
+                services such as DHCP, DNS, and VPN to enable seamless
+                connectivity and access for users in the Broome location.
+              </span>
+              <br class="home-text166" />
+              <br />
+              <span class="home-text168">
+                Salt Lake - Potash - Mine Site (300 Cambium AP&apos;s and
+                Networking Equipment),
+              </span>
+              <br />
+              <span class="home-text170">
+                For the Salt Lake - Potash - Mine Site project, my role as a
+                technician would involve deploying a large number of Cambium
+                access points (APs) and networking equipment at the mine site.
+                This would include the installation and configuration of the APs,
+                switches, and other network components to ensure comprehensive and
+                reliable wireless coverage throughout the site. I would perform a
+                site survey to determine optimal AP placement and configure them
+                to provide seamless connectivity for mine workers and other
+                authorized users. Additionally, I would implement security
+                measures such as encryption and access controls to protect the
+                network and its resources.
+              </span>
+              <br class="home-text171" />
+              <br />
+              <span class="home-text173">
+                Mine Waste Management - Intune, Policies, and MDM,
+              </span>
+              <br />
+              <span class="home-text175">
+                As a technician, I would be involved in implementing Intune,
+                policies, and Mobile Device Management (MDM) solutions for the
+                Mine Waste Management project. Intune is a cloud-based service
+                provided by Microsoft for mobile device and application
+                management. I would configure Intune and establish policies to
+                enforce security measures on mobile devices used by the
+                organization. This would include setting up device enrollment,
+                applying security policies, configuring app deployments, and
+                managing access to corporate resources. With MDM, I would have the
+                ability to remotely manage and monitor mobile devices, ensuring
+                compliance with organizational policies and protecting sensitive
+                data.
+              </span>
+            </span>
           </div>
         </div>
       </div>
       <div class="home-pricing-card-container4">
-        <div class="home-card4">
+        <div class="home-card04">
           <div class="home-card-heading4">
-            <div class="home-container13">
+            <div class="home-container09">
               <span class="home-price08">
                 <span>Systems Engineer</span>
                 <br />
@@ -316,21 +711,236 @@
             </div>
           </div>
           <div class="home-card-content4">
-            <div class="home-container14">
-              <span class="home-text46 Card-Text">Feature four</span>
-              <span class="home-text47 Card-Text">UNLIMITED</span>
+            <span class="home-text180">
+              <span class="home-text181">Experience:</span>
+              <br />
+              <span class="home-text183">
+                Delivered network solutions for SMBs using the HP Aruba, Cyberoam
+                and SOPHOS suites of networking products.
+              </span>
+              <br class="home-text184" />
+              <span class="home-text185">
+                Assisted with office relocations for businesses.
+              </span>
+              <br class="home-text186" />
+              <span class="home-text187">
+                Gained a solid understanding of ticketing systems and triage.
+              </span>
+              <br class="home-text188" />
+              <span class="home-text189">
+                Worked on multiple server and infrastructure deployment projects
+                and gained a great understanding of server roles and larger scale
+                deployments.
+              </span>
+              <br class="home-text190" />
+              <br />
+            </span>
+            <span class="home-text192">
+              <span class="home-text193">Key Projects:</span>
+              <br class="home-text194" />
+              <span class="home-text195">
+                Mining Company - New Servers and Equipment,
+              </span>
+              <br />
+              <span class="home-text197">
+                Deployed servers and equipment required for their operations,
+                setup new domain controller, remote desktop environment and
+                SQL/Application servers. Installed and configured Dell servers
+                with Open Manage (OMSA) along with the hardware, operating
+                systems, and necessary software applications. Connected proper
+                cabling, co-ordinated cablers and fibre between cabinets. Setup
+                backups using shadow protect and image manager to a NAS via iSCSI.
+              </span>
+              <br />
+              <br />
+              <span class="home-text200">
+                Mining Company - Karratha Remote Office Buildout,
+              </span>
+              <br />
+              <span class="home-text202">
+                Working with the CTO and CISO of a mining company with mine near
+                Karratha involved setting up a remote office location in Karratha
+                for operations. As a technician, I flew up with another
+                technician, installed and configure the necessary network
+                equipment, such as routers, switches, and firewalls, to establish
+                connectivity with the main office and other locations via IPsec
+                Tunnels and MPLS. Imaged systems to a golden image and ran the
+                required cabling for the office systems. Setup other required
+                resource such as the boardroom conference system and phone system.
+              </span>
+              <br />
+              <br />
+              <span><span v-html="rawrr32"></span></span>
+              <span class="home-text206">
+                Website Hosting Migrations and Administration,
+              </span>
+              <br />
+              <span class="home-text208">
+                I oversaw the transfer of websites from one hosting environment to
+                another. This involved migrating website files, databases, and
+                configurations to a new server or hosting provider for hundreds of
+                websites. I would ensure that the new environment is properly set
+                up, including configuring web servers, databases, DNS settings,
+                and SSL certificates. Lots on time spent fixing PHP package
+                dependencies and resolving issues in phpmyAdmin. This further
+                included the management and ongoing maintenance of the hosting
+                infrastructure over most of my time spent at ActivIT.
+              </span>
+            </span>
+          </div>
+        </div>
+      </div>
+      <div class="home-pricing-card-container5">
+        <div class="home-card05">
+          <div class="home-card-heading5">
+            <div class="home-container10">
+              <span class="home-price10">
+                <span>Systems Administrator</span>
+                <br />
+              </span>
+              <span class="home-price11">
+                <span>West Coast ICT</span>
+                <br />
+              </span>
             </div>
+          </div>
+          <div class="home-card-content5">
+            <span class="home-text213">
+              <span class="home-text214">Experience:</span>
+              <br />
+              <span>
+                Provided support services for 6 different catholic schools on a
+                rotating on-site roster.
+              </span>
+              <br />
+              <span>Supported staff and teachers in IT related issues.</span>
+              <br />
+              <span>
+                Built server infrastructure, including Domain Controllers, SQL,
+                Exchange and remote desktop gateways.
+              </span>
+              <br />
+              <span>
+                Imaged several computer labs using Symantec Ghost and tools like
+                Sysprep based on pre-baked images.
+              </span>
+              <br />
+              <span>
+                Migrated several schools from Exchange and SMB File Shares into
+                Office 365 and SharePoint.
+                <span v-html="rawroiv"></span>
+              </span>
+              <br class="home-text225" />
+              <br />
+            </span>
+            <span class="home-text227">
+              <span class="home-text228">Key Projects:</span>
+              <br class="home-text229" />
+              <span class="home-text230">Unifi and Ruckus Deployments,</span>
+              <br />
+              <span class="home-text232">
+                As a technician for West Coast ICT, I would be responsible for
+                deploying Unifi networking equipment in various schools. This
+                would involve surveying the school premises to determine optimal
+                placement of access points, switches, and other network
+                components. I would install and configure the Unifi devices,
+                ensuring seamless wireless connectivity and reliable network
+                performance throughout the school. Additionally, I would implement
+                security measures and perform testing to ensure the network meets
+                the school&apos;s requirements.
+              </span>
+              <br class="home-text233" />
+              <br />
+              <span class="home-text235">
+                Computer Lab Imaging Symantec Ghost,
+              </span>
+              <br class="home-text236" />
+              <span class="home-text237">
+                I utilized Symantec Ghost to create standardized computer system
+                images for school computer labs. As a technician, I configured one
+                PC with the desired operating system, applications, and local
+                policy settings. Then, using imaging software, I would capture
+                this image and deploy it to multiple computers simultaneously.
+                This process enabled rapid deployment of identical software
+                configurations, saving time and ensuring consistency across the
+                deployed PCs.
+              </span>
+              <br class="home-text238" />
+              <br />
+              <span class="home-text240">
+                Migration to Office 365 for multiple schools,
+              </span>
+              <br class="home-text241" />
+              <span class="home-text242">
+                As a technician, my responsibility was be to migrate the email
+                infrastructure of multiple schools from an on-premises Microsoft
+                Exchange servers to Office 365. This migration process involved
+                careful planning and execution to ensure a seamless transition. I
+                assessed the existing Exchange environment, including mailboxes,
+                distribution lists, and public folders, and plan the migration
+                strategy accordingly. The migrations included setting up the
+                Office 365 environment, configuring the necessary DNS records, and
+                establishing the necessary connectivity between the schools&apos;
+                on-premises infrastructure and Office 365 for a hybrid migration
+                approach, where mailboxes are gradually moved to Office 365 while
+                ensuring continuous email flow and minimal disruption to users.
+                During the migration, I ensured that mailbox data, including
+                emails, calendars, contacts, and tasks, is accurately transferred
+                to the new Office 365 environment.
+              </span>
+              <br class="home-text243" />
+            </span>
+          </div>
+        </div>
+      </div>
+      <div class="home-pricing-card-container6">
+        <div class="home-card06">
+          <div class="home-card-heading6">
+            <div class="home-container11">
+              <span class="home-price12">
+                <span>Data Replication Contract</span>
+                <br />
+              </span>
+              <span class="home-price13">
+                <span>
+                  Edith Cowan University (School of Business and Managment)
+                </span>
+                <br />
+              </span>
+            </div>
+          </div>
+          <div class="home-card-content6">
+            <span class="home-text248">
+              <span class="home-text249">Experience:</span>
+              <br />
+              <span class="home-text251">
+                Used custom web tooling to scrape data from the blackboard systems
+                (LMS) and archive it for later use.
+              </span>
+              <br class="home-text252" />
+              <span class="home-text253">
+                Used the chrome console and web scraping tools to deliver a
+                repeatable and effective solution for later years.
+              </span>
+              <br class="home-text254" />
+              <span class="home-text255">
+                Successfully archived over 80 courses for later review as
+                required, using tooling written in C#.
+              </span>
+              <br class="home-text256" />
+              <br />
+            </span>
           </div>
         </div>
       </div>
     </div>
     <div class="home-badges">
-      <strong id="Badges" class="home-text48">
-        <span class="home-text49">Badges</span>
+      <strong id="Badges" class="home-text258">
+        <span class="home-text259">Badges</span>
         <br />
       </strong>
       <div class="home-cards-container">
-        <div class="home-card5">
+        <div class="home-card07">
           <div class="home-icon-container">
             <img
               alt="image"
@@ -339,12 +949,12 @@
             />
           </div>
         </div>
-        <div class="home-card6">
+        <div class="home-card08">
           <div class="home-icon-container1">
             <img alt="image" src="/ccna%20r%26s-1200w.jpg" class="home-image4" />
           </div>
         </div>
-        <div class="home-card7">
+        <div class="home-card09">
           <div class="home-icon-container2">
             <img alt="image" src="/aplus.svg" class="home-image5" />
           </div>
@@ -354,47 +964,47 @@
     <div class="home-career-stats-and-contacts">
       <div class="home-stats">
         <div class="home-stat">
-          <h1 class="home-text51">800+</h1>
-          <span class="home-text52">Happy clients</span>
+          <h1 class="home-text261">800+</h1>
+          <span class="home-text262">Happy clients</span>
         </div>
         <div class="home-stat1">
-          <h1 class="home-text53">200+</h1>
-          <span class="home-text54">Projects Delivered</span>
+          <h1 class="home-text263">180+</h1>
+          <span class="home-text264">Projects Delivered</span>
         </div>
         <div class="home-stat2">
-          <h1 class="home-text55">12</h1>
-          <span class="home-text56">
-            <span class="home-text57">Years in Industry</span>
+          <h1 class="home-text265">12</h1>
+          <span class="home-text266">
+            <span class="home-text267">Years in Industry</span>
             <br />
           </span>
         </div>
         <div class="home-stat3">
-          <h1 class="home-text59">~150</h1>
-          <span class="home-text60">Engineer/Tech colleagues</span>
+          <h1 class="home-text269">~150</h1>
+          <span class="home-text270">Engineer/Tech colleagues</span>
         </div>
       </div>
       <div class="home-footer">
-        <div class="home-container15"></div>
-        <span id="Contact" class="home-text61">
-          <span class="home-text62">Get in contact...</span>
+        <div class="home-container12"></div>
+        <span id="Contact" class="home-text271">
+          <span class="home-text272">Get in contact...</span>
           <br />
           <br />
           <br />
           <br />
         </span>
-        <div class="home-container16">
+        <div class="home-container13">
           <div class="home-contact">
-            <span class="home-text67">
-              <span class="home-text68">Email:</span>
-              <span><span v-html="rawj8xb"></span></span>
+            <span class="home-text277">
+              <span class="home-text278">Email:</span>
+              <span><span v-html="rawgbop"></span></span>
               <a href="mailto:Joshbarr52@gmail.com?subject=Nice to e-meet you :)">
                 Joshbarr52@gmail.com
               </a>
               <br />
-              <span class="home-text71">Medium:</span>
+              <span class="home-text281">Medium:</span>
               <span> </span>
               <br />
-              <span class="home-text74">Linkedin:</span>
+              <span class="home-text284">Linkedin:</span>
               <span> </span>
               <a
                 href="https://www.linkedin.com/in/josh-barr-cs/"
@@ -426,8 +1036,12 @@ export default {
   },
   data() {
     return {
-      raws52t: ' ',
-      rawj8xb: ' ',
+      rawfhmu: ' ',
+      rawtabx: ' ',
+      rawzhmp: ' ',
+      rawrr32: ' ',
+      rawroiv: ' ',
+      rawgbop: ' ',
     }
   },
   metaInfo: {
@@ -623,7 +1237,7 @@ export default {
   margin-top: var(--dl-space-space-doubleunit);
   margin-bottom: var(--dl-space-space-doubleunit);
 }
-.home-text04 {
+.home-text004 {
   color: var(--dl-color-gray-white);
   font-size: 16px;
   font-family: Nunito;
@@ -650,7 +1264,7 @@ export default {
   text-decoration: none;
   background-color: var(--dl-color-light-color5);
 }
-.home-text10 {
+.home-text010 {
   color: var(--dl-color-gray-white);
 }
 .home-projects {
@@ -666,7 +1280,7 @@ export default {
   padding-bottom: var(--dl-space-space-fiveunits);
   background-color: var(--dl-color-light-color4);
 }
-.home-text11 {
+.home-text011 {
   color: var(--dl-color-gray-black);
   font-size: 34px;
   margin-top: var(--dl-space-space-tripleunit);
@@ -675,7 +1289,7 @@ export default {
   margin-right: var(--dl-space-space-fourunits);
   margin-bottom: var(--dl-space-space-tripleunit);
 }
-.home-text12 {
+.home-text012 {
   color: var(--dl-color-gray-black);
   font-size: 18px;
   font-family: Nunito;
@@ -715,12 +1329,10 @@ export default {
   max-width: var(--dl-size-size-maxcontent);
   align-items: center;
   padding-left: var(--dl-space-space-tripleunit);
-  margin-bottom: 21px;
   padding-right: var(--dl-space-space-tripleunit);
   flex-direction: column;
-  padding-bottom: 20px;
 }
-.home-text13 {
+.home-text013 {
   color: var(--dl-color-gray-white);
   margin: var(--dl-space-space-tripleunit);
   font-size: 34px;
@@ -748,11 +1360,11 @@ export default {
   justify-content: center;
 }
 .home-image {
-  width: 155px;
-  height: 160px;
+  width: 132px;
+  height: 130px;
   object-fit: cover;
 }
-.home-text14 {
+.home-text014 {
   color: var(--dl-color-gray-white);
 }
 .home-container03 {
@@ -765,11 +1377,11 @@ export default {
   justify-content: center;
 }
 .home-image1 {
-  width: 165px;
-  height: 159px;
+  width: 128px;
+  height: 129px;
   object-fit: cover;
 }
-.home-text15 {
+.home-text015 {
   color: var(--dl-color-gray-white);
 }
 .home-container04 {
@@ -782,11 +1394,11 @@ export default {
   justify-content: center;
 }
 .home-image2 {
-  width: 180px;
-  height: 162px;
+  width: 144px;
+  height: 132px;
   object-fit: cover;
 }
-.home-text16 {
+.home-text016 {
   color: var(--dl-color-gray-white);
 }
 .home-experience {
@@ -799,7 +1411,7 @@ export default {
   flex-direction: column;
   padding-bottom: 36px;
 }
-.home-text17 {
+.home-text019 {
   color: var(--dl-color-gray-white);
   margin: var(--dl-space-space-tripleunit);
   font-size: 34px;
@@ -808,6 +1420,10 @@ export default {
   margin-left: var(--dl-space-space-fourunits);
   margin-right: var(--dl-space-space-fourunits);
   margin-bottom: var(--dl-space-space-fourunits);
+}
+.home-text022 {
+  color: var(--dl-color-gray-white);
+  align-self: center;
 }
 .home-pricing-card-container {
   width: 100%;
@@ -870,20 +1486,95 @@ export default {
   padding-bottom: var(--dl-space-space-fiveunits);
   justify-content: center;
 }
-.home-container06 {
-  width: 100%;
-  display: flex;
-  align-items: center;
-  padding-top: var(--dl-space-space-doubleunit);
-  flex-direction: row;
-  padding-bottom: var(--dl-space-space-doubleunit);
-  justify-content: space-between;
+.home-text029 {
+  color: var(--dl-color-gray-white);
+  font-size: 12px;
+  align-self: flex-start;
+  margin-top: var(--dl-space-space-doubleunit);
 }
-.home-text24 {
+.home-text030 {
+  color: var(--dl-color-gray-700);
+  font-size: 18px;
+}
+.home-text053 {
+  color: var(--dl-color-gray-white);
+  align-self: flex-start;
+}
+.home-text054 {
+  color: var(--dl-color-gray-700);
+  font-size: 18px;
+}
+.home-text055 {
+  color: var(--dl-color-light-color2);
+  font-size: 14px;
+}
+.home-text056 {
+  color: var(--dl-color-light-color2);
+  font-size: 14px;
+}
+.home-text058 {
+  font-size: 12px;
+}
+.home-text059 {
+  color: var(--dl-color-light-color2);
+  font-size: 14px;
+}
+.home-text060 {
+  color: var(--dl-color-light-color2);
+  font-size: 14px;
+}
+.home-text061 {
+  color: var(--dl-color-light-color2);
+  font-size: 14px;
+}
+.home-text063 {
+  font-size: 12px;
+}
+.home-text064 {
   color: var(--dl-color-gray-white);
 }
-.home-text25 {
+.home-text066 {
+  color: var(--dl-color-light-color2);
+  font-size: 14px;
+}
+.home-text067 {
+  color: var(--dl-color-light-color2);
+  font-size: 14px;
+}
+.home-text069 {
+  font-size: 12px;
+}
+.home-text070 {
   color: var(--dl-color-gray-white);
+}
+.home-text072 {
+  color: var(--dl-color-light-color2);
+  font-size: 14px;
+}
+.home-text073 {
+  color: var(--dl-color-light-color2);
+  font-size: 14px;
+}
+.home-text075 {
+  font-size: 12px;
+}
+.home-text076 {
+  color: var(--dl-color-gray-white);
+}
+.home-text078 {
+  color: var(--dl-color-light-color2);
+  font-size: 14px;
+}
+.home-text079 {
+  color: var(--dl-color-light-color2);
+  font-size: 14px;
+}
+.home-text080 {
+  color: var(--dl-color-light-color2);
+  font-size: 14px;
+}
+.home-text082 {
+  font-size: 12px;
 }
 .home-pricing-card-container1 {
   width: 100%;
@@ -895,7 +1586,7 @@ export default {
   flex-direction: row;
   justify-content: center;
 }
-.home-card1 {
+.home-card01 {
   width: 90%;
   display: flex;
   min-width: 350px;
@@ -920,7 +1611,7 @@ export default {
   border-bottom-left-radius: 0;
   border-bottom-right-radius: 0;
 }
-.home-container07 {
+.home-container06 {
   width: 100%;
   height: 100%;
   display: flex;
@@ -946,20 +1637,39 @@ export default {
   padding-bottom: var(--dl-space-space-fiveunits);
   justify-content: center;
 }
-.home-container08 {
-  width: 100%;
-  display: flex;
-  align-items: center;
-  padding-top: var(--dl-space-space-doubleunit);
-  flex-direction: row;
-  padding-bottom: var(--dl-space-space-doubleunit);
-  justify-content: space-between;
+.home-text088 {
+  color: var(--dl-color-gray-white);
+  font-size: 12px;
+  align-self: flex-start;
+  margin-top: var(--dl-space-space-doubleunit);
 }
-.home-text30 {
+.home-text089 {
+  color: var(--dl-color-gray-700);
+  font-size: 18px;
+}
+.home-text098 {
   color: var(--dl-color-gray-white);
 }
-.home-text31 {
+.home-text103 {
   color: var(--dl-color-gray-white);
+  align-self: flex-start;
+}
+.home-text104 {
+  color: var(--dl-color-gray-700);
+}
+.home-text106 {
+  color: var(--dl-color-light-color2);
+  font-size: 14px;
+}
+.home-text108 {
+  font-size: 12px;
+}
+.home-text111 {
+  color: var(--dl-color-light-color2);
+  font-size: 14px;
+}
+.home-text113 {
+  font-size: 12px;
 }
 .home-pricing-card-container2 {
   width: 100%;
@@ -971,7 +1681,7 @@ export default {
   flex-direction: row;
   justify-content: center;
 }
-.home-card2 {
+.home-card02 {
   width: 90%;
   display: flex;
   min-width: 350px;
@@ -996,7 +1706,7 @@ export default {
   border-bottom-left-radius: 0;
   border-bottom-right-radius: 0;
 }
-.home-container09 {
+.home-container07 {
   width: 100%;
   height: 100%;
   display: flex;
@@ -1022,20 +1732,69 @@ export default {
   padding-bottom: var(--dl-space-space-fiveunits);
   justify-content: center;
 }
-.home-container10 {
-  width: 100%;
-  display: flex;
-  align-items: center;
-  padding-top: var(--dl-space-space-doubleunit);
-  flex-direction: row;
-  padding-bottom: var(--dl-space-space-doubleunit);
-  justify-content: space-between;
+.home-text116 {
+  color: var(--dl-color-gray-white);
+  align-self: flex-start;
+  margin-top: var(--dl-space-space-doubleunit);
 }
-.home-text34 {
+.home-text117 {
+  color: var(--dl-color-gray-700);
+  font-size: 18px;
+}
+.home-text118 {
+  font-size: 12px;
+}
+.home-text119 {
+  font-size: 12px;
+}
+.home-text120 {
+  font-size: 12px;
+}
+.home-text121 {
+  font-size: 12px;
+}
+.home-text122 {
+  font-size: 12px;
+}
+.home-text123 {
+  font-size: 12px;
+}
+.home-text124 {
+  font-size: 12px;
+}
+.home-text125 {
+  font-size: 12px;
+}
+.home-text126 {
+  font-size: 12px;
+}
+.home-text127 {
+  font-size: 12px;
+}
+.home-text128 {
+  color: var(--dl-color-gray-white);
+  font-size: 12px;
+}
+.home-text130 {
+  color: var(--dl-color-gray-white);
+  align-self: flex-start;
+}
+.home-text133 {
+  color: var(--dl-color-light-color2);
+  font-size: 14px;
+}
+.home-text135 {
+  font-size: 12px;
+}
+.home-text136 {
   color: var(--dl-color-gray-white);
 }
-.home-text35 {
-  color: var(--dl-color-gray-white);
+.home-text138 {
+  color: var(--dl-color-light-color2);
+  font-size: 14px;
+}
+.home-text140 {
+  font-size: 12px;
 }
 .home-pricing-card-container3 {
   width: 100%;
@@ -1047,7 +1806,7 @@ export default {
   flex-direction: row;
   justify-content: center;
 }
-.home-card3 {
+.home-card03 {
   width: 90%;
   display: flex;
   min-width: 350px;
@@ -1072,7 +1831,7 @@ export default {
   border-bottom-left-radius: 0;
   border-bottom-right-radius: 0;
 }
-.home-container11 {
+.home-container08 {
   width: 100%;
   height: 100%;
   display: flex;
@@ -1098,20 +1857,75 @@ export default {
   padding-bottom: var(--dl-space-space-fiveunits);
   justify-content: center;
 }
-.home-container12 {
-  width: 100%;
-  display: flex;
-  align-items: center;
-  padding-top: var(--dl-space-space-doubleunit);
-  flex-direction: row;
-  padding-bottom: var(--dl-space-space-doubleunit);
-  justify-content: space-between;
+.home-text146 {
+  color: var(--dl-color-gray-white);
+  align-self: flex-start;
+  margin-top: var(--dl-space-space-doubleunit);
 }
-.home-text40 {
+.home-text147 {
+  color: var(--dl-color-gray-700);
+  font-size: 18px;
+}
+.home-text149 {
+  font-size: 12px;
+}
+.home-text150 {
+  font-size: 12px;
+}
+.home-text151 {
+  font-size: 12px;
+}
+.home-text152 {
+  font-size: 12px;
+}
+.home-text153 {
+  font-size: 12px;
+}
+.home-text154 {
+  font-size: 12px;
+}
+.home-text155 {
+  font-size: 12px;
+}
+.home-text156 {
+  font-size: 12px;
+}
+.home-text157 {
+  font-size: 12px;
+}
+.home-text158 {
   color: var(--dl-color-gray-white);
 }
-.home-text41 {
+.home-text160 {
   color: var(--dl-color-gray-white);
+  align-self: flex-start;
+}
+.home-text163 {
+  color: var(--dl-color-light-color2);
+  font-size: 14px;
+}
+.home-text165 {
+  font-size: 12px;
+}
+.home-text166 {
+  color: var(--dl-color-gray-white);
+}
+.home-text168 {
+  color: var(--dl-color-light-color2);
+  font-size: 14px;
+}
+.home-text170 {
+  font-size: 12px;
+}
+.home-text171 {
+  color: var(--dl-color-gray-white);
+}
+.home-text173 {
+  color: var(--dl-color-light-color2);
+  font-size: 14px;
+}
+.home-text175 {
+  font-size: 12px;
 }
 .home-pricing-card-container4 {
   width: 100%;
@@ -1123,7 +1937,7 @@ export default {
   flex-direction: row;
   justify-content: center;
 }
-.home-card4 {
+.home-card04 {
   width: 90%;
   display: flex;
   min-width: 350px;
@@ -1148,7 +1962,7 @@ export default {
   border-bottom-left-radius: 0;
   border-bottom-right-radius: 0;
 }
-.home-container13 {
+.home-container09 {
   width: 100%;
   height: 100%;
   display: flex;
@@ -1174,19 +1988,286 @@ export default {
   padding-bottom: var(--dl-space-space-fiveunits);
   justify-content: center;
 }
-.home-container14 {
+.home-text180 {
+  color: var(--dl-color-gray-white);
+  font-size: 14px;
+  align-self: flex-start;
+  margin-top: var(--dl-space-space-doubleunit);
+}
+.home-text181 {
+  color: var(--dl-color-gray-700);
+  font-size: 18px;
+}
+.home-text183 {
+  font-size: 12px;
+}
+.home-text184 {
+  font-size: 12px;
+}
+.home-text185 {
+  font-size: 12px;
+}
+.home-text186 {
+  font-size: 12px;
+}
+.home-text187 {
+  font-size: 12px;
+}
+.home-text188 {
+  color: var(--dl-color-gray-white);
+}
+.home-text189 {
+  color: var(--dl-color-gray-white);
+  font-size: 12px;
+}
+.home-text190 {
+  color: var(--dl-color-gray-white);
+}
+.home-text192 {
+  color: var(--dl-color-gray-white);
+  align-self: flex-start;
+}
+.home-text193 {
+  color: var(--dl-color-gray-700);
+  font-size: 18px;
+}
+.home-text194 {
+  color: var(--dl-color-light-color2);
+}
+.home-text195 {
+  color: var(--dl-color-light-color2);
+  font-size: 14px;
+}
+.home-text197 {
+  font-size: 12px;
+}
+.home-text200 {
+  color: var(--dl-color-light-color2);
+  font-size: 14px;
+}
+.home-text202 {
+  font-size: 12px;
+}
+.home-text206 {
+  color: var(--dl-color-light-color2);
+  font-size: 14px;
+}
+.home-text208 {
+  font-size: 12px;
+}
+.home-pricing-card-container5 {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  align-self: center;
+  margin-top: var(--dl-space-space-doubleunit);
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: center;
+}
+.home-card05 {
+  width: 90%;
+  display: flex;
+  min-width: 350px;
+  align-self: center;
+  align-items: center;
+  border-color: var(--dl-color-gray-900);
+  border-width: 1px;
+  border-radius: var(--dl-radius-radius-radius8);
+  flex-direction: column;
+}
+.home-card-heading5 {
   width: 100%;
   display: flex;
   align-items: center;
-  padding-top: var(--dl-space-space-doubleunit);
-  flex-direction: row;
-  padding-bottom: var(--dl-space-space-doubleunit);
-  justify-content: space-between;
+  padding-top: var(--dl-space-space-unit);
+  padding-left: var(--dl-space-space-unit);
+  border-radius: var(--dl-radius-radius-radius8);
+  padding-right: var(--dl-space-space-unit);
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-unit);
+  background-color: var(--dl-color-light-color4);
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
 }
-.home-text46 {
+.home-container10 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.home-price10 {
+  font-size: 30px;
+  font-family: Nunito;
+}
+.home-price11 {
+  font-size: 18px;
+  font-family: Nunito;
+  margin-left: 50%;
+}
+.home-card-content5 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  padding-left: var(--dl-space-space-tripleunit);
+  padding-right: var(--dl-space-space-tripleunit);
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-fiveunits);
+  justify-content: center;
+}
+.home-text213 {
+  color: var(--dl-color-gray-white);
+  font-size: 12px;
+  align-self: flex-start;
+  margin-top: var(--dl-space-space-doubleunit);
+}
+.home-text214 {
+  color: var(--dl-color-gray-700);
+  font-size: 18px;
+}
+.home-text225 {
   color: var(--dl-color-gray-white);
 }
-.home-text47 {
+.home-text227 {
+  color: var(--dl-color-gray-white);
+  align-self: flex-start;
+}
+.home-text228 {
+  color: var(--dl-color-gray-700);
+  font-size: 18px;
+}
+.home-text229 {
+  color: var(--dl-color-light-color2);
+  font-size: 14px;
+}
+.home-text230 {
+  color: var(--dl-color-light-color2);
+  font-size: 14px;
+}
+.home-text232 {
+  font-size: 12px;
+}
+.home-text233 {
+  color: var(--dl-color-gray-white);
+}
+.home-text235 {
+  color: var(--dl-color-light-color2);
+  font-size: 14px;
+}
+.home-text236 {
+  font-size: 12px;
+}
+.home-text237 {
+  font-size: 12px;
+}
+.home-text238 {
+  color: var(--dl-color-gray-white);
+}
+.home-text240 {
+  color: var(--dl-color-light-color2);
+  font-size: 14px;
+}
+.home-text241 {
+  color: var(--dl-color-gray-white);
+  font-size: 12px;
+}
+.home-text242 {
+  font-size: 12px;
+}
+.home-text243 {
+  color: var(--dl-color-gray-white);
+}
+.home-pricing-card-container6 {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  align-self: center;
+  margin-top: var(--dl-space-space-doubleunit);
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: center;
+}
+.home-card06 {
+  width: 90%;
+  display: flex;
+  min-width: 350px;
+  align-self: center;
+  align-items: center;
+  border-color: var(--dl-color-gray-900);
+  border-width: 1px;
+  border-radius: var(--dl-radius-radius-radius8);
+  flex-direction: column;
+}
+.home-card-heading6 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  padding-top: var(--dl-space-space-unit);
+  padding-left: var(--dl-space-space-unit);
+  border-radius: var(--dl-radius-radius-radius8);
+  padding-right: var(--dl-space-space-unit);
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-unit);
+  background-color: var(--dl-color-light-color4);
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+.home-container11 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.home-price12 {
+  width: 100%;
+  font-size: 30px;
+  font-family: Nunito;
+  margin-left: 6%;
+}
+.home-price13 {
+  width: 100%;
+  font-size: 18px;
+  font-family: Nunito;
+  margin-left: 50%;
+}
+.home-card-content6 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  padding-left: var(--dl-space-space-tripleunit);
+  padding-right: var(--dl-space-space-tripleunit);
+  flex-direction: column;
+  justify-content: center;
+}
+.home-text248 {
+  color: var(--dl-color-gray-white);
+  align-self: flex-start;
+  margin-top: var(--dl-space-space-doubleunit);
+}
+.home-text249 {
+  color: var(--dl-color-gray-700);
+  font-size: 18px;
+}
+.home-text251 {
+  font-size: 12px;
+}
+.home-text252 {
+  color: var(--dl-color-gray-white);
+  font-size: 12px;
+}
+.home-text253 {
+  font-size: 12px;
+}
+.home-text254 {
+  color: var(--dl-color-gray-white);
+  font-size: 12px;
+}
+.home-text255 {
+  font-size: 12px;
+}
+.home-text256 {
   color: var(--dl-color-gray-white);
 }
 .home-badges {
@@ -1203,7 +2284,7 @@ export default {
   flex-direction: column;
   background-color: var(--dl-color-light-colour1);
 }
-.home-text48 {
+.home-text258 {
   color: var(--dl-color-gray-white);
   font-size: 34px;
   margin-top: var(--dl-space-space-doubleunit);
@@ -1221,7 +2302,7 @@ export default {
   flex-direction: row;
   justify-content: space-between;
 }
-.home-card5 {
+.home-card07 {
   width: 30%;
   display: flex;
   align-items: center;
@@ -1243,7 +2324,7 @@ export default {
   width: 200px;
   object-fit: cover;
 }
-.home-card6 {
+.home-card08 {
   width: 30%;
   display: flex;
   align-items: center;
@@ -1267,7 +2348,7 @@ export default {
   object-fit: cover;
   padding-top: var(--dl-space-space-fourunits);
 }
-.home-card7 {
+.home-card09 {
   width: 30%;
   display: flex;
   align-items: center;
@@ -1311,11 +2392,11 @@ export default {
   align-items: center;
   flex-direction: column;
 }
-.home-text51 {
+.home-text261 {
   color: rgb(255, 124, 76);
   font-size: 3rem;
 }
-.home-text52 {
+.home-text262 {
   color: var(--dl-color-gray-white);
   font-size: 1.15rem;
   margin-top: var(--dl-space-space-halfunit);
@@ -1326,11 +2407,11 @@ export default {
   align-items: center;
   flex-direction: column;
 }
-.home-text53 {
+.home-text263 {
   color: rgb(255, 124, 76);
   font-size: 3rem;
 }
-.home-text54 {
+.home-text264 {
   color: var(--dl-color-gray-white);
   font-size: 1.15rem;
   margin-top: var(--dl-space-space-halfunit);
@@ -1341,11 +2422,11 @@ export default {
   align-items: center;
   flex-direction: column;
 }
-.home-text55 {
+.home-text265 {
   color: rgb(255, 124, 76);
   font-size: 3rem;
 }
-.home-text56 {
+.home-text266 {
   color: var(--dl-color-gray-white);
   font-size: 1.15rem;
   margin-top: var(--dl-space-space-halfunit);
@@ -1356,11 +2437,11 @@ export default {
   align-items: center;
   flex-direction: column;
 }
-.home-text59 {
+.home-text269 {
   color: rgb(255, 124, 76);
   font-size: 3rem;
 }
-.home-text60 {
+.home-text270 {
   color: var(--dl-color-gray-white);
   font-size: 1.15rem;
   margin-top: var(--dl-space-space-halfunit);
@@ -1383,23 +2464,23 @@ export default {
   justify-content: space-between;
   background-color: var(--dl-color-light-color4);
 }
-.home-container15 {
+.home-container12 {
   border: 2px dashed rgba(120, 120, 120, 0.4);
   display: flex;
   align-items: flex-start;
   flex-direction: column;
   justify-content: flex-start;
 }
-.home-text61 {
+.home-text271 {
   align-self: flex-start;
   font-weight: 700;
   margin-left: 10%;
   margin-bottom: 24px;
 }
-.home-text62 {
+.home-text272 {
   font-size: 36px;
 }
-.home-container16 {
+.home-container13 {
   width: 60%;
   display: flex;
   align-items: flex-start;
@@ -1415,18 +2496,18 @@ export default {
   flex-direction: column;
   justify-content: flex-start;
 }
-.home-text67 {
+.home-text277 {
   align-self: flex-start;
   text-align: left;
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text68 {
+.home-text278 {
   font-weight: 700;
 }
-.home-text71 {
+.home-text281 {
   font-weight: 700;
 }
-.home-text74 {
+.home-text284 {
   font-weight: 700;
 }
 .home-link17 {
@@ -1460,33 +2541,33 @@ export default {
   .home-heading2 {
     text-align: center;
   }
-  .home-text04 {
+  .home-text004 {
     align-self: center;
     text-align: left;
   }
   .home-projects {
     width: 98%;
   }
-  .home-text11 {
+  .home-text011 {
     align-self: center;
     text-align: left;
   }
-  .home-text12 {
+  .home-text012 {
     align-self: center;
     text-align: left;
   }
   .home-gallery {
     grid-template-columns: 1fr 1fr;
   }
-  .home-text13 {
+  .home-text013 {
     align-self: center;
     text-align: left;
   }
-  .home-text17 {
+  .home-text019 {
     align-self: center;
     text-align: left;
   }
-  .home-text18 {
+  .home-text020 {
     align-self: center;
     text-align: left;
   }
@@ -1505,27 +2586,33 @@ export default {
   .home-pricing-card-container4 {
     justify-content: center;
   }
+  .home-pricing-card-container5 {
+    justify-content: center;
+  }
+  .home-pricing-card-container6 {
+    justify-content: center;
+  }
   .home-badges {
     width: 98%;
   }
-  .home-text48 {
+  .home-text258 {
     align-self: center;
     text-align: left;
   }
-  .home-text49 {
+  .home-text259 {
     align-self: center;
     text-align: left;
   }
-  .home-text51 {
+  .home-text261 {
     text-align: center;
   }
-  .home-text53 {
+  .home-text263 {
     text-align: center;
   }
-  .home-text55 {
+  .home-text265 {
     text-align: center;
   }
-  .home-text59 {
+  .home-text269 {
     text-align: center;
   }
 }
@@ -1558,15 +2645,15 @@ export default {
     align-items: center;
     flex-direction: column;
   }
-  .home-card5 {
+  .home-card07 {
     width: 70%;
     margin-bottom: var(--dl-space-space-tripleunit);
   }
-  .home-card6 {
+  .home-card08 {
     width: 70%;
     margin-bottom: var(--dl-space-space-tripleunit);
   }
-  .home-card7 {
+  .home-card09 {
     width: 70%;
     margin-bottom: var(--dl-space-space-tripleunit);
   }
@@ -1575,19 +2662,19 @@ export default {
     padding-right: 32px;
     grid-template-columns: 1fr 1fr;
   }
-  .home-text52 {
+  .home-text262 {
     text-align: center;
   }
-  .home-text54 {
+  .home-text264 {
     text-align: center;
   }
-  .home-text56 {
+  .home-text266 {
     text-align: center;
   }
-  .home-text57 {
+  .home-text267 {
     text-align: center;
   }
-  .home-text60 {
+  .home-text270 {
     text-align: center;
   }
 }
@@ -1621,6 +2708,10 @@ export default {
     width: 136px;
     height: 133px;
   }
+  .home-text022 {
+    margin-left: var(--dl-space-space-doubleunit);
+    margin-right: var(--dl-space-space-doubleunit);
+  }
   .home-price01 {
     margin-left: 40%;
   }
@@ -1636,13 +2727,22 @@ export default {
   .home-price09 {
     margin-left: 40%;
   }
-  .home-card5 {
+  .home-price11 {
+    margin-left: 40%;
+  }
+  .home-price13 {
+    margin-left: 40%;
+  }
+  .home-cards-container {
+    height: auto;
+  }
+  .home-card07 {
     width: 100%;
   }
-  .home-card6 {
+  .home-card08 {
     width: 100%;
   }
-  .home-card7 {
+  .home-card09 {
     width: 100%;
   }
   .home-stats {
@@ -1655,16 +2755,17 @@ export default {
   .home-footer {
     width: 97%;
   }
-  .home-container15 {
+  .home-container12 {
     margin-top: 24px;
     align-items: flex-start;
     margin-bottom: 0px;
   }
-  .home-text61 {
+  .home-text271 {
     margin-left: 7%;
     margin-right: 2%;
   }
-  .home-container16 {
+  .home-container13 {
+    width: 55%;
     margin-top: 2%;
     align-items: flex-start;
     margin-bottom: 0px;
@@ -1674,8 +2775,8 @@ export default {
     align-items: flex-start;
     margin-bottom: var(--dl-space-space-unit);
   }
-  .home-text67 {
-    width: 50%;
+  .home-text277 {
+    width: 100%;
   }
 }
 </style>
