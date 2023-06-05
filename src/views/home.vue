@@ -86,7 +86,7 @@
             ever-changing threat landscape using the latest tools and
             technologies. As a Cyber Security Specialist, it&apos;s also my
             passion to continue growing and to keep the work fun.
-            <span v-html="rawrqud"></span>
+            <span v-html="rawpo21"></span>
           </span>
         </span>
         <div class="home-cta-btn-container">
@@ -290,7 +290,7 @@
               <span>
                 Developed security products and services driving an increase from
                 $10 to $28 per user per month.
-                <span v-html="rawwsnj"></span>
+                <span v-html="rawqbf0"></span>
               </span>
               <br />
               <span>
@@ -593,7 +593,7 @@
               <br class="home-text145" />
               <span class="home-text146">
                 Worked under a CISSP certified security minded mentor.
-                <span v-html="raw0blc"></span>
+                <span v-html="rawtt5o"></span>
               </span>
               <br class="home-text147" />
               <span class="home-text148">
@@ -746,7 +746,7 @@
               </span>
               <br />
               <br />
-              <span><span v-html="raw4924"></span></span>
+              <span><span v-html="rawh0jl"></span></span>
               <span class="home-text201">
                 Website Hosting Migrations and Administration,
               </span>
@@ -804,7 +804,7 @@
               <span>
                 Migrated several schools from Exchange and SMB File Shares into
                 Office 365 and SharePoint.
-                <span v-html="raw5csq"></span>
+                <span v-html="rawo7xr"></span>
               </span>
               <br class="home-text220" />
               <br />
@@ -972,7 +972,7 @@
           <div class="home-contact">
             <span class="home-text272">
               <span class="home-text273">Email:</span>
-              <span><span v-html="rawfuw6"></span></span>
+              <span><span v-html="rawasua"></span></span>
               <a href="mailto:Joshbarr52@gmail.com?subject=Nice to e-meet you :)">
                 Joshbarr52@gmail.com
               </a>
@@ -1020,12 +1020,12 @@ export default {
   },
   data() {
     return {
-      rawrqud: ' ',
-      rawwsnj: ' ',
-      raw0blc: ' ',
-      raw4924: ' ',
-      raw5csq: ' ',
-      rawfuw6: ' ',
+      rawpo21: ' ',
+      rawqbf0: ' ',
+      rawtt5o: ' ',
+      rawh0jl: ' ',
+      rawo7xr: ' ',
+      rawasua: ' ',
     }
   },
   metaInfo: {
@@ -2618,6 +2618,10 @@ export default {
   .home-gallery {
     padding-left: 32px;
     padding-right: 32px;
+  }
+  .home-text022 {
+    margin-left: var(--dl-space-space-tripleunit);
+    margin-right: var(--dl-space-space-tripleunit);
   }
   .home-cards-container {
     align-items: center;
