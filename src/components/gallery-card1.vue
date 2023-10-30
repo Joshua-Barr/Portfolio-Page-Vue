@@ -1,6 +1,6 @@
 <template>
   <div class="gallery-card1-gallery-card" v-bind:class="rootClassName">
-    <img :alt="image_alt" :src="image_src" class="gallery-card1-image" />
+    <img :alt="imageAlt" :src="imageSrc" class="gallery-card1-image" />
     <h2 class="gallery-card1-text">{{ title }}</h2>
     <span class="gallery-card1-text1">{{ subtitle }}</span>
   </div>
@@ -10,12 +10,12 @@
 export default {
   name: 'GalleryCard1',
   props: {
-    image_alt: {
+    imageAlt: {
       type: String,
       default: 'image',
     },
     rootClassName: String,
-    image_src: {
+    imageSrc: {
       type: String,
       default:
         'https://images.unsplash.com/photo-1418065460487-3e41a6c84dc5?ixid=Mnw5MTMyMXwwfDF8c2VhcmNofDEyfHxmb3Jlc3R8ZW58MHx8fHwxNjI2MjUxMjg4&ixlib=rb-1.2.1&w=1500',

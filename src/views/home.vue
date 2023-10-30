@@ -86,7 +86,7 @@
             ever-changing threat landscape using the latest tools and
             technologies. As a Cyber Security Specialist, it&apos;s also my
             passion to continue growing and to keep the work fun.
-            <span v-html="rawsaku"></span>
+            <span v-html="rawc0us"></span>
           </span>
         </span>
         <div class="home-cta-btn-container">
@@ -114,7 +114,7 @@
           <gallery-card1
             title="Arbitrage (Vue JS)"
             subtitle="A Vue web application coded in Javascript that can be staticly hosted and runs fully client-side for odds calculations. Data is pulled live from the Odds-API https://the-odds-api.com/."
-            image_src="/screenshot%202023-06-03%20125652-1500h.png"
+            imageSrc="/screenshot%202023-06-03%20125652-1500h.png"
             rootClassName="rootClassName"
             class="home-component"
           ></gallery-card1>
@@ -127,7 +127,7 @@
           <gallery-card1
             title="VI App (React JS, Python)"
             subtitle="A React Web App with a custom Express.js API backend and a Python Web Scraper to pull live data from Yahoo Finance's website. The goal is to calculate fair price of businesses based on fundamentals."
-            image_src="/screenshot%202023-06-03%20135152-1500h.png"
+            imageSrc="/screenshot%202023-06-03%20135152-1500h.png"
             rootClassName="rootClassName1"
             class="home-component1"
           ></gallery-card1>
@@ -140,7 +140,7 @@
           <gallery-card1
             title="Optical Coherence Tomography Research"
             subtitle="Helped in development of an inexpensive interferometer that measured sample thickness in the micron to mm range.  Used to verify its use for retina scanning."
-            image_src="/screenshot%202023-06-03%20134934-1500h.png"
+            imageSrc="/screenshot%202023-06-03%20134934-1500h.png"
             rootClassName="rootClassName2"
             class="home-component2"
           ></gallery-card1>
@@ -153,7 +153,7 @@
           <gallery-card1
             title="Vulnerability Research"
             subtitle="Independently Verified and performed write-up on https://www.exploit-db.com/exploits/42331. I was able to confirm the exploits as listed do exist on two variants of the camera's firmware. I was able to use an inbuilt web form to upload a web shell, browse files, enable ssh and gain root access."
-            image_src="/screenshot%202023-06-03%20131759-1500h.png"
+            imageSrc="/screenshot%202023-06-03%20131759-1500h.png"
             rootClassName="rootClassName3"
             class="home-component3"
           ></gallery-card1>
@@ -166,7 +166,7 @@
           <gallery-card1
             title="Mongo and Selenium (C#, Firewall Patching)"
             subtitle="Using the power of Selenium to automate browser activities such as form filling, clicks and navigation. Used for automating data pull from multiple Sonicwalls at once and update a MongoDB with Firewall Information. Also used in production to patch Firewalls firmware on multiple simultaneously."
-            image_src="/screenshot%202023-06-03%20131431-1500h.png"
+            imageSrc="/screenshot%202023-06-03%20131431-1500h.png"
             rootClassName="rootClassName4"
             class="home-component4"
           ></gallery-card1>
@@ -179,7 +179,7 @@
           <gallery-card1
             title="Local Only Home Automation"
             subtitle="Goal: To automate all the things...        We are talking Sprinklers, Door Locks, Lights, TV's, Routers, Switches, Smart Speakers you name it.               How: via Home Assistant, All local, all VLAN'ed and firewalled with no external connections. This is a growing and ongoing project with much help from ESP32's."
-            image_src="/logo-white.svg"
+            imageSrc="/logo-white.svg"
             rootClassName="rootClassName5"
             class="home-component5"
           ></gallery-card1>
@@ -290,7 +290,7 @@
               <span>
                 Developed security products and services driving an increase from
                 $10 to $28 per user per month.
-                <span v-html="rawfc44"></span>
+                <span v-html="rawangl"></span>
               </span>
               <br />
               <span>
@@ -593,7 +593,7 @@
               <br class="home-text145" />
               <span class="home-text146">
                 Worked under a CISSP certified security minded mentor.
-                <span v-html="rawk1es"></span>
+                <span v-html="rawfye2"></span>
               </span>
               <br class="home-text147" />
               <span class="home-text148">
@@ -715,7 +715,7 @@
               <span class="home-text188">Key Projects:</span>
               <br class="home-text189" />
               <span class="home-text190">
-                Mining Company - New Servers and Equipment,
+                Mining Company - New Servers and Equipment
               </span>
               <br />
               <span class="home-text192">
@@ -730,7 +730,7 @@
               <br />
               <br />
               <span class="home-text195">
-                Mining Company - Karratha Remote Office Buildout,
+                Mining Company - Karratha Remote Office Buildout
               </span>
               <br />
               <span class="home-text197">
@@ -746,21 +746,21 @@
               </span>
               <br />
               <br />
-              <span><span v-html="rawj8rf"></span></span>
+              <span><span v-html="rawdleu"></span></span>
               <span class="home-text201">
-                Website Hosting Migrations and Administration,
+                Website Hosting Migrations and Administration
               </span>
               <br />
               <span class="home-text203">
                 I oversaw the transfer of websites from one hosting environment to
                 another. This involved migrating website files, databases, and
-                configurations to a new server or hosting provider for hundreds of
+                configurations to a new server or hosting provider for many
                 websites. I would ensure that the new environment is properly set
                 up, including configuring web servers, databases, DNS settings,
-                and SSL certificates. Lots on time spent fixing PHP package
-                dependencies and resolving issues in phpmyAdmin. This further
-                included the management and ongoing maintenance of the hosting
-                infrastructure over most of my time spent at ActivIT.
+                and SSL certificates. Time was spent fixing PHP package
+                dependencies and resolving issues in phpmyAdmin with the CMS and
+                the related DBs. This further included the management and ongoing
+                maintenance of the hosting infrastructure.
               </span>
             </span>
           </div>
@@ -793,7 +793,7 @@
               <br />
               <span>
                 Built server infrastructure, including Domain Controllers, SQL,
-                Exchange and remote desktop gateways.
+                Exchange and Remote Desktop Gateways.
               </span>
               <br />
               <span>
@@ -802,9 +802,9 @@
               </span>
               <br />
               <span>
-                Migrated several schools from Exchange and SMB File Shares into
-                Office 365 and SharePoint.
-                <span v-html="rawrxy9"></span>
+                Migrated several schools from Exchange and File Shares into Office
+                365 and SharePoint.
+                <span v-html="raw9aqk"></span>
               </span>
               <br class="home-text220" />
               <br />
@@ -812,57 +812,49 @@
             <span class="home-text222">
               <span class="home-text223">Key Projects:</span>
               <br class="home-text224" />
-              <span class="home-text225">Unifi and Ruckus Deployments,</span>
+              <span class="home-text225">
+                Unifi and Ruckus Wireless Deployments
+              </span>
               <br />
               <span class="home-text227">
-                As a technician for West Coast ICT, I would be responsible for
-                deploying Unifi networking equipment in various schools. This
-                would involve surveying the school premises to determine optimal
+                I was responsible for deploying Unifi and Ruckus enterprise
+                wireless networking equipment in various schools. This would
+                involve surveying the school premises to determine optimal
                 placement of access points, switches, and other network
-                components. I would install and configure the Unifi devices,
-                ensuring seamless wireless connectivity and reliable network
-                performance throughout the school. Additionally, I would implement
-                security measures and perform testing to ensure the network meets
-                the school&apos;s requirements.
+                components. Installing and configuring the Unifi and Ruckus
+                devices, ensuring seamless wireless connectivity and reliable
+                network performance throughout the school. Additionally,
+                Implemetation of RADIUS authentication and performing testing to
+                ensure the network meets the school&apos;s requirements.
               </span>
               <br class="home-text228" />
               <br />
               <span class="home-text230">
-                Computer Lab Imaging Symantec Ghost,
+                Computer Lab Imaging Symantec Ghost
               </span>
               <br class="home-text231" />
               <span class="home-text232">
-                I utilized Symantec Ghost to create standardized computer system
-                images for school computer labs. As a technician, I configured one
-                PC with the desired operating system, applications, and local
-                policy settings. Then, using imaging software, I would capture
-                this image and deploy it to multiple computers simultaneously.
-                This process enabled rapid deployment of identical software
-                configurations, saving time and ensuring consistency across the
-                deployed PCs.
+                Utilized Symantec Ghost to create and deploy standardized computer
+                system images. This involved building and capturing an image and
+                deploying it to multiple computers simultaneously. This process
+                enabled rapid deployment of identical software configurations for
+                computer labs and classrooms, saving time and ensuring
+                consistency.
               </span>
               <br class="home-text233" />
               <br />
-              <span class="home-text235">
-                Migration to Office 365 for multiple schools,
-              </span>
+              <span class="home-text235">Migrations to Office 365</span>
               <br class="home-text236" />
               <span class="home-text237">
-                As a technician, my responsibility was be to migrate the email
-                infrastructure of multiple schools from an on-premises Microsoft
-                Exchange servers to Office 365. This migration process involved
-                careful planning and execution to ensure a seamless transition. I
-                assessed the existing Exchange environment, including mailboxes,
-                distribution lists, and public folders, and plan the migration
-                strategy accordingly. The migrations included setting up the
-                Office 365 environment, configuring the necessary DNS records, and
-                establishing the necessary connectivity between the schools&apos;
-                on-premises infrastructure and Office 365 for a hybrid migration
-                approach, where mailboxes are gradually moved to Office 365 while
-                ensuring continuous email flow and minimal disruption to users.
-                During the migration, I ensured that mailbox data, including
-                emails, calendars, contacts, and tasks, is accurately transferred
-                to the new Office 365 environment.
+                As a technician, I migrated the email infrastructure of multiple
+                schools from on-premises Microsoft Exchange servers into Office
+                365. This included mailboxes, distribution lists, security groups,
+                delegations and public folders. The migrations included setting up
+                the Office 365 environment, configuring DNS records, and
+                establishing connectivity between the schools&apos; on-premises
+                infrastructure and Office 365 for a hybrid migration, and staging
+                mailboxes moved to Office 365 while ensuring continuous email flow
+                and minimal disruption to end-users.
               </span>
               <br class="home-text238" />
             </span>
@@ -972,7 +964,7 @@
           <div class="home-contact">
             <span class="home-text272">
               <span class="home-text273">Email:</span>
-              <span><span v-html="raw5r31"></span></span>
+              <span><span v-html="raw1b3t"></span></span>
               <a href="mailto:Joshbarr52@gmail.com?subject=Nice to e-meet you :)">
                 Joshbarr52@gmail.com
               </a>
@@ -1015,17 +1007,18 @@ import GalleryCard1 from '../components/gallery-card1'
 
 export default {
   name: 'Home',
+  props: {},
   components: {
     GalleryCard1,
   },
   data() {
     return {
-      rawsaku: ' ',
-      rawfc44: ' ',
-      rawk1es: ' ',
-      rawj8rf: ' ',
-      rawrxy9: ' ',
-      raw5r31: ' ',
+      rawc0us: ' ',
+      rawangl: ' ',
+      rawfye2: ' ',
+      rawdleu: ' ',
+      raw9aqk: ' ',
+      raw1b3t: ' ',
     }
   },
   metaInfo: {
