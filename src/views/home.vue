@@ -86,7 +86,7 @@
             ever-changing threat landscape using the latest tools and
             technologies. As a Cyber Security Specialist, it&apos;s also my
             passion to continue growing and to keep the work fun.
-            <span v-html="rawc0us"></span>
+            <span v-html="raw6we2"></span>
           </span>
         </span>
         <div class="home-cta-btn-container">
@@ -290,7 +290,7 @@
               <span>
                 Developed security products and services driving an increase from
                 $10 to $28 per user per month.
-                <span v-html="rawangl"></span>
+                <span v-html="rawa97z"></span>
               </span>
               <br />
               <span>
@@ -438,7 +438,7 @@
               <span class="home-text099">Key Projects:</span>
               <br />
               <span class="home-text101">
-                Space Launch Provider - NASA Contractor, NIST Compliance,
+                Space Launch Provider - NIST Compliance
               </span>
               <br />
               <span class="home-text103">
@@ -460,7 +460,7 @@
               <br />
               <br />
               <span class="home-text106">
-                Large Private Sector Business - Ransomware,
+                Large Private Sector Business - Ransomware
               </span>
               <br />
               <span class="home-text108">
@@ -536,7 +536,7 @@
               <span class="home-text126">Key Projects:</span>
               <br />
               <span class="home-text128">
-                Risk Management Process and Implemented Controls,
+                Risk Management Process and Implemented Controls
               </span>
               <br />
               <span class="home-text130">
@@ -550,7 +550,7 @@
               </span>
               <br class="home-text131" />
               <br />
-              <span class="home-text133">New Mine Site Project Scoping,</span>
+              <span class="home-text133">New Mine Site Project Scoping</span>
               <br />
               <span class="home-text135">
                 Defined the scope and requirements for implementing server and
@@ -593,7 +593,7 @@
               <br class="home-text145" />
               <span class="home-text146">
                 Worked under a CISSP certified security minded mentor.
-                <span v-html="rawfye2"></span>
+                <span v-html="rawki5n"></span>
               </span>
               <br class="home-text147" />
               <span class="home-text148">
@@ -617,7 +617,7 @@
             <span class="home-text155">
               <span class="home-text156">Key Projects:</span>
               <br />
-              <span class="home-text158">Retailer Broome Network,</span>
+              <span class="home-text158">Large Retailer Broome Network</span>
               <br />
               <span class="home-text160">
                 As a technician, I would be responsible for setting up a
@@ -634,7 +634,7 @@
               <br class="home-text161" />
               <br />
               <span class="home-text163">
-                New Mine Site (300 Cambium AP&apos;s and Networking Equipment),
+                New Mine Site (AP&apos;s and Networking Equipment)
               </span>
               <br />
               <span class="home-text165">
@@ -653,7 +653,7 @@
               <br class="home-text166" />
               <br />
               <span class="home-text168">
-                Mining Contractor - Intune, Policies, and MDM,
+                Mining Contractor - Intune, Policies, and MDM
               </span>
               <br />
               <span class="home-text170">
@@ -746,7 +746,7 @@
               </span>
               <br />
               <br />
-              <span><span v-html="rawdleu"></span></span>
+              <span><span v-html="rawpltl"></span></span>
               <span class="home-text201">
                 Website Hosting Migrations and Administration
               </span>
@@ -804,7 +804,7 @@
               <span>
                 Migrated several schools from Exchange and File Shares into Office
                 365 and SharePoint.
-                <span v-html="raw9aqk"></span>
+                <span v-html="raw8lum"></span>
               </span>
               <br class="home-text220" />
               <br />
@@ -964,7 +964,7 @@
           <div class="home-contact">
             <span class="home-text272">
               <span class="home-text273">Email:</span>
-              <span><span v-html="raw1b3t"></span></span>
+              <span><span v-html="rawpqfw"></span></span>
               <a href="mailto:Joshbarr52@gmail.com?subject=Nice to e-meet you :)">
                 Joshbarr52@gmail.com
               </a>
@@ -1013,12 +1013,12 @@ export default {
   },
   data() {
     return {
-      rawc0us: ' ',
-      rawangl: ' ',
-      rawfye2: ' ',
-      rawdleu: ' ',
-      raw9aqk: ' ',
-      raw1b3t: ' ',
+      raw6we2: ' ',
+      rawa97z: ' ',
+      rawki5n: ' ',
+      rawpltl: ' ',
+      raw8lum: ' ',
+      rawpqfw: ' ',
     }
   },
   metaInfo: {
